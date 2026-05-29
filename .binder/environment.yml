@@ -1,37 +1,16 @@
 name: eelisa-workshop
-
 channels:
   - conda-forge
-  - defaults
-
 dependencies:
   - python=3.11
-  - notebook
   - jupyterlab
+  - notebook
   - ipykernel
+  - ipython
   - ipywidgets
-
-  - pandas
-  - numpy
+  - jupyterlab_widgets
   - lxml
-  - matplotlib
-  - networkx
-  - beautifulsoup4
-
-  - r-base=4.3
-  - r-irkernel
-  - r-tidyverse
-  - r-xml2
-  - r-stringr
-  - r-readr
-  - r-dplyr
-  - r-tidyr
-  - r-purrr
-  - r-igraph
-  - r-ape
-  - r-phangorn
-  - r-remotes
-
+  - python-levenshtein
   - pip
   - pip:
-      - collatex
+      - collatex==2.3
