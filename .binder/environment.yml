@@ -1,0 +1,29 @@
+name: eelisa-workshop
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.11
+  - notebook
+  - jupyterlab
+
+  - pandas
+  - numpy
+  - lxml
+  - matplotlib
+  - networkx
+
+  - r-base=4.3
+  - r-irkernel
+  - r-tidyverse
+  - r-xml2
+  - r-stringr
+  - r-readr
+  - r-dplyr
+  - r-tidyr
+  - r-igraph
+  - r-ape
+  - r-phangorn
+
+  - pip
