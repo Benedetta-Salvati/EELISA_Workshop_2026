@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="poggio1_B">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>poggio1 witness B</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>For teaching/demo purposes.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Derived from provided plain-text witness.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Bonacius, adolescens facetus ex familia Guasconum, dum essemus Constantie, admodum tarde surgebat a lecto. Cum socii eam tarditatem culparent, quidne tamdiu in lecto ageret, percuntarentur, subridens respondit : « Litigantes disceptantesque ausculto. Adsunt enim mane &lt;mihi&gt; e vestigio cum expergiscor due habitu muliebri, Sollicitudo videlicet et Pigritia, quarum altera surgere hortatur et aliquid operis agere, neque diem in lecto terrere, altera priorem increpans, quiescendum asserit, et propter frigoris vim in calore lecti permanere, indulgendum corporis quieti, neque semper laboribus vacandum. Prior insuper rationes suas tuetur. Ita, cum diutius disputent atque altercentur, ego, tanquam equus iudex, nullam in partem declinans, audio disputantes, exspectans quoad sint sententia concordes. Hoc fit ut surgam tardius, exspectans litigii finem. »</p>
+    </body>
+  </text>
+</TEI>

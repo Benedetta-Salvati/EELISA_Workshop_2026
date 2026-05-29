@@ -1,0 +1,3054 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+
+  </teiHeader>
+  <text xml:lang="fr">
+    <body xml:lang="fro">
+      <ab>
+        <l>
+          <w xml:id="t1" n="1" lemma="[" pos="PONfbl">[</w>
+          <w xml:id="t2" n="2" lemma="arbre" pos="NOMcom">54b</w>
+          <w xml:id="t3" n="3" lemma="]" pos="PONfbl">]</w>
+          <w xml:id="t4" n="4" lemma="cel" pos="PROdem">Cil</w>
+          <w xml:id="t5" n="5" lemma="qui" pos="PROrel">qui</w>
+          <w xml:id="t6" n="6" lemma="faire" pos="VERcjg">fist</w>
+          <w xml:id="t7" n="7" lemma="de" pos="PRE">d'</w>
+          <w xml:id="t9" n="9" lemma="Erec" pos="NOMpro">Erec</w>
+          <w xml:id="t10" n="10" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t11" n="11" lemma="de" pos="PRE">d'</w>
+          <w xml:id="t13" n="13" lemma="Enide" pos="NOMpro">Enide</w>
+        </l>
+        <l>
+          <w xml:id="t15" n="15" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t16" n="16" lemma="le" pos="DETdef">les</w>
+          <w xml:id="t17" n="17" lemma="comandement" pos="NOMcom">comandemenz</w>
+          <w xml:id="t18" n="18" lemma="de" pos="PRE">d'</w>
+          <w xml:id="t20" n="20" lemma="Ovide" pos="NOMpro">Ovide</w>
+        </l>
+        <l>
+          <w xml:id="t22" n="22" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t23" n="23" lemma="le" pos="DETdef">l'</w>
+          <w xml:id="t25" n="25" lemma="art" pos="NOMcom">Art</w>
+          <w xml:id="t26" n="26" lemma="de" pos="PRE">d'</w>
+          <w xml:id="t28" n="28" lemma="amor" pos="NOMpro">Amors</w>
+          <w xml:id="t29" n="29" lemma="en1" pos="PRE">an</w>
+          <w xml:id="t30" n="30" lemma="romanz" pos="NOMcom">romans</w>
+          <w xml:id="t31" n="31" lemma="metre2" pos="VERcjg">mist</w>
+        </l>
+        <l>
+          <w xml:id="t33" n="33" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t34" n="34" lemma="le" pos="DETdef">le</w>
+          <w xml:id="t35" n="35" lemma="morir" pos="VERppe">mors</w>
+          <w xml:id="t36" n="36" lemma="de" pos="PRE">de</w>
+          <w xml:id="t37" n="37" lemma="le" pos="DETdef">l'</w>
+          <w xml:id="t39" n="39" lemma="espaule" pos="NOMcom">espaule</w>
+          <w xml:id="t40" n="40" lemma="faire" pos="VERcjg">fist</w>
+        </l>
+        <l>
+          <w xml:id="t42" n="42" lemma="de+le" pos="PRE.DETdef">Del</w>
+          <w xml:id="t43" n="43" lemma="roi2" pos="NOMcom">roi</w>
+          <w xml:id="t44" n="44" lemma="Marc" pos="NOMpro">Marc</w>
+          <w xml:id="t45" n="45" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t46" n="46" lemma="de" pos="PRE">d'</w>
+          <w xml:id="t48" n="48" lemma="Yseult" pos="NOMpro">Ysalt</w>
+          <w xml:id="t49" n="49" lemma="le" pos="DETdef">la</w>
+          <w xml:id="t50" n="50" lemma="blont" pos="ADJqua">Blonde</w>
+        </l>
+        <l>
+          <w xml:id="t52" n="52" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t53" n="53" lemma="de" pos="PRE">de</w>
+          <w xml:id="t54" n="54" lemma="le" pos="DETdef">la</w>
+          <w xml:id="t55" n="55" lemma="ome" pos="NOMcom">hupe</w>
+          <w xml:id="t56" n="56" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t57" n="57" lemma="de" pos="PRE">de</w>
+          <w xml:id="t58" n="58" lemma="il" pos="DETdef">l'</w>
+          <w xml:id="t60" n="60" lemma="aronde" pos="NOMcom">aronde</w>
+        </l>
+        <l>
+          <w xml:id="t62" n="62" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t63" n="63" lemma="de+le" pos="PRE.DETdef">del</w>
+          <w xml:id="t64" n="64" lemma="rosseignol" pos="NOMcom">rossignol</w>
+          <w xml:id="t65" n="65" lemma="le" pos="DETdef">la</w>
+          <w xml:id="t66" n="66" lemma="müance" pos="NOMcom">muance</w>
+        </l>
+        <l>
+          <w xml:id="t68" n="68" lemma="." pos="PONfrt">.</w>
+          <w xml:id="t69" n="69" lemma="je" pos="PROper">j</w>
+          <w xml:id="t70" n="70" lemma="." pos="PONfrt">.</w>
+          <w xml:id="t71" n="71" lemma="novel" pos="ADJqua">novel</w>
+          <w xml:id="t72" n="72" lemma="conte1" pos="NOMcom">conte</w>
+          <w xml:id="t73" n="73" lemma="recomencier" pos="NOMcom">rancomance</w>
+        </l>
+        <l>
+          <w xml:id="t75" n="75" lemma="de" pos="PRE">D'</w>
+          <w xml:id="t77" n="77" lemma="un" pos="DETndf">un</w>
+          <w xml:id="t78" n="78" lemma="vaslet" pos="NOMcom">vaslet</w>
+          <w xml:id="t79" n="79" lemma="qui" pos="PROrel">qui</w>
+          <w xml:id="t80" n="80" lemma="en1" pos="PRE">an</w>
+          <w xml:id="t81" n="81" lemma="Grece" pos="NOMpro">Grece</w>
+          <w xml:id="t82" n="82" lemma="estre1" pos="VERcjg">fu</w>
+        </l>
+        <l>
+          <w xml:id="t84" n="84" lemma="de+le" pos="PRE.DETdef">Del</w>
+          <w xml:id="t85" n="85" lemma="lignage" pos="NOMcom">linage</w>
+          <w xml:id="t86" n="86" lemma="le" pos="DETdef">le</w>
+          <w xml:id="t87" n="87" lemma="roi2" pos="NOMcom">roi</w>
+          <w xml:id="t88" n="88" lemma="Artu" pos="NOMpro">Artu</w>
+        </l>
+        <l>
+          <w xml:id="t90" n="90" lemma="Mès" pos="CONcoo">Mes</w>
+          <w xml:id="t91" n="91" lemma="ainz" pos="ADVgen">ainz</w>
+          <w xml:id="t92" n="92" lemma="que4" pos="CONsub">que</w>
+          <w xml:id="t93" n="93" lemma="de" pos="PRE">de</w>
+          <w xml:id="t94" n="94" lemma="il" pos="PROper">lui</w>
+          <w xml:id="t95" n="95" lemma="rien" pos="PROind">rien</w>
+          <w xml:id="t96" n="96" lemma="vos" pos="PROper">vos</w>
+          <w xml:id="t97" n="97" lemma="dire" pos="VERcjg">die</w>
+        </l>
+        <l>
+          <w xml:id="t99" n="99" lemma="öir" pos="VERcjg">Orroiz</w>
+          <w xml:id="t100" n="100" lemma="de" pos="PRE">de</w>
+          <w xml:id="t101" n="101" lemma="son4" pos="DETpos">son</w>
+          <w xml:id="t102" n="102" lemma="pere" pos="NOMcom">père</w>
+          <w xml:id="t103" n="103" lemma="le" pos="DETdef">la</w>
+          <w xml:id="t104" n="104" lemma="vie1" pos="NOMcom">vie</w>
+        </l>
+        <l>
+          <w xml:id="t106" n="106" lemma="dont" pos="PROrel">Dom</w>
+          <w xml:id="t107" n="107" lemma="il" pos="PROper">il</w>
+          <w xml:id="t108" n="108" lemma="estre1" pos="VERcjg">fu</w>
+          <w xml:id="t109" n="109" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t110" n="110" lemma="de" pos="PRE">de</w>
+          <w xml:id="t111" n="111" lemma="quel1" pos="DETint">quel</w>
+          <w xml:id="t112" n="112" lemma="lignage" pos="NOMcom">linage</w>
+        </l>
+        <l>
+          <w xml:id="t114" n="114" lemma="tant" pos="ADVgen">Tant</w>
+          <w xml:id="t115" n="115" lemma="estre1" pos="VERcjg">fu</w>
+          <w xml:id="t116" n="116" lemma="pro" pos="ADJqua">preuz</w>
+          <w xml:id="t117" n="117" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t118" n="118" lemma="de" pos="PRE">de</w>
+          <w xml:id="t119" n="119" lemma="fier" pos="ADJqua">fier</w>
+          <w xml:id="t120" n="120" lemma="corage" pos="NOMcom">corage</w>
+        </l>
+        <l>
+          <w xml:id="t122" n="122" lemma="que4" pos="CONsub">Que</w>
+          <w xml:id="t123" n="123" lemma="por2" pos="PRE">por</w>
+          <w xml:id="t124" n="124" lemma="pris1" pos="NOMcom">pris</w>
+          <w xml:id="t125" n="125" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t126" n="126" lemma="por2" pos="PRE">por</w>
+          <w xml:id="t127" n="127" lemma="los1" pos="NOMcom">los</w>
+          <w xml:id="t128" n="128" lemma="conquerre" pos="VERinf">conquerre</w>
+        </l>
+        <l>
+          <w xml:id="t130" n="130" lemma="aler" pos="NOMpro">Ala</w>
+          <w xml:id="t131" n="131" lemma="de" pos="PRE">de</w>
+          <w xml:id="t132" n="132" lemma="Grece" pos="NOMpro">Grece</w>
+          <w xml:id="t133" n="133" lemma="en1" pos="PRE">an</w>
+          <w xml:id="t134" n="134" lemma="Engleterre" pos="NOMcom">engleterre</w>
+        </l>
+        <l>
+          <w xml:id="t136" n="136" lemma="qui" pos="PROrel">Qui</w>
+          <w xml:id="t137" n="137" lemma="lors" pos="ADVgen">lors</w>
+          <w xml:id="t138" n="138" lemma="estre1" pos="VERcjg">estoit</w>
+          <w xml:id="t139" n="139" lemma="Bretaigne" pos="NOMpro">Bretaigne</w>
+          <w xml:id="t140" n="140" lemma="dire" pos="VERppe">dite</w>
+        </l>
+        <l>
+          <w xml:id="t142" n="142" lemma="cest" pos="DETdem">Ceste</w>
+          <w xml:id="t143" n="143" lemma="estoire1" pos="NOMcom">estoire</w>
+          <w xml:id="t144" n="144" lemma="trover" pos="VERppe">trovons</w>
+          <w xml:id="t145" n="145" lemma="escrire" pos="VERppe">escrite</w>
+        </l>
+        <l>
+          <w xml:id="t147" n="147" lemma="que4" pos="CONsub">Que</w>
+          <w xml:id="t148" n="148" lemma="conter" pos="VERinf">conter</w>
+          <w xml:id="t149" n="149" lemma="vos" pos="PROper">vos</w>
+          <w xml:id="t150" n="150" lemma="voloir" pos="VERcjg">vuel</w>
+          <w xml:id="t151" n="151" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t152" n="152" lemma="retraire" pos="VERinf">retraire</w>
+        </l>
+        <l>
+          <w xml:id="t154" n="154" lemma="en1" pos="PRE">En</w>
+          <w xml:id="t155" n="155" lemma="." pos="PONfrt">.</w>
+          <w xml:id="t156" n="156" lemma="je" pos="PROper">j</w>
+          <w xml:id="t157" n="157" lemma="." pos="PONfrt">.</w>
+          <w xml:id="t158" n="158" lemma="de+le" pos="PRE.DETdef">des</w>
+          <w xml:id="t159" n="159" lemma="livre3" pos="NOMcom">livres</w>
+          <w xml:id="t160" n="160" lemma="de" pos="PRE">de</w>
+          <w xml:id="t161" n="161" lemma="le" pos="DETdef">l'</w>
+          <w xml:id="t163" n="163" lemma="armaire" pos="NOMcom">aumaire</w>
+        </l>
+        <l>
+          <w xml:id="t165" n="165" lemma="mon1" pos="DETpos">Mon</w>
+          <w xml:id="t166" n="166" lemma="seignor" pos="NOMcom">seignor</w>
+          <w xml:id="t167" n="167" lemma="saint" pos="ADJqua">Saint</w>
+          <w xml:id="t168" n="168" lemma="Pierre" pos="NOMpro">Pere</w>
+          <w xml:id="t169" n="169" lemma="a3" pos="PRE">a</w>
+          <w xml:id="t170" n="170" lemma="Beauvais" pos="NOMpro">Biauvez</w>
+        </l>
+        <l>
+          <w xml:id="t172" n="172" lemma="de" pos="PRE">De</w>
+          <w xml:id="t173" n="173" lemma="le" pos="ADVgen">la</w>
+          <w xml:id="t174" n="174" lemma="estre1" pos="VERcjg">fu</w>
+          <w xml:id="t175" n="175" lemma="le" pos="DETdef">li</w>
+          <w xml:id="t176" n="176" lemma="conte1" pos="NOMcom">contes</w>
+          <w xml:id="t177" n="177" lemma="estre1" pos="VERppe">estrez</w>
+        </l>
+        <l>
+          <w xml:id="t179" n="179" lemma="qui" pos="PROrel">Qui</w>
+          <w xml:id="t180" n="180" lemma="tesmoignier" pos="VERcjg">tesmoingne</w>
+          <w xml:id="t181" n="181" lemma="le" pos="DETdef">l'</w>
+          <w xml:id="t183" n="183" lemma="estoire1" pos="NOMcom">estoire</w>
+          <w xml:id="t184" n="184" lemma="avoir" pos="PRE">a</w>
+          <w xml:id="t185" n="185" lemma="voir" pos="ADJqua">voire</w>
+        </l>
+        <l>
+          <w xml:id="t187" n="187" lemma="por2" pos="PRE">Por</w>
+          <w xml:id="t188" n="188" lemma="ce1" pos="PROdem">ce</w>
+          <w xml:id="t189" n="189" lemma="faire" pos="VERcjg">fet</w>
+          <w xml:id="t190" n="190" lemma="il" pos="PROper">ele</w>
+          <w xml:id="t191" n="191" lemma="mieus" pos="ADVgen">mialz</w>
+          <w xml:id="t192" n="192" lemma="a3" pos="PRE">a</w>
+          <w xml:id="t193" n="193" lemma="croire" pos="VERinf">croire</w>
+        </l>
+        <l>
+          <w xml:id="t195" n="195" lemma="par" pos="PRE">Par</w>
+          <w xml:id="t196" n="196" lemma="le" pos="DETdef">les</w>
+          <w xml:id="t197" n="197" lemma="livre2" pos="NOMcom">livres</w>
+          <w xml:id="t198" n="198" lemma="que2" pos="PROrel">que</w>
+          <w xml:id="t199" n="199" lemma="nos1" pos="PROper">nos</w>
+          <w xml:id="t200" n="200" lemma="avoir" pos="VERcjg">avons</w>
+        </l>
+        <l>
+          <w xml:id="t202" n="202" lemma="le" pos="DETdef">Les</w>
+          <w xml:id="t203" n="203" lemma="fé" pos="VERppe">fez</w>
+          <w xml:id="t204" n="204" lemma="de+le" pos="PRE.DETdef">des</w>
+          <w xml:id="t205" n="205" lemma="anciien" pos="NOMcom">anciens</w>
+          <w xml:id="t206" n="206" lemma="savoir" pos="VERcjg">savons</w>
+        </l>
+        <l>
+          <w xml:id="t208" n="208" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t209" n="209" lemma="de+le" pos="PRE.DETdef">del</w>
+          <w xml:id="t210" n="210" lemma="siecle" pos="NOMcom">siegle</w>
+          <w xml:id="t211" n="211" lemma="qui" pos="PROrel">qui</w>
+          <w xml:id="t212" n="212" lemma="estre1" pos="VERcjg">fu</w>
+          <w xml:id="t213" n="213" lemma="jadis" pos="ADVgen">jadis</w>
+        </l>
+        <l>
+          <w xml:id="t215" n="215" lemma="ce2" pos="PROdem">Ce</w>
+          <w xml:id="t216" n="216" lemma="nos1" pos="PROper">nos</w>
+          <w xml:id="t217" n="217" lemma="avoir" pos="VERcjg">ont</w>
+          <w xml:id="t218" n="218" lemma="nostre" pos="DETpos">notre</w>
+          <w xml:id="t219" n="219" lemma="livre2" pos="NOMcom">livre</w>
+          <w xml:id="t220" n="220" lemma="aprendre" pos="VERppe">apris</w>
+        </l>
+        <l>
+          <w xml:id="t222" n="222" lemma="que4" pos="CONsub">Qu'</w>
+          <w xml:id="t224" n="224" lemma="en1" pos="PRE">an</w>
+          <w xml:id="t225" n="225" lemma="Grece" pos="NOMpro">Grece</w>
+          <w xml:id="t226" n="226" lemma="avoir" pos="VERcjg">ot</w>
+          <w xml:id="t227" n="227" lemma="de" pos="PRE">de</w>
+          <w xml:id="t228" n="228" lemma="chevalerie" pos="NOMcom">chevalerie</w>
+        </l>
+        <l>
+          <w xml:id="t230" n="230" lemma="le" pos="DETdef">Le</w>
+          <w xml:id="t231" n="231" lemma="premier" pos="ADJord">premier</w>
+          <w xml:id="t232" n="232" lemma="los1" pos="NOMcom">los</w>
+          <w xml:id="t233" n="233" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t234" n="234" lemma="de" pos="PRE">de</w>
+          <w xml:id="t235" n="235" lemma="clergie" pos="NOMcom">clergie</w>
+        </l>
+        <l>
+          <w xml:id="t237" n="237" lemma="puis" pos="ADVgen">Puis</w>
+          <w xml:id="t238" n="238" lemma="venir" pos="VERcjg">vint</w>
+          <w xml:id="t239" n="239" lemma="chevalerie" pos="NOMcom">chevalerie</w>
+          <w xml:id="t240" n="240" lemma="a3" pos="PRE">a</w>
+          <w xml:id="t241" n="241" lemma="Rome" pos="NOMpro">Rome</w>
+        </l>
+        <l>
+          <w xml:id="t243" n="243" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t244" n="244" lemma="de" pos="PRE">de</w>
+          <w xml:id="t245" n="245" lemma="le" pos="DETdef">la</w>
+          <w xml:id="t246" n="246" lemma="clergie" pos="NOMcom">clergie</w>
+          <w xml:id="t247" n="247" lemma="le" pos="DETdef">la</w>
+          <w xml:id="t248" n="248" lemma="some3" pos="NOMcom">some</w>
+        </l>
+        <l>
+          <w xml:id="t250" n="250" lemma="qui" pos="PROrel">Qui</w>
+          <w xml:id="t251" n="251" lemma="or4" pos="ADVgen">or</w>
+          <w xml:id="t252" n="252" lemma="estre1" pos="VERcjg">est</w>
+          <w xml:id="t253" n="253" lemma="en1" pos="PRE">an</w>
+          <w xml:id="t254" n="254" lemma="France" pos="NOMpro">France</w>
+          <w xml:id="t255" n="255" lemma="venir" pos="VERppe">venue</w>
+        </l>
+        <l>
+          <w xml:id="t257" n="257" lemma="dieu" pos="NOMpro">Dex</w>
+          <w xml:id="t258" n="258" lemma="doner" pos="VERcjg">doint</w>
+          <w xml:id="t259" n="259" lemma="que4" pos="CONsub">qu'</w>
+          <w xml:id="t261" n="261" lemma="il" pos="PROper">ele</w>
+          <w xml:id="t262" n="262" lemma="i2" pos="PROadv">i</w>
+          <w xml:id="t263" n="263" lemma="estre1" pos="VERcjg">soit</w>
+          <w xml:id="t264" n="264" lemma="maintenir" pos="VERppe">maintenue</w>
+        </l>
+        <l>
+          <w xml:id="t266" n="266" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t267" n="267" lemma="que4" pos="CONsub">que</w>
+          <w xml:id="t268" n="268" lemma="le" pos="DETdef">li</w>
+          <w xml:id="t269" n="269" lemma="lieu" pos="NOMcom">leus</w>
+          <w xml:id="t270" n="270" lemma="il" pos="PROper">li</w>
+          <w xml:id="t271" n="271" lemma="abaissier" pos="VERcjg">abelisse</w>
+        </l>
+        <l>
+          <w xml:id="t273" n="273" lemma="tant" pos="ADVgen">Tant</w>
+          <w xml:id="t274" n="274" lemma="que4" pos="CONsub">que</w>
+          <w xml:id="t275" n="275" lemma="ja+mais1" pos="ADVgen">james</w>
+          <w xml:id="t276" n="276" lemma="de" pos="PRE">de</w>
+          <w xml:id="t277" n="277" lemma="France" pos="NOMpro">France</w>
+          <w xml:id="t278" n="278" lemma="ne1" pos="ADVneg">n'</w>
+          <w xml:id="t280" n="280" lemma="issir" pos="VERcjg">isse</w>
+        </l>
+        <l>
+          <w xml:id="t282" n="282" lemma="le" pos="DETdef">L'</w>
+          <w xml:id="t284" n="284" lemma="onor" pos="NOMcom">enors</w>
+          <w xml:id="t285" n="285" lemma="qui" pos="PROrel">qui</w>
+          <w xml:id="t286" n="286" lemma="soi1" pos="PROper">s'</w>
+          <w xml:id="t288" n="288" lemma="i2" pos="PROadv">i</w>
+          <w xml:id="t289" n="289" lemma="estre1" pos="VERcjg">est</w>
+          <w xml:id="t290" n="290" lemma="arester" pos="VERppe">arestee</w>
+        </l>
+        <l>
+          <w xml:id="t292" n="292" lemma="dieu" pos="NOMpro">Dex</w>
+          <w xml:id="t293" n="293" lemma="il" pos="PROper">l'</w>
+          <w xml:id="t295" n="295" lemma="avoir" pos="VERcjg">avoit</w>
+          <w xml:id="t296" n="296" lemma="a3+le" pos="PRE.DETdef">as</w>
+          <w xml:id="t297" n="297" lemma="autre" pos="PROind">altres</w>
+          <w xml:id="t298" n="298" lemma="prester" pos="VERppe">prestee</w>
+        </l>
+        <l>
+          <w xml:id="t300" n="300" lemma="car" pos="CONcoo">Car</w>
+          <w xml:id="t301" n="301" lemma="de+le" pos="PRE.DETdef">des</w>
+          <w xml:id="t302" n="302" lemma="Gregois" pos="NOMcom">Grezois</w>
+          <w xml:id="t303" n="303" lemma="ne2" pos="CONcoo">ne</w>
+          <w xml:id="t304" n="304" lemma="de+le" pos="PRE.DETdef">des</w>
+          <w xml:id="t305" n="305" lemma="romain" pos="NOMpro">Romains</w>
+        </l>
+        <l>
+          <w xml:id="t307" n="307" lemma="ne1" pos="ADVneg">Ne</w>
+          <w xml:id="t308" n="308" lemma="dire" pos="VERcjg">dit</w>
+          <w xml:id="t309" n="309" lemma="en1" pos="PRE">an</w>
+          <w xml:id="t310" n="310" lemma="mais1" pos="CONcoo">mes</w>
+          <w xml:id="t311" n="311" lemma="ne2" pos="CONcoo">ne</w>
+          <w xml:id="t312" n="312" lemma="plus" pos="ADVgen">plus</w>
+          <w xml:id="t313" n="313" lemma="ne2" pos="CONcoo">ne</w>
+          <w xml:id="t314" n="314" lemma="moins" pos="ADVgen">mains</w>
+        </l>
+        <l>
+          <w xml:id="t316" n="316" lemma="[" pos="PONfbl">[</w>
+          <w xml:id="t317" n="317" lemma="100" pos="NOMcom">54c</w>
+          <w xml:id="t318" n="318" lemma="]" pos="PONfbl">]</w>
+          <w xml:id="t319" n="319" lemma="de" pos="PRE">D'</w>
+          <w xml:id="t321" n="321" lemma="il" pos="PROper">ax</w>
+          <w xml:id="t322" n="322" lemma="estre1" pos="VERcjg">est</w>
+          <w xml:id="t323" n="323" lemma="le" pos="DETdef">la</w>
+          <w xml:id="t324" n="324" lemma="parole" pos="NOMcom">parole</w>
+          <w xml:id="t325" n="325" lemma="remanoir" pos="VERppe">remese</w>
+        </l>
+        <l>
+          <w xml:id="t327" n="327" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t328" n="328" lemma="estreindre" pos="VERppe">estrainte</w>
+          <w xml:id="t329" n="329" lemma="le" pos="DETdef">la</w>
+          <w xml:id="t330" n="330" lemma="vif" pos="ADJqua">vive</w>
+          <w xml:id="t331" n="331" lemma="brese" pos="VERppe">brese</w>
+        </l>
+        <l>
+          <w xml:id="t333" n="333" lemma="Crestiien" pos="NOMpro">Crestiens</w>
+          <w xml:id="t334" n="334" lemma="comencier" pos="VERcjg">comance</w>
+          <w xml:id="t335" n="335" lemma="son4" pos="DETpos">son</w>
+          <w xml:id="t336" n="336" lemma="conte1" pos="NOMcom">conte</w>
+        </l>
+        <l>
+          <w xml:id="t338" n="338" lemma="si" pos="ADVgen">Si</w>
+          <w xml:id="t339" n="339" lemma="come1" pos="CONsub">com</w>
+          <w xml:id="t340" n="340" lemma="le" pos="DETdef">li</w>
+          <w xml:id="t341" n="341" lemma="livre2" pos="NOMcom">livres</w>
+          <w xml:id="t342" n="342" lemma="nos1" pos="PROper">nos</w>
+          <w xml:id="t343" n="343" lemma="reconter" pos="VERcjg">reconte</w>
+        </l>
+        <l>
+          <w xml:id="t345" n="345" lemma="que2" pos="PROrel">Qui</w>
+          <w xml:id="t346" n="346" lemma="tref2" pos="VERppe">trez</w>
+          <w xml:id="t347" n="347" lemma="estre1" pos="VERcjg">fu</w>
+          <w xml:id="t348" n="348" lemma="de" pos="PRE">d'</w>
+          <w xml:id="t350" n="350" lemma="un" pos="DETndf">un</w>
+          <w xml:id="t351" n="351" lemma="emperëor" pos="NOMcom">empereor</w>
+        </l>
+        <l>
+          <w xml:id="t353" n="353" lemma="pöoir" pos="ADJqua">Puissant</w>
+          <w xml:id="t354" n="354" lemma="de" pos="PRE">de</w>
+          <w xml:id="t355" n="355" lemma="richece" pos="NOMcom">richesce</w>
+          <w xml:id="t356" n="356" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t357" n="357" lemma="de" pos="PRE">d'</w>
+          <w xml:id="t359" n="359" lemma="onor" pos="NOMcom">enor</w>
+        </l>
+        <l>
+          <w xml:id="t361" n="361" lemma="qui" pos="PROrel">Qui</w>
+          <w xml:id="t362" n="362" lemma="tenir1" pos="VERcjg">tint</w>
+          <w xml:id="t363" n="363" lemma="Grece" pos="NOMpro">Grece</w>
+          <w xml:id="t364" n="364" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t365" n="365" lemma="Constantinople" pos="NOMpro">Costantinoble</w>
+        </l>
+        <l>
+          <w xml:id="t367" n="367" lemma="empererriz" pos="NOMcom">Empereriz</w>
+          <w xml:id="t368" n="368" lemma="avoir" pos="VERcjg">ot</w>
+          <w xml:id="t369" n="369" lemma="cointe" pos="ADJqua">cointe</w>
+          <w xml:id="t370" n="370" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t371" n="371" lemma="noble1" pos="ADJqua">noble</w>
+        </l>
+        <l>
+          <w xml:id="t373" n="373" lemma="dont" pos="NOMpro">Don</w>
+          <w xml:id="t374" n="374" lemma="le" pos="DETdef">l'</w>
+          <w xml:id="t376" n="376" lemma="emperëor" pos="NOMcom">emperere</w>
+          <w xml:id="t377" n="377" lemma="avoir" pos="VERcjg">ot</w>
+          <w xml:id="t378" n="378" lemma="." pos="PONfrt">.</w>
+          <w xml:id="t379" n="379" lemma="je" pos="PROper">ij</w>
+          <w xml:id="t380" n="380" lemma="." pos="PONfrt">.</w>
+          <w xml:id="t381" n="381" lemma="enfant" pos="NOMcom">enfanz</w>
+        </l>
+        <l>
+          <w xml:id="t383" n="383" lemma="Mès" pos="CONcoo">Mes</w>
+          <w xml:id="t384" n="384" lemma="ainz" pos="ADVgen">ainz</w>
+          <w xml:id="t385" n="385" lemma="estre1" pos="VERcjg">fu</w>
+          <w xml:id="t386" n="386" lemma="le" pos="DETdef">li</w>
+          <w xml:id="t387" n="387" lemma="premier" pos="PROord">premiers</w>
+          <w xml:id="t388" n="388" lemma="si" pos="ADVgen">si</w>
+          <w xml:id="t389" n="389" lemma="grant" pos="ADJqua">granz</w>
+        </l>
+        <l>
+          <w xml:id="t391" n="391" lemma="que4" pos="CONsub">Que</w>
+          <w xml:id="t392" n="392" lemma="le" pos="DETdef">li</w>
+          <w xml:id="t393" n="393" lemma="autre" pos="ADJind">autres</w>
+          <w xml:id="t394" n="394" lemma="naissance" pos="NOMcom">nessance</w>
+          <w xml:id="t395" n="395" lemma="avoir" pos="VERcjg">eust</w>
+        </l>
+        <l>
+          <w xml:id="t397" n="397" lemma="que4" pos="CONsub">Que</w>
+          <w xml:id="t398" n="398" lemma="le" pos="DETdef">li</w>
+          <w xml:id="t399" n="399" lemma="premier" pos="PROord">premiers</w>
+          <w xml:id="t400" n="400" lemma="soi1" pos="CONsub">se</w>
+          <w xml:id="t401" n="401" lemma="il" pos="PROper">lui</w>
+          <w xml:id="t402" n="402" lemma="plaire" pos="VERcjg">pleust</w>
+        </l>
+        <l>
+          <w xml:id="t404" n="404" lemma="poissant" pos="DETind">Poist</w>
+          <w xml:id="t405" n="405" lemma="chevalier" pos="NOMcom">chevaliers</w>
+          <w xml:id="t406" n="406" lemma="devenir" pos="VERinf">devenir</w>
+        </l>
+        <l>
+          <w xml:id="t408" n="408" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t409" n="409" lemma="tot" pos="DETind">tot</w>
+          <w xml:id="t410" n="410" lemma="le" pos="DETdef">l'</w>
+          <w xml:id="t412" n="412" lemma="empire" pos="NOMcom">empire</w>
+          <w xml:id="t413" n="413" lemma="maintenir" pos="VERinf">maintenir</w>
+        </l>
+        <l>
+          <w xml:id="t415" n="415" lemma="le" pos="DETdef">Li</w>
+          <w xml:id="t416" n="416" lemma="premier" pos="PROord">premiers</w>
+          <w xml:id="t417" n="417" lemma="avoir" pos="VERcjg">ot</w>
+          <w xml:id="t418" n="418" lemma="nom" pos="NOMcom">non</w>
+          <w xml:id="t419" n="419" lemma="Alixandre" pos="NOMpro">Alixandres</w>
+        </l>
+        <l>
+          <w xml:id="t421" n="421" lemma="Alier" pos="NOMcom">Alis</w>
+          <w xml:id="t422" n="422" lemma="estre1" pos="VERcjg">fu</w>
+          <w xml:id="t423" n="423" lemma="apeler" pos="VERppe">apelez</w>
+          <w xml:id="t424" n="424" lemma="le" pos="DETdef">li</w>
+          <w xml:id="t425" n="425" lemma="mander" pos="ADJqua">mandres</w>
+        </l>
+        <l>
+          <w xml:id="t427" n="427" lemma="Alixandre" pos="NOMpro">Alixandres</w>
+          <w xml:id="t428" n="428" lemma="avoir" pos="VERcjg">ot</w>
+          <w xml:id="t429" n="429" lemma="nom" pos="NOMcom">non</w>
+          <w xml:id="t430" n="430" lemma="le" pos="DETdef">li</w>
+          <w xml:id="t431" n="431" lemma="pere" pos="NOMcom">pere</w>
+        </l>
+        <l>
+          <w xml:id="t433" n="433" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t434" n="434" lemma="Tantalis" pos="NOMpro">Tantalis</w>
+          <w xml:id="t435" n="435" lemma="avoir" pos="VERcjg">ot</w>
+          <w xml:id="t436" n="436" lemma="nom" pos="NOMcom">non</w>
+          <w xml:id="t437" n="437" lemma="le" pos="DETdef">la</w>
+          <w xml:id="t438" n="438" lemma="mere" pos="NOMcom">mere</w>
+        </l>
+        <l>
+          <w xml:id="t440" n="440" lemma="de" pos="PRE">De</w>
+          <w xml:id="t441" n="441" lemma="le" pos="DETdef">l'</w>
+          <w xml:id="t443" n="443" lemma="empererriz" pos="NOMcom">empereriz</w>
+          <w xml:id="t444" n="444" lemma="Tantalis" pos="NOMpro">Tantalis</w>
+        </l>
+        <l>
+          <w xml:id="t446" n="446" lemma="de" pos="PRE">De</w>
+          <w xml:id="t447" n="447" lemma="le" pos="DETdef">l'</w>
+          <w xml:id="t449" n="449" lemma="emperëor" pos="NOMcom">enpereor</w>
+          <w xml:id="t450" n="450" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t451" n="451" lemma="de" pos="PRE">d'</w>
+          <w xml:id="t453" n="453" lemma="Alier" pos="NOMpro">Alis</w>
+        </l>
+        <l>
+          <w xml:id="t455" n="455" lemma="le" pos="DETdef">La</w>
+          <w xml:id="t456" n="456" lemma="parole" pos="NOMcom">parole</w>
+          <w xml:id="t457" n="457" lemma="atant" pos="ADVgen">atant</w>
+          <w xml:id="t458" n="458" lemma="laissier" pos="VERcjg">lesseron</w>
+        </l>
+        <l>
+          <w xml:id="t460" n="460" lemma="de" pos="PRE">d'</w>
+          <w xml:id="t462" n="462" lemma="Alixandre" pos="NOMpro">Alixandre</w>
+          <w xml:id="t463" n="463" lemma="vos" pos="PROper">vos</w>
+          <w xml:id="t464" n="464" lemma="conter" pos="VERcjg">conteron</w>
+        </l>
+        <l>
+          <w xml:id="t466" n="466" lemma="qui" pos="PROrel">Qui</w>
+          <w xml:id="t467" n="467" lemma="tant" pos="ADVgen">tant</w>
+          <w xml:id="t468" n="468" lemma="estre1" pos="VERcjg">fu</w>
+          <w xml:id="t469" n="469" lemma="corajos" pos="ADJqua">corageus</w>
+          <w xml:id="t470" n="470" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t471" n="471" lemma="fier" pos="ADJqua">fiers</w>
+        </l>
+        <l>
+          <w xml:id="t473" n="473" lemma="que4" pos="CONsub">Que</w>
+          <w xml:id="t474" n="474" lemma="il" pos="PROper">il</w>
+          <w xml:id="t475" n="475" lemma="deignier" pos="VERcjg">deigna</w>
+          <w xml:id="t476" n="476" lemma="chevalier" pos="NOMcom">chevaliers</w>
+        </l>
+        <l>
+          <w xml:id="t478" n="478" lemma="devenir" pos="VERinf">Devenir</w>
+          <w xml:id="t479" n="479" lemma="en1" pos="PRE">an</w>
+          <w xml:id="t480" n="480" lemma="son4" pos="DETpos">sa</w>
+          <w xml:id="t481" n="481" lemma="regïon" pos="NOMcom">region</w>
+        </l>
+        <l>
+          <w xml:id="t483" n="483" lemma="öir" pos="ADVgen">Oi</w>
+          <w xml:id="t484" n="484" lemma="avoir" pos="VERcjg">ot</w>
+          <w xml:id="t485" n="485" lemma="faire" pos="VERinf">feire</w>
+          <w xml:id="t486" n="486" lemma="mencïon" pos="NOMcom">menssion</w>
+        </l>
+        <l>
+          <w xml:id="t488" n="488" lemma="de+le" pos="PRE.DETdef">Del</w>
+          <w xml:id="t489" n="489" lemma="roi2" pos="NOMcom">roi</w>
+          <w xml:id="t490" n="490" lemma="Artu" pos="NOMpro">Artus</w>
+          <w xml:id="t491" n="491" lemma="qui" pos="PROrel">qui</w>
+          <w xml:id="t492" n="492" lemma="lors" pos="ADVgen">lors</w>
+          <w xml:id="t493" n="493" lemma="regnier" pos="VERcjg">reignoit</w>
+        </l>
+        <l>
+          <w xml:id="t495" n="495" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t496" n="496" lemma="de+le" pos="PRE.DETdef">des</w>
+          <w xml:id="t497" n="497" lemma="baron" pos="NOMcom">barons</w>
+          <w xml:id="t498" n="498" lemma="que2" pos="PROrel">que</w>
+          <w xml:id="t499" n="499" lemma="il" pos="PROper">il</w>
+          <w xml:id="t500" n="500" lemma="tenir1" pos="VERcjg">tenoit</w>
+        </l>
+        <l>
+          <w xml:id="t502" n="502" lemma="en1" pos="PRE">An</w>
+          <w xml:id="t503" n="503" lemma="son4" pos="DETpos">sa</w>
+          <w xml:id="t504" n="504" lemma="compagnie" pos="NOMcom">compaignie</w>
+          <w xml:id="t505" n="505" lemma="tozjors" pos="ADVgen">tozjorz</w>
+        </l>
+        <l>
+          <w xml:id="t507" n="507" lemma="par" pos="PRE">Par</w>
+          <w xml:id="t508" n="508" lemma="que2" pos="PROrel">qu'</w>
+          <w xml:id="t510" n="510" lemma="estre1" pos="VERcjg">estoit</w>
+          <w xml:id="t511" n="511" lemma="doter2" pos="VERppe">dotee</w>
+          <w xml:id="t512" n="512" lemma="son4" pos="DETpos">sa</w>
+          <w xml:id="t513" n="513" lemma="cort1" pos="NOMcom">corz</w>
+        </l>
+        <l>
+          <w xml:id="t515" n="515" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t516" n="516" lemma="renomee" pos="VERppe">renomee</w>
+          <w xml:id="t517" n="517" lemma="par" pos="PRE">par</w>
+          <w xml:id="t518" n="518" lemma="le" pos="DETdef">le</w>
+          <w xml:id="t519" n="519" lemma="monde1" pos="NOMcom">monde</w>
+        </l>
+        <l>
+          <w xml:id="t521" n="521" lemma="coment1" pos="ADVsub">Comant</w>
+          <w xml:id="t522" n="522" lemma="que4" pos="CONsub">que</w>
+          <w xml:id="t523" n="523" lemma="le" pos="DETdef">la</w>
+          <w xml:id="t524" n="524" lemma="fin1" pos="NOMcom">fins</w>
+          <w xml:id="t525" n="525" lemma="il" pos="PROper">l'</w>
+          <w xml:id="t527" n="527" lemma="en2" pos="PROadv">an</w>
+          <w xml:id="t528" n="528" lemma="respondre1" pos="VERcjg">responde</w>
+        </l>
+        <l>
+          <w xml:id="t530" n="530" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t531" n="531" lemma="coment1" pos="ADVsub">comant</w>
+          <w xml:id="t532" n="532" lemma="que4" pos="CONsub">que</w>
+          <w xml:id="t533" n="533" lemma="il" pos="PROper">il</w>
+          <w xml:id="t534" n="534" lemma="il" pos="PROper">l'</w>
+          <w xml:id="t536" n="536" lemma="en2" pos="PROadv">en</w>
+          <w xml:id="t537" n="537" lemma="avenir" pos="VERcjg">aveingne</w>
+        </l>
+        <l>
+          <w xml:id="t539" n="539" lemma="ne1" pos="ADVneg">N'</w>
+          <w xml:id="t541" n="541" lemma="estre1" pos="VERcjg">est</w>
+          <w xml:id="t542" n="542" lemma="rien" pos="PROind">riens</w>
+          <w xml:id="t543" n="543" lemma="naistre" pos="VERppe">nee</w>
+          <w xml:id="t544" n="544" lemma="qui" pos="PROrel">qui</w>
+          <w xml:id="t545" n="545" lemma="il" pos="DETdef">le</w>
+          <w xml:id="t546" n="546" lemma="detenir" pos="NOMcom">deteingne</w>
+        </l>
+        <l>
+          <w xml:id="t548" n="548" lemma="en1+le" pos="PRE.DETdef">El</w>
+          <w xml:id="t549" n="549" lemma="mont" pos="NOMcom">mont</w>
+          <w xml:id="t550" n="550" lemma="que4" pos="PROrel">que</w>
+          <w xml:id="t551" n="551" lemma="ne1" pos="ADVneg">n'</w>
+          <w xml:id="t553" n="553" lemma="en2" pos="PROadv">an</w>
+          <w xml:id="t554" n="554" lemma="aler" pos="VERcjg">voist</w>
+          <w xml:id="t555" n="555" lemma="en1" pos="PRE">an</w>
+          <w xml:id="t556" n="556" lemma="Bretaigne" pos="NOMpro">Breteingne</w>
+        </l>
+        <l>
+          <w xml:id="t558" n="558" lemma="Mès" pos="CONcoo">Mes</w>
+          <w xml:id="t559" n="559" lemma="ainz" pos="ADVgen">ainz</w>
+          <w xml:id="t560" n="560" lemma="estre1" pos="VERcjg">est</w>
+          <w xml:id="t561" n="561" lemma="droit" pos="ADJqua">droiz</w>
+          <w xml:id="t562" n="562" lemma="que4" pos="CONsub">que</w>
+          <w xml:id="t563" n="563" lemma="congié" pos="NOMcom">congie</w>
+          <w xml:id="t564" n="564" lemma="prendre" pos="VERcjg">preingne</w>
+        </l>
+        <l>
+          <w xml:id="t566" n="566" lemma="a3" pos="PRE">A</w>
+          <w xml:id="t567" n="567" lemma="son4" pos="DETpos">son</w>
+          <w xml:id="t568" n="568" lemma="pere" pos="NOMcom">pere</w>
+          <w xml:id="t569" n="569" lemma="que4" pos="PROrel">que</w>
+          <w xml:id="t570" n="570" lemma="il" pos="PROper">il</w>
+          <w xml:id="t571" n="571" lemma="soi1" pos="PROper">s'</w>
+          <w xml:id="t573" n="573" lemma="en2" pos="PROadv">an</w>
+          <w xml:id="t574" n="574" lemma="aler" pos="VERcjg">aille</w>
+        </l>
+        <l>
+          <w xml:id="t576" n="576" lemma="en1" pos="PRE">An</w>
+          <w xml:id="t577" n="577" lemma="Bretaigne" pos="NOMpro">Bretaigne</w>
+          <w xml:id="t578" n="578" lemma="ne2" pos="ADVneg">n'</w>
+          <w xml:id="t580" n="580" lemma="en1" pos="PRE">an</w>
+          <w xml:id="t581" n="581" lemma="Cornouailles" pos="NOMpro">Cornoaille</w>
+        </l>
+        <l>
+          <w xml:id="t583" n="583" lemma="por2" pos="PRE">Por</w>
+          <w xml:id="t584" n="584" lemma="congié" pos="NOMcom">congie</w>
+          <w xml:id="t585" n="585" lemma="prendre" pos="VERinf">prandre</w>
+          <w xml:id="t586" n="586" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t587" n="587" lemma="demander" pos="VERinf">demander</w>
+        </l>
+        <l>
+          <w xml:id="t589" n="589" lemma="aler" pos="NOMpro">Va</w>
+          <w xml:id="t590" n="590" lemma="a3" pos="PRE">a</w>
+          <w xml:id="t591" n="591" lemma="le" pos="DETdef">l'</w>
+          <w xml:id="t593" n="593" lemma="emperëor" pos="NOMcom">empereor</w>
+          <w xml:id="t594" n="594" lemma="parler" pos="VERinf">parler</w>
+        </l>
+        <l>
+          <w xml:id="t596" n="596" lemma="Alixandre" pos="NOMpro">Alixandre</w>
+          <w xml:id="t597" n="597" lemma="le" pos="DETdef">li</w>
+          <w xml:id="t598" n="598" lemma="bel1" pos="ADJqua">biax</w>
+          <w xml:id="t599" n="599" lemma="le" pos="DETdef">li</w>
+          <w xml:id="t600" n="600" lemma="pro" pos="NOMcom">preuz</w>
+        </l>
+        <l>
+          <w xml:id="t602" n="602" lemma="ja" pos="ADVgen">Ja</w>
+          <w xml:id="t603" n="603" lemma="il" pos="PROper">li</w>
+          <w xml:id="t604" n="604" lemma="dire" pos="VERcjg">dira</w>
+          <w xml:id="t605" n="605" lemma="quel1" pos="PROrel">quex</w>
+          <w xml:id="t606" n="606" lemma="estre1" pos="VERcjg">est</w>
+          <w xml:id="t607" n="607" lemma="son4" pos="DETpos">ses</w>
+          <w xml:id="t608" n="608" lemma="vëoir" pos="NOMcom">veuz</w>
+        </l>
+        <l>
+          <w xml:id="t610" n="610" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t611" n="611" lemma="que4" pos="CONsub">que</w>
+          <w xml:id="t612" n="612" lemma="il" pos="PROper">il</w>
+          <w xml:id="t613" n="613" lemma="voloir" pos="VERcjg">vialt</w>
+          <w xml:id="t614" n="614" lemma="faire" pos="VERinf">feire</w>
+          <w xml:id="t615" n="615" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t616" n="616" lemma="emprendre" pos="VERinf">anprandre</w>
+        </l>
+        <l>
+          <w xml:id="t618" n="618" lemma="bel1" pos="ADJqua">Biau</w>
+          <w xml:id="t619" n="619" lemma="pere" pos="NOMcom">pere</w>
+          <w xml:id="t620" n="620" lemma="por2" pos="PRE">por</w>
+          <w xml:id="t621" n="621" lemma="onor" pos="NOMcom">enor</w>
+          <w xml:id="t622" n="622" lemma="aprendre" pos="VERinf">aprandre</w>
+        </l>
+        <l>
+          <w xml:id="t624" n="624" lemma="[" pos="PONfbl">[</w>
+          <w xml:id="t625" n="625" lemma="54d" pos="PONfbl">54d</w>
+          <w xml:id="t626" n="626" lemma="]" pos="PONfbl">]</w>
+          <w xml:id="t627" n="627" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t628" n="628" lemma="por2" pos="PRE">por</w>
+          <w xml:id="t629" n="629" lemma="conquerre" pos="VERinf">conquerre</w>
+          <w xml:id="t630" n="630" lemma="prendre" pos="NOMcom">pris</w>
+          <w xml:id="t631" n="631" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t632" n="632" lemma="los1" pos="NOMcom">los</w>
+        </l>
+        <l>
+          <w xml:id="t634" n="634" lemma="un" pos="DETndf">Un</w>
+          <w xml:id="t635" n="635" lemma="don" pos="PROrel">don</w>
+          <w xml:id="t636" n="636" lemma="faire" pos="VERcjg">fet</w>
+          <w xml:id="t637" n="637" lemma="il" pos="PROper">il</w>
+          <w xml:id="t638" n="638" lemma="querre" pos="VERinf">querre</w>
+          <w xml:id="t639" n="639" lemma="vostre" pos="PROper">vos</w>
+          <w xml:id="t640" n="640" lemma="os2" pos="NOMcom">os</w>
+        </l>
+        <l>
+          <w xml:id="t642" n="642" lemma="que4" pos="CONsub">Que</w>
+          <w xml:id="t643" n="643" lemma="je" pos="PROper">je</w>
+          <w xml:id="t644" n="644" lemma="voloir" pos="VERcjg">vuel</w>
+          <w xml:id="t645" n="645" lemma="que4" pos="CONsub">que</w>
+          <w xml:id="t646" n="646" lemma="vos" pos="PROper">vos</w>
+          <w xml:id="t647" n="647" lemma="je" pos="PROper">me</w>
+          <w xml:id="t648" n="648" lemma="deignier" pos="VERcjg">doingniez</w>
+        </l>
+        <l>
+          <w xml:id="t650" n="650" lemma="ne2" pos="CONcoo">Ne</w>
+          <w xml:id="t651" n="651" lemma="ja" pos="ADVgen">ja</w>
+          <w xml:id="t652" n="652" lemma="ne1" pos="ADVneg">ne</w>
+          <w xml:id="t653" n="653" lemma="il" pos="PROper">le</w>
+          <w xml:id="t654" n="654" lemma="je" pos="PROper">me</w>
+          <w xml:id="t655" n="655" lemma="porloignier" pos="VERcjg">porloigniez</w>
+        </l>
+        <l>
+          <w xml:id="t657" n="657" lemma="se" pos="CONsub">Se</w>
+          <w xml:id="t658" n="658" lemma="otroiier" pos="VERinf">otroier</w>
+          <w xml:id="t659" n="659" lemma="il" pos="PROper">le</w>
+          <w xml:id="t660" n="660" lemma="je" pos="PROper">me</w>
+          <w xml:id="t661" n="661" lemma="devoir" pos="VERcjg">devez</w>
+        </l>
+        <l>
+          <w xml:id="t663" n="663" lemma="de" pos="PRE">De</w>
+          <w xml:id="t664" n="664" lemma="ce1" pos="PROdem">ce</w>
+          <w xml:id="t665" n="665" lemma="ne1" pos="ADVneg">ne</w>
+          <w xml:id="t666" n="666" lemma="cuidier1" pos="VERcjg">cuide</w>
+          <w xml:id="t667" n="667" lemma="estre1" pos="VERinf">estre</w>
+          <w xml:id="t668" n="668" lemma="grever" pos="VERppe">grevez</w>
+        </l>
+        <l>
+          <w xml:id="t670" n="670" lemma="le" pos="DETdef">L'</w>
+          <w xml:id="t672" n="672" lemma="emperëor" pos="NOMcom">empereres</w>
+          <w xml:id="t673" n="673" lemma="ne2" pos="CONcoo">ne</w>
+          <w xml:id="t674" n="674" lemma="poi" pos="ADVgen">po</w>
+          <w xml:id="t675" n="675" lemma="ne2" pos="CONcoo">ne</w>
+          <w xml:id="t676" n="676" lemma="bien1" pos="ADVgen">bien</w>
+        </l>
+        <l>
+          <w xml:id="t678" n="678" lemma="le" pos="DETdef">L'</w>
+          <w xml:id="t680" n="680" lemma="onor" pos="NOMcom">enor</w>
+          <w xml:id="t681" n="681" lemma="son4" pos="DETpos">son</w>
+          <w xml:id="t682" n="682" lemma="fil2" pos="NOMcom">fil</w>
+          <w xml:id="t683" n="683" lemma="sor2" pos="PRE">sor</w>
+          <w xml:id="t684" n="684" lemma="tot" pos="DETind">tote</w>
+          <w xml:id="t685" n="685" lemma="rien" pos="NOMcom">rien</w>
+        </l>
+        <l>
+          <w xml:id="t687" n="687" lemma="devoir" pos="VERcjg">Doit</w>
+          <w xml:id="t688" n="688" lemma="il" pos="PROper">il</w>
+          <w xml:id="t689" n="689" lemma="voloir" pos="VERinf">voloir</w>
+          <w xml:id="t690" n="690" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t691" n="691" lemma="covoitier" pos="VERinf">covoitier</w>
+        </l>
+        <l>
+          <w xml:id="t693" n="693" lemma="mout" pos="ADVgen">Molt</w>
+          <w xml:id="t694" n="694" lemma="cuidier1" pos="VERcjg">cuideroit</w>
+          <w xml:id="t695" n="695" lemma="bien1" pos="ADVgen">bien</w>
+          <w xml:id="t696" n="696" lemma="esploitier" pos="VERinf">esploitier</w>
+        </l>
+        <l>
+          <w xml:id="t698" n="698" lemma="cuidier1" pos="VERcjg">Cuideroit</w>
+          <w xml:id="t699" n="699" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t700" n="700" lemma="si" pos="ADVgen">si</w>
+          <w xml:id="t701" n="701" lemma="faire" pos="VERcjg">feroit</w>
+          <w xml:id="t702" n="702" lemma="il" pos="PROper">il</w>
+        </l>
+        <l>
+          <w xml:id="t704" n="704" lemma="se" pos="CONsub">S'</w>
+          <w xml:id="t706" n="706" lemma="il" pos="PROper">il</w>
+          <w xml:id="t707" n="707" lemma="acroistre" pos="VERcjg">acroissoit</w>
+          <w xml:id="t708" n="708" lemma="le" pos="DETdef">l'</w>
+          <w xml:id="t710" n="710" lemma="onor" pos="NOMcom">enor</w>
+          <w xml:id="t711" n="711" lemma="son4" pos="DETpos">son</w>
+          <w xml:id="t712" n="712" lemma="fil2" pos="NOMcom">fil</w>
+        </l>
+        <l>
+          <w xml:id="t714" n="714" lemma="bel1" pos="ADJqua">Biax</w>
+          <w xml:id="t715" n="715" lemma="fil2" pos="NOMcom">filz</w>
+          <w xml:id="t716" n="716" lemma="faire" pos="VERcjg">fet</w>
+          <w xml:id="t717" n="717" lemma="il" pos="PROper">il</w>
+          <w xml:id="t718" n="718" lemma="je" pos="PROper">je</w>
+          <w xml:id="t719" n="719" lemma="vos" pos="PROper">vos</w>
+          <w xml:id="t720" n="720" lemma="otroiier" pos="VERcjg">otroi</w>
+        </l>
+        <l>
+          <w xml:id="t722" n="722" lemma="vostre" pos="DETpos">Vostre</w>
+          <w xml:id="t723" n="723" lemma="plaisir" pos="NOMcom">pleisir</w>
+          <w xml:id="t724" n="724" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t725" n="725" lemma="dire" pos="VERcjg">dites</w>
+          <w xml:id="t726" n="726" lemma="je" pos="PROper">moi</w>
+        </l>
+        <l>
+          <w xml:id="t728" n="728" lemma="que4" pos="CONsub">Que</w>
+          <w xml:id="t729" n="729" lemma="vos" pos="PROper">vos</w>
+          <w xml:id="t730" n="730" lemma="voloir" pos="VERcjg">volez</w>
+          <w xml:id="t731" n="731" lemma="que4" pos="CONsub">que</w>
+          <w xml:id="t732" n="732" lemma="je" pos="PROper">je</w>
+          <w xml:id="t733" n="733" lemma="vos" pos="PROper">vos</w>
+          <w xml:id="t734" n="734" lemma="doner" pos="VERcjg">doingne</w>
+        </l>
+        <l>
+          <w xml:id="t736" n="736" lemma="or4" pos="ADVgen">Or</w>
+          <w xml:id="t737" n="737" lemma="avoir" pos="PRE">a</w>
+          <w xml:id="t738" n="738" lemma="bien1" pos="ADVgen">bien</w>
+          <w xml:id="t739" n="739" lemma="faire" pos="VERppe">feite</w>
+          <w xml:id="t740" n="740" lemma="son4" pos="DETpos">sa</w>
+          <w xml:id="t741" n="741" lemma="besoigne" pos="NOMcom">besoingne</w>
+        </l>
+        <l>
+          <w xml:id="t743" n="743" lemma="le" pos="DETdef">Li</w>
+          <w xml:id="t744" n="744" lemma="vaslet" pos="NOMcom">vaslez</w>
+          <w xml:id="t745" n="745" lemma="qui" pos="PROrel">qui</w>
+          <w xml:id="t746" n="746" lemma="mout" pos="ADVgen">molt</w>
+          <w xml:id="t747" n="747" lemma="en2" pos="PROadv">an</w>
+          <w xml:id="t748" n="748" lemma="estre1" pos="VERcjg">fu</w>
+          <w xml:id="t749" n="749" lemma="lié1" pos="ADJqua">liez</w>
+        </l>
+        <l>
+          <w xml:id="t751" n="751" lemma="cant1" pos="CONsub">Quant</w>
+          <w xml:id="t752" n="752" lemma="le" pos="DETdef">li</w>
+          <w xml:id="t753" n="753" lemma="don" pos="NOMcom">dons</w>
+          <w xml:id="t754" n="754" lemma="il" pos="PROper">li</w>
+          <w xml:id="t755" n="755" lemma="estre1" pos="VERcjg">fu</w>
+          <w xml:id="t756" n="756" lemma="otroiier" pos="VERppe">otroiez</w>
+        </l>
+        <l>
+          <w xml:id="t758" n="758" lemma="que4" pos="CONsub">Qu'</w>
+          <w xml:id="t760" n="760" lemma="il" pos="PROper">il</w>
+          <w xml:id="t761" n="761" lemma="tant" pos="ADVgen">tant</w>
+          <w xml:id="t762" n="762" lemma="desirrer" pos="VERcjg">desirroit</w>
+          <w xml:id="t763" n="763" lemma="a3" pos="PRE">a</w>
+          <w xml:id="t764" n="764" lemma="avoir" pos="VERinf">avoir</w>
+        </l>
+        <l>
+          <w xml:id="t766" n="766" lemma="seignor" pos="NOMcom">Sire</w>
+          <w xml:id="t767" n="767" lemma="faire" pos="VERppe">fet</w>
+          <w xml:id="t768" n="768" lemma="il" pos="PROper">il</w>
+          <w xml:id="t769" n="769" lemma="voloir" pos="VERcjg">volez</w>
+          <w xml:id="t770" n="770" lemma="savoir" pos="VERinf">savoir</w>
+        </l>
+        <l>
+          <w xml:id="t772" n="772" lemma="que4" pos="CONsub">Que</w>
+          <w xml:id="t773" n="773" lemma="vos" pos="PROper">vos</w>
+          <w xml:id="t774" n="774" lemma="je" pos="PROper">m'</w>
+          <w xml:id="t776" n="776" lemma="avoir" pos="VERcjg">avez</w>
+          <w xml:id="t777" n="777" lemma="acreanter" pos="VERppe">acrante</w>
+        </l>
+        <l>
+          <w xml:id="t779" n="779" lemma="je" pos="PROper">Je</w>
+          <w xml:id="t780" n="780" lemma="voloir" pos="VERcjg">vuel</w>
+          <w xml:id="t781" n="781" lemma="avoir" pos="VERinf">avoir</w>
+          <w xml:id="t782" n="782" lemma="a3" pos="PRE">a</w>
+          <w xml:id="t783" n="783" lemma="grant" pos="ADJqua">grant</w>
+          <w xml:id="t784" n="784" lemma="plante2" pos="NOMcom">plante</w>
+        </l>
+        <l>
+          <w xml:id="t786" n="786" lemma="de" pos="PRE">De</w>
+          <w xml:id="t787" n="787" lemma="vostre" pos="DETpos">vostre</w>
+          <w xml:id="t788" n="788" lemma="or1" pos="NOMcom">or</w>
+          <w xml:id="t789" n="789" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t790" n="790" lemma="de" pos="PRE">de</w>
+          <w xml:id="t791" n="791" lemma="vostre" pos="DETpos">vostre</w>
+          <w xml:id="t792" n="792" lemma="argent" pos="NOMcom">argent</w>
+        </l>
+        <l>
+          <w xml:id="t794" n="794" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t795" n="795" lemma="compagnon" pos="NOMcom">conpaignons</w>
+          <w xml:id="t796" n="796" lemma="de" pos="PRE">de</w>
+          <w xml:id="t797" n="797" lemma="vostre" pos="DETpos">vostre</w>
+          <w xml:id="t798" n="798" lemma="gent1" pos="NOMcom">gent</w>
+        </l>
+        <l>
+          <w xml:id="t800" n="800" lemma="tel" pos="ADJind">Tex</w>
+          <w xml:id="t801" n="801" lemma="come1" pos="CONsub">com</w>
+          <w xml:id="t802" n="802" lemma="je" pos="PROper">je</w>
+          <w xml:id="t803" n="803" lemma="il" pos="PROper">les</w>
+          <w xml:id="t804" n="804" lemma="voloir" pos="VERcjg">voldrai</w>
+          <w xml:id="t805" n="805" lemma="eslire" pos="VERinf">eslire</w>
+        </l>
+        <l>
+          <w xml:id="t807" n="807" lemma="car" pos="CONcoo">Car</w>
+          <w xml:id="t808" n="808" lemma="issir" pos="VERinf">issir</w>
+          <w xml:id="t809" n="809" lemma="voloir" pos="VERcjg">vuel</w>
+          <w xml:id="t810" n="810" lemma="de" pos="PRE">de</w>
+          <w xml:id="t811" n="811" lemma="vostre" pos="DETpos">vostre</w>
+          <w xml:id="t812" n="812" lemma="empire" pos="NOMcom">empire</w>
+        </l>
+        <l>
+          <w xml:id="t814" n="814" lemma="se" pos="PROper">S'</w>
+          <w xml:id="t816" n="816" lemma="aler" pos="VERcjg">irai</w>
+          <w xml:id="t817" n="817" lemma="presenter" pos="VERinf">presanter</w>
+          <w xml:id="t818" n="818" lemma="mon1" pos="DETpos">mon</w>
+          <w xml:id="t819" n="819" lemma="servise" pos="NOMcom">servise</w>
+        </l>
+        <l>
+          <w xml:id="t821" n="821" lemma="a3+le" pos="PRE.DETdef">Au</w>
+          <w xml:id="t822" n="822" lemma="roi2" pos="NOMcom">roi</w>
+          <w xml:id="t823" n="823" lemma="qui" pos="PROrel">qui</w>
+          <w xml:id="t824" n="824" lemma="Bretaigne" pos="NOMpro">Bretaingne</w>
+          <w xml:id="t825" n="825" lemma="justice" pos="VERcjg">justise</w>
+        </l>
+        <l>
+          <w xml:id="t827" n="827" lemma="por2" pos="PRE">Por</w>
+          <w xml:id="t828" n="828" lemma="ce1" pos="PROdem">ce</w>
+          <w xml:id="t829" n="829" lemma="que2" pos="CONsub">que</w>
+          <w xml:id="t830" n="830" lemma="chevalier" pos="NOMcom">chevalier</w>
+          <w xml:id="t831" n="831" lemma="je" pos="PROper">me</w>
+          <w xml:id="t832" n="832" lemma="faire" pos="VERcjg">face</w>
+        </l>
+        <l>
+          <w xml:id="t834" n="834" lemma="ja" pos="ADVgen">Ja</w>
+          <w xml:id="t835" n="835" lemma="ne1" pos="ADVneg">n'</w>
+          <w xml:id="t837" n="837" lemma="avoir" pos="VERcjg">avrai</w>
+          <w xml:id="t838" n="838" lemma="armer" pos="VERppe">armee</w>
+          <w xml:id="t839" n="839" lemma="le" pos="DETdef">la</w>
+          <w xml:id="t840" n="840" lemma="face" pos="NOMcom">face</w>
+        </l>
+        <l>
+          <w xml:id="t842" n="842" lemma="ne2" pos="CONcoo">Ne</w>
+          <w xml:id="t843" n="843" lemma="heaume" pos="NOMcom">hiaume</w>
+          <w xml:id="t844" n="844" lemma="en1+le" pos="PRE.DETdef">el</w>
+          <w xml:id="t845" n="845" lemma="chief1" pos="NOMcom">chief</w>
+          <w xml:id="t846" n="846" lemma="je+il" pos="PROper.PROper">jel</w>
+          <w xml:id="t847" n="847" lemma="vos" pos="PROper">vos</w>
+          <w xml:id="t848" n="848" lemma="plevir" pos="VERcjg">plevis</w>
+        </l>
+        <l>
+          <w xml:id="t850" n="850" lemma="a3" pos="PRE">A</w>
+          <w xml:id="t851" n="851" lemma="nul" pos="DETind">nul</w>
+          <w xml:id="t852" n="852" lemma="jor" pos="NOMcom">jor</w>
+          <w xml:id="t853" n="853" lemma="que4" pos="CONsub">que</w>
+          <w xml:id="t854" n="854" lemma="je" pos="PROper">je</w>
+          <w xml:id="t855" n="855" lemma="estre1" pos="VERcjg">soie</w>
+          <w xml:id="t856" n="856" lemma="vif" pos="ADJqua">vis</w>
+        </l>
+        <l>
+          <w xml:id="t858" n="858" lemma="tant" pos="ADVgen">Tant</w>
+          <w xml:id="t859" n="859" lemma="que4" pos="CONsub">que</w>
+          <w xml:id="t860" n="860" lemma="le" pos="DETdef">li</w>
+          <w xml:id="t861" n="861" lemma="roi2" pos="NOMcom">rois</w>
+          <w xml:id="t862" n="862" lemma="Artu" pos="NOMpro">Artus</w>
+          <w xml:id="t863" n="863" lemma="je" pos="PROper">me</w>
+          <w xml:id="t864" n="864" lemma="ceindre" pos="VERcjg">ceingne</w>
+        </l>
+        <l>
+          <w xml:id="t866" n="866" lemma="le" pos="DETdef">L'</w>
+          <w xml:id="t868" n="868" lemma="espee" pos="NOMcom">espee</w>
+          <w xml:id="t869" n="869" lemma="se" pos="CONsub">se</w>
+          <w xml:id="t870" n="870" lemma="faire" pos="VERinf">feire</w>
+          <w xml:id="t871" n="871" lemma="il" pos="PROper">le</w>
+          <w xml:id="t872" n="872" lemma="deignier" pos="VERcjg">deingne</w>
+        </l>
+        <l>
+          <w xml:id="t874" n="874" lemma="car" pos="CONcoo">Car</w>
+          <w xml:id="t875" n="875" lemma="de" pos="PRE">d'</w>
+          <w xml:id="t877" n="877" lemma="autrui" pos="PROind">autrui</w>
+          <w xml:id="t878" n="878" lemma="ne1" pos="ADVneg">ne</w>
+          <w xml:id="t879" n="879" lemma="voloir" pos="VERcjg">vuel</w>
+          <w xml:id="t880" n="880" lemma="arme" pos="NOMcom">armes</w>
+          <w xml:id="t881" n="881" lemma="prendre" pos="VERinf">prandre</w>
+        </l>
+        <l>
+          <w xml:id="t883" n="883" lemma="le" pos="DETdef">L'</w>
+          <w xml:id="t885" n="885" lemma="emperëor" pos="NOMcom">empereres</w>
+          <w xml:id="t886" n="886" lemma="sans" pos="PRE">sanz</w>
+          <w xml:id="t887" n="887" lemma="plus" pos="ADVgen">plus</w>
+          <w xml:id="t888" n="888" lemma="atendre" pos="VERinf">atandre</w>
+        </l>
+        <l>
+          <w xml:id="t890" n="890" lemma="respondre1" pos="VERcjg">Respont</w>
+          <w xml:id="t891" n="891" lemma="bel1" pos="ADJqua">biax</w>
+          <w xml:id="t892" n="892" lemma="fil2" pos="NOMcom">filz</w>
+          <w xml:id="t893" n="893" lemma="por2" pos="PRE">por</w>
+          <w xml:id="t894" n="894" lemma="dieu" pos="NOMpro">Deu</w>
+          <w xml:id="t895" n="895" lemma="ne1" pos="ADVneg">ne</w>
+          <w xml:id="t896" n="896" lemma="dire" pos="VERcjg">dites</w>
+        </l>
+        <l>
+          <w xml:id="t898" n="898" lemma="cest" pos="DETdem">Cist</w>
+          <w xml:id="t899" n="899" lemma="pais" pos="NOMcom">pais</w>
+          <w xml:id="t900" n="900" lemma="estre1" pos="VERcjg">est</w>
+          <w xml:id="t901" n="901" lemma="vostre" pos="PROpos">vostres</w>
+          <w xml:id="t902" n="902" lemma="tot" pos="ADVgen">toz</w>
+          <w xml:id="t903" n="903" lemma="quite" pos="ADJqua">quites</w>
+        </l>
+        <l>
+          <w xml:id="t905" n="905" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t906" n="906" lemma="Constantinople" pos="NOMpro">Costantinoble</w>
+          <w xml:id="t907" n="907" lemma="le" pos="DETdef">la</w>
+          <w xml:id="t908" n="908" lemma="riche" pos="ADJqua">riche</w>
+        </l>
+        <l>
+          <w xml:id="t910" n="910" lemma="ne1" pos="ADVneg">Ne</w>
+          <w xml:id="t911" n="911" lemma="je" pos="PROper">me</w>
+          <w xml:id="t912" n="912" lemma="devoir" pos="VERcjg">devez</w>
+          <w xml:id="t913" n="913" lemma="tenir1" pos="VERinf">tenir</w>
+          <w xml:id="t914" n="914" lemma="por2" pos="PRE">por</w>
+          <w xml:id="t915" n="915" lemma="chiche2" pos="ADJqua">chiche</w>
+        </l>
+        <l>
+          <w xml:id="t917" n="917" lemma="cant1" pos="CONsub">Quant</w>
+          <w xml:id="t918" n="918" lemma="si" pos="ADVgen">si</w>
+          <w xml:id="t919" n="919" lemma="bel1" pos="ADJqua">bel</w>
+          <w xml:id="t920" n="920" lemma="son4" pos="DETpos">son</w>
+          <w xml:id="t921" n="921" lemma="vos" pos="PROper">vos</w>
+          <w xml:id="t922" n="922" lemma="voloir" pos="VERcjg">vuel</w>
+          <w xml:id="t923" n="923" lemma="doner" pos="VERinf">doner</w>
+        </l>
+        <l>
+          <w xml:id="t925" n="925" lemma="demain" pos="NOMpro">Demain</w>
+          <w xml:id="t926" n="926" lemma="vos" pos="PROper">vos</w>
+          <w xml:id="t927" n="927" lemma="faire" pos="VERcjg">ferai</w>
+          <w xml:id="t928" n="928" lemma="coroner" pos="VERinf">coroner</w>
+        </l>
+        <l>
+          <w xml:id="t930" n="930" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t931" n="931" lemma="chevalier" pos="NOMcom">chevaliers</w>
+          <w xml:id="t932" n="932" lemma="estre1" pos="VERcjg">seroiz</w>
+          <w xml:id="t933" n="933" lemma="demain" pos="ADVgen">demain</w>
+        </l>
+        <l>
+          <w xml:id="t935" n="935" lemma="tot" pos="DETind">Tote</w>
+          <w xml:id="t936" n="936" lemma="Grece" pos="NOMpro">Grece</w>
+          <w xml:id="t937" n="937" lemma="estre1" pos="VERcjg">iert</w>
+          <w xml:id="t938" n="938" lemma="en1" pos="PRE">an</w>
+          <w xml:id="t939" n="939" lemma="vostre" pos="DETpos">vostre</w>
+          <w xml:id="t940" n="940" lemma="main2" pos="NOMcom">main</w>
+        </l>
+        <l>
+          <w xml:id="t942" n="942" lemma="[" pos="PONfbl">[</w>
+          <w xml:id="t943" n="943" lemma="noiier2" pos="PROper">54e</w>
+          <w xml:id="t944" n="944" lemma="]" pos="PONfbl">]</w>
+          <w xml:id="t945" n="945" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t946" n="946" lemma="de" pos="PRE">de</w>
+          <w xml:id="t947" n="947" lemma="nostre" pos="DETpos">noz</w>
+          <w xml:id="t948" n="948" lemma="baron" pos="NOMcom">barons</w>
+          <w xml:id="t949" n="949" lemma="recevoir" pos="VERppe">recevrez</w>
+        </l>
+        <l>
+          <w xml:id="t951" n="951" lemma="si" pos="ADVgen">Si</w>
+          <w xml:id="t952" n="952" lemma="come1" pos="CONsub">com</w>
+          <w xml:id="t953" n="953" lemma="recevoir" pos="VERinf">recoivre</w>
+          <w xml:id="t954" n="954" lemma="il" pos="PROper">les</w>
+          <w xml:id="t955" n="955" lemma="devoir" pos="VERcjg">devez</w>
+        </l>
+        <l>
+          <w xml:id="t957" n="957" lemma="le" pos="DETdef">Les</w>
+          <w xml:id="t958" n="958" lemma="sairement" pos="NOMcom">seiremenz</w>
+          <w xml:id="t959" n="959" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t960" n="960" lemma="le" pos="DETdef">les</w>
+          <w xml:id="t961" n="961" lemma="omage" pos="NOMcom">homages</w>
+        </l>
+        <l>
+          <w xml:id="t963" n="963" lemma="que2" pos="PROrel">Qui</w>
+          <w xml:id="t964" n="964" lemma="ce1" pos="PROdem">ce</w>
+          <w xml:id="t965" n="965" lemma="refuser" pos="VERcjg">refuse</w>
+          <w xml:id="t966" n="966" lemma="il" pos="PROimp">il</w>
+          <w xml:id="t967" n="967" lemma="ne1" pos="ADVneg">n'</w>
+          <w xml:id="t969" n="969" lemma="estre1" pos="VERcjg">est</w>
+          <w xml:id="t970" n="970" lemma="pas" pos="ADVneg">pas</w>
+          <w xml:id="t971" n="971" lemma="sage" pos="ADJqua">sages</w>
+        </l>
+        <l>
+          <w xml:id="t973" n="973" lemma="le" pos="DETdef">Li</w>
+          <w xml:id="t974" n="974" lemma="vaslet" pos="VERppe">vaslez</w>
+          <w xml:id="t975" n="975" lemma="entendre" pos="VERcjg">antant</w>
+          <w xml:id="t976" n="976" lemma="le" pos="DETdef">la</w>
+          <w xml:id="t977" n="977" lemma="promesse" pos="NOMcom">promesse</w>
+        </l>
+        <l>
+          <w xml:id="t979" n="979" lemma="que4" pos="CONsub">Que</w>
+          <w xml:id="t980" n="980" lemma="lendemain" pos="ADVgen">landemain</w>
+          <w xml:id="t981" n="981" lemma="après" pos="PRE">apres</w>
+          <w xml:id="t982" n="982" lemma="le" pos="DETdef">la</w>
+          <w xml:id="t983" n="983" lemma="messe" pos="NOMcom">messe</w>
+        </l>
+        <l>
+          <w xml:id="t985" n="985" lemma="il" pos="PROper">Le</w>
+          <w xml:id="t986" n="986" lemma="voloir" pos="VERcjg">vialt</w>
+          <w xml:id="t987" n="987" lemma="son4" pos="DETpos">ses</w>
+          <w xml:id="t988" n="988" lemma="pere" pos="NOMcom">peres</w>
+          <w xml:id="t989" n="989" lemma="adober" pos="VERinf">adober</w>
+        </l>
+        <l>
+          <w xml:id="t991" n="991" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t992" n="992" lemma="dire" pos="VERcjg">dit</w>
+          <w xml:id="t993" n="993" lemma="que4" pos="CONsub">qu'</w>
+          <w xml:id="t995" n="995" lemma="il" pos="PROper">il</w>
+          <w xml:id="t996" n="996" lemma="estre1" pos="VERcjg">iert</w>
+          <w xml:id="t997" n="997" lemma="mauvais" pos="ADJqua">malves</w>
+          <w xml:id="t998" n="998" lemma="o3" pos="CONcoo">ou</w>
+          <w xml:id="t999" n="999" lemma="baron" pos="NOMcom">ber</w>
+        </l>
+        <l>
+          <w xml:id="t1001" n="1001" lemma="en1" pos="PRE">En</w>
+          <w xml:id="t1002" n="1002" lemma="autre" pos="DETind">autre</w>
+          <w xml:id="t1003" n="1003" lemma="pais" pos="NOMcom">pais</w>
+          <w xml:id="t1004" n="1004" lemma="que4" pos="CONsub">que</w>
+          <w xml:id="t1005" n="1005" lemma="en1+le" pos="PRE.DETdef">el</w>
+          <w xml:id="t1006" n="1006" lemma="suen" pos="PROpos">suen</w>
+        </l>
+        <l>
+          <w xml:id="t1008" n="1008" lemma="se" pos="CONsub">Se</w>
+          <w xml:id="t1009" n="1009" lemma="vos" pos="PROper">vos</w>
+          <w xml:id="t1010" n="1010" lemma="faire" pos="VERinf">feire</w>
+          <w xml:id="t1011" n="1011" lemma="voloir" pos="VERcjg">volez</w>
+          <w xml:id="t1012" n="1012" lemma="mon1" pos="DETpos">mon</w>
+          <w xml:id="t1013" n="1013" lemma="bon" pos="NOMcom">buen</w>
+        </l>
+        <l>
+          <w xml:id="t1015" n="1015" lemma="de" pos="PRE">De</w>
+          <w xml:id="t1016" n="1016" lemma="ce1" pos="PROdem">ce</w>
+          <w xml:id="t1017" n="1017" lemma="que2" pos="PROrel">que</w>
+          <w xml:id="t1018" n="1018" lemma="je" pos="PROper">je</w>
+          <w xml:id="t1019" n="1019" lemma="vos" pos="PROper">vos</w>
+          <w xml:id="t1020" n="1020" lemma="avoir" pos="VERcjg">ai</w>
+          <w xml:id="t1021" n="1021" lemma="requerre" pos="VERppe">requis</w>
+        </l>
+        <l>
+          <w xml:id="t1023" n="1023" lemma="or4" pos="ADVgen">Or</w>
+          <w xml:id="t1024" n="1024" lemma="je" pos="PROper">me</w>
+          <w xml:id="t1025" n="1025" lemma="doner" pos="VERcjg">donez</w>
+          <w xml:id="t1026" n="1026" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t1027" n="1027" lemma="vair1" pos="ADJqua">veir</w>
+          <w xml:id="t1028" n="1028" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t1029" n="1029" lemma="gris" pos="ADJqua">gris</w>
+        </l>
+        <l>
+          <w xml:id="t1031" n="1031" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t1032" n="1032" lemma="bon" pos="ADJqua">boens</w>
+          <w xml:id="t1033" n="1033" lemma="cheval" pos="NOMcom">chevax</w>
+          <w xml:id="t1034" n="1034" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t1035" n="1035" lemma="drap" pos="NOMcom">dras</w>
+          <w xml:id="t1036" n="1036" lemma="de" pos="PRE">de</w>
+          <w xml:id="t1037" n="1037" lemma="soie2" pos="NOMcom">soie</w>
+        </l>
+        <l>
+          <w xml:id="t1039" n="1039" lemma="car" pos="CONcoo">Car</w>
+          <w xml:id="t1040" n="1040" lemma="ainçois" pos="ADVgen">eincois</w>
+          <w xml:id="t1041" n="1041" lemma="que4" pos="CONsub">que</w>
+          <w xml:id="t1042" n="1042" lemma="chevalier" pos="NOMcom">chevaliers</w>
+          <w xml:id="t1043" n="1043" lemma="estre1" pos="VERcjg">soie</w>
+        </l>
+        <l>
+          <w xml:id="t1045" n="1045" lemma="voloir" pos="ADJqua">Voldrai</w>
+          <w xml:id="t1046" n="1046" lemma="servir" pos="VERinf">servir</w>
+          <w xml:id="t1047" n="1047" lemma="le" pos="DETdef">le</w>
+          <w xml:id="t1048" n="1048" lemma="roi2" pos="NOMcom">roi</w>
+          <w xml:id="t1049" n="1049" lemma="Artu" pos="NOMpro">Artu</w>
+        </l>
+        <l>
+          <w xml:id="t1051" n="1051" lemma="ne1" pos="ADVneg">N'</w>
+          <w xml:id="t1053" n="1053" lemma="avoir" pos="VERcjg">ai</w>
+          <w xml:id="t1054" n="1054" lemma="pas" pos="ADVneg">pas</w>
+          <w xml:id="t1055" n="1055" lemma="encore" pos="ADVgen">ancor</w>
+          <w xml:id="t1056" n="1056" lemma="si" pos="ADVgen">si</w>
+          <w xml:id="t1057" n="1057" lemma="grant" pos="ADJqua">grant</w>
+          <w xml:id="t1058" n="1058" lemma="vertu" pos="NOMcom">vertu</w>
+        </l>
+        <l>
+          <w xml:id="t1060" n="1060" lemma="que4" pos="CONsub">Que</w>
+          <w xml:id="t1061" n="1061" lemma="je" pos="PROper">je</w>
+          <w xml:id="t1062" n="1062" lemma="peser" pos="VERcjg">poisse</w>
+          <w xml:id="t1063" n="1063" lemma="arme" pos="NOMcom">armes</w>
+          <w xml:id="t1064" n="1064" lemma="porter" pos="VERinf">porter</w>
+        </l>
+        <l>
+          <w xml:id="t1066" n="1066" lemma="nul" pos="PROind">Nus</w>
+          <w xml:id="t1067" n="1067" lemma="ne1" pos="ADVneg">ne</w>
+          <w xml:id="t1068" n="1068" lemma="je" pos="PROper">m'</w>
+          <w xml:id="t1070" n="1070" lemma="en2" pos="PROadv">an</w>
+          <w xml:id="t1071" n="1071" lemma="pöoir" pos="VERcjg">porroit</w>
+          <w xml:id="t1072" n="1072" lemma="retorner" pos="VERinf">retorner</w>
+        </l>
+        <l>
+          <w xml:id="t1074" n="1074" lemma="par" pos="PRE">Par</w>
+          <w xml:id="t1075" n="1075" lemma="priiere" pos="NOMcom">proiere</w>
+          <w xml:id="t1076" n="1076" lemma="ne2" pos="CONcoo">ne</w>
+          <w xml:id="t1077" n="1077" lemma="par" pos="PRE">par</w>
+          <w xml:id="t1078" n="1078" lemma="losenge2" pos="NOMcom">losange</w>
+        </l>
+        <l>
+          <w xml:id="t1080" n="1080" lemma="que4" pos="CONsub">Que</w>
+          <w xml:id="t1081" n="1081" lemma="je" pos="PROper">je</w>
+          <w xml:id="t1082" n="1082" lemma="ne1" pos="ADVneg">n'</w>
+          <w xml:id="t1084" n="1084" lemma="aler" pos="VERcjg">aille</w>
+          <w xml:id="t1085" n="1085" lemma="en1" pos="PRE">an</w>
+          <w xml:id="t1086" n="1086" lemma="le" pos="DETdef">la</w>
+          <w xml:id="t1087" n="1087" lemma="terre" pos="NOMcom">terre</w>
+          <w xml:id="t1088" n="1088" lemma="estrange" pos="ADJqua">estrange</w>
+        </l>
+        <l>
+          <w xml:id="t1090" n="1090" lemma="vëoir" pos="VERinf">Veoir</w>
+          <w xml:id="t1091" n="1091" lemma="le" pos="DETdef">le</w>
+          <w xml:id="t1092" n="1092" lemma="roi2" pos="NOMcom">roi</w>
+          <w xml:id="t1093" n="1093" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t1094" n="1094" lemma="son4" pos="DETpos">ses</w>
+          <w xml:id="t1095" n="1095" lemma="baron" pos="NOMcom">barons</w>
+        </l>
+        <l>
+          <w xml:id="t1097" n="1097" lemma="de" pos="PRE">De</w>
+          <w xml:id="t1098" n="1098" lemma="cui" pos="PROrel">cui</w>
+          <w xml:id="t1099" n="1099" lemma="si" pos="ADVgen">si</w>
+          <w xml:id="t1100" n="1100" lemma="grant" pos="ADJqua">granz</w>
+          <w xml:id="t1101" n="1101" lemma="estre1" pos="VERcjg">est</w>
+          <w xml:id="t1102" n="1102" lemma="le" pos="DETdef">li</w>
+          <w xml:id="t1103" n="1103" lemma="renom" pos="NOMcom">renons</w>
+        </l>
+        <l>
+          <w xml:id="t1105" n="1105" lemma="de" pos="PRE">De</w>
+          <w xml:id="t1106" n="1106" lemma="cortoisie" pos="NOMcom">corteisie</w>
+          <w xml:id="t1107" n="1107" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t1108" n="1108" lemma="de" pos="PRE">de</w>
+          <w xml:id="t1109" n="1109" lemma="pröece" pos="NOMcom">proesce</w>
+        </l>
+        <l>
+          <w xml:id="t1111" n="1111" lemma="maint" pos="DETind">Maint</w>
+          <w xml:id="t1112" n="1112" lemma="haut" pos="ADJqua">haut</w>
+          <w xml:id="t1113" n="1113" lemma="ome" pos="NOMcom">home</w>
+          <w xml:id="t1114" n="1114" lemma="par" pos="PRE">par</w>
+          <w xml:id="t1115" n="1115" lemma="lor2" pos="DETpos">lor</w>
+          <w xml:id="t1116" n="1116" lemma="perece" pos="NOMcom">peresce</w>
+        </l>
+        <l>
+          <w xml:id="t1118" n="1118" lemma="perdre" pos="VERcjg">Pardent</w>
+          <w xml:id="t1119" n="1119" lemma="grant" pos="ADJqua">grant</w>
+          <w xml:id="t1120" n="1120" lemma="los1" pos="NOMcom">los</w>
+          <w xml:id="t1121" n="1121" lemma="que4" pos="PROrel">qu'</w>
+          <w xml:id="t1123" n="1123" lemma="avoir" pos="VERinf">avoir</w>
+          <w xml:id="t1124" n="1124" lemma="pöoir" pos="VERcjg">porroient</w>
+        </l>
+        <l>
+          <w xml:id="t1126" n="1126" lemma="se" pos="CONsub">Se</w>
+          <w xml:id="t1127" n="1127" lemma="par" pos="PRE">par</w>
+          <w xml:id="t1128" n="1128" lemma="le" pos="DETdef">la</w>
+          <w xml:id="t1129" n="1129" lemma="terre" pos="NOMcom">terre</w>
+          <w xml:id="t1130" n="1130" lemma="cheminer" pos="VERcjg">cheminoient</w>
+        </l>
+        <l>
+          <w xml:id="t1132" n="1132" lemma="ne1" pos="ADVneg">Ne</w>
+          <w xml:id="t1133" n="1133" lemma="soi1" pos="PROper">s'</w>
+          <w xml:id="t1135" n="1135" lemma="acorder" pos="VERcjg">acordent</w>
+          <w xml:id="t1136" n="1136" lemma="pas" pos="ADVneg">pas</w>
+          <w xml:id="t1137" n="1137" lemma="bien1" pos="ADVgen">bien</w>
+          <w xml:id="t1138" n="1138" lemma="ensemble" pos="ADVgen">ansanble</w>
+        </l>
+        <l>
+          <w xml:id="t1140" n="1140" lemma="repos" pos="NOMcom">Repos</w>
+          <w xml:id="t1141" n="1141" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t1142" n="1142" lemma="los1" pos="NOMcom">los</w>
+          <w xml:id="t1143" n="1143" lemma="si" pos="ADVgen">si</w>
+          <w xml:id="t1144" n="1144" lemma="come1" pos="CONsub">com</w>
+          <w xml:id="t1145" n="1145" lemma="je" pos="PROper">moi</w>
+          <w xml:id="t1146" n="1146" lemma="sembler" pos="VERcjg">sanble</w>
+        </l>
+        <l>
+          <w xml:id="t1148" n="1148" lemma="car" pos="CONcoo">Car</w>
+          <w xml:id="t1149" n="1149" lemma="de" pos="PRE">de</w>
+          <w xml:id="t1150" n="1150" lemma="nul" pos="DETind">nule</w>
+          <w xml:id="t1151" n="1151" lemma="rien" pos="NOMcom">rien</w>
+          <w xml:id="t1152" n="1152" lemma="ne1" pos="ADVneg">ne</w>
+          <w xml:id="t1153" n="1153" lemma="soi1" pos="PROper">s'</w>
+          <w xml:id="t1155" n="1155" lemma="aloser" pos="VERcjg">alose</w>
+        </l>
+        <l>
+          <w xml:id="t1157" n="1157" lemma="riche" pos="ADJqua">Riches</w>
+          <w xml:id="t1158" n="1158" lemma="ome" pos="NOMcom">hom</w>
+          <w xml:id="t1159" n="1159" lemma="qui" pos="PROrel">qui</w>
+          <w xml:id="t1160" n="1160" lemma="tot" pos="DETind">toz</w>
+          <w xml:id="t1161" n="1161" lemma="jor" pos="NOMcom">jorz</w>
+          <w xml:id="t1162" n="1162" lemma="reposer" pos="VERcjg">repose</w>
+        </l>
+        <l>
+          <w xml:id="t1164" n="1164" lemma="ainsi" pos="ADVgen">Ensi</w>
+          <w xml:id="t1165" n="1165" lemma="estre1" pos="VERcjg">sont</w>
+          <w xml:id="t1166" n="1166" lemma="contraire1" pos="ADJqua">contraire</w>
+          <w xml:id="t1167" n="1167" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t1168" n="1168" lemma="divers" pos="ADJqua">divers</w>
+        </l>
+        <l>
+          <w xml:id="t1170" n="1170" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t1171" n="1171" lemma="cel" pos="PROdem">cil</w>
+          <w xml:id="t1172" n="1172" lemma="estre1" pos="VERcjg">est</w>
+          <w xml:id="t1173" n="1173" lemma="a3" pos="PRE">a</w>
+          <w xml:id="t1174" n="1174" lemma="son4" pos="DETpos">son</w>
+          <w xml:id="t1175" n="1175" lemma="avoir" pos="NOMcom">avoir</w>
+          <w xml:id="t1176" n="1176" lemma="serf" pos="NOMcom">sers</w>
+        </l>
+        <l>
+          <w xml:id="t1178" n="1178" lemma="qui" pos="PROrel">Qui</w>
+          <w xml:id="t1179" n="1179" lemma="tot" pos="DETind">toz</w>
+          <w xml:id="t1180" n="1180" lemma="jor" pos="NOMcom">jorz</w>
+          <w xml:id="t1181" n="1181" lemma="laissier" pos="VERcjg">lamasse</w>
+          <w xml:id="t1182" n="1182" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t1183" n="1183" lemma="acroistre" pos="VERcjg">acroist</w>
+        </l>
+        <l>
+          <w xml:id="t1185" n="1185" lemma="bel1" pos="ADJqua">Biau</w>
+          <w xml:id="t1186" n="1186" lemma="pere" pos="NOMcom">pere</w>
+          <w xml:id="t1187" n="1187" lemma="tant" pos="ADVgen">tant</w>
+          <w xml:id="t1188" n="1188" lemma="come1" pos="CONsub">com</w>
+          <w xml:id="t1189" n="1189" lemma="il" pos="PROimp">il</w>
+          <w xml:id="t1190" n="1190" lemma="je" pos="PROper">me</w>
+          <w xml:id="t1191" n="1191" lemma="loisir1" pos="VERcjg">loist</w>
+        </l>
+        <l>
+          <w xml:id="t1193" n="1193" lemma="los1" pos="PROper">Los</w>
+          <w xml:id="t1194" n="1194" lemma="conquerre" pos="VERinf">conquerre</w>
+          <w xml:id="t1195" n="1195" lemma="se" pos="CONsub">se</w>
+          <w xml:id="t1196" n="1196" lemma="je" pos="PROper">je</w>
+          <w xml:id="t1197" n="1197" lemma="tant" pos="ADVgen">tant</w>
+          <w xml:id="t1198" n="1198" lemma="valoir" pos="VERcjg">vail</w>
+        </l>
+        <l>
+          <w xml:id="t1200" n="1200" lemma="i2" pos="PONfrt">I</w>
+          <w xml:id="t1201" n="1201" lemma="voloir" pos="VERcjg">vuel</w>
+          <w xml:id="t1202" n="1202" lemma="metre2" pos="VERinf">metre</w>
+          <w xml:id="t1203" n="1203" lemma="peine" pos="NOMcom">poinne</w>
+          <w xml:id="t1204" n="1204" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t1205" n="1205" lemma="travail" pos="NOMcom">travail</w>
+        </l>
+        <l>
+          <w xml:id="t1207" n="1207" lemma="de" pos="PRE">De</w>
+          <w xml:id="t1208" n="1208" lemma="cest" pos="DETdem">ceste</w>
+          <w xml:id="t1209" n="1209" lemma="chose" pos="NOMcom">chose</w>
+          <w xml:id="t1210" n="1210" lemma="sans" pos="PRE">sanz</w>
+          <w xml:id="t1211" n="1211" lemma="dotance" pos="NOMcom">dotance</w>
+        </l>
+        <l>
+          <w xml:id="t1213" n="1213" lemma="le" pos="DETdef">L'</w>
+          <w xml:id="t1215" n="1215" lemma="emperëor" pos="NOMcom">emperere</w>
+          <w xml:id="t1216" n="1216" lemma="avoir" pos="VERcjg">ot</w>
+          <w xml:id="t1217" n="1217" lemma="joie" pos="NOMcom">joie</w>
+          <w xml:id="t1218" n="1218" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t1219" n="1219" lemma="pesance" pos="NOMcom">pesance</w>
+        </l>
+        <l>
+          <w xml:id="t1221" n="1221" lemma="joie" pos="NOMcom">Joie</w>
+          <w xml:id="t1222" n="1222" lemma="avoir" pos="VERcjg">a</w>
+          <w xml:id="t1223" n="1223" lemma="de" pos="PRE">de</w>
+          <w xml:id="t1224" n="1224" lemma="ce1" pos="PROdem">ce</w>
+          <w xml:id="t1225" n="1225" lemma="que4" pos="CONsub">que</w>
+          <w xml:id="t1226" n="1226" lemma="il" pos="PROper">il</w>
+          <w xml:id="t1227" n="1227" lemma="entendre" pos="VERcjg">antant</w>
+        </l>
+        <l>
+          <w xml:id="t1229" n="1229" lemma="que4" pos="CONsub">Que</w>
+          <w xml:id="t1230" n="1230" lemma="son4" pos="DETpos">ses</w>
+          <w xml:id="t1231" n="1231" lemma="fil2" pos="NOMcom">filz</w>
+          <w xml:id="t1232" n="1232" lemma="a3" pos="PRE">a</w>
+          <w xml:id="t1233" n="1233" lemma="pröece" pos="NOMcom">proesce</w>
+          <w xml:id="t1234" n="1234" lemma="entendre" pos="VERcjg">antant</w>
+        </l>
+        <l>
+          <w xml:id="t1236" n="1236" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t1237" n="1237" lemma="pesance" pos="NOMcom">pesance</w>
+          <w xml:id="t1238" n="1238" lemma="de" pos="PRE">de</w>
+          <w xml:id="t1239" n="1239" lemma="le" pos="DETdef">l'</w>
+          <w xml:id="t1241" n="1241" lemma="autre" pos="ADJind">autre</w>
+          <w xml:id="t1242" n="1242" lemma="part1" pos="NOMcom">part</w>
+        </l>
+        <l>
+          <w xml:id="t1244" n="1244" lemma="de" pos="PRE">De</w>
+          <w xml:id="t1245" n="1245" lemma="ce1" pos="PROdem">ce</w>
+          <w xml:id="t1246" n="1246" lemma="que4" pos="CONsub">que</w>
+          <w xml:id="t1247" n="1247" lemma="de" pos="PRE">de</w>
+          <w xml:id="t1248" n="1248" lemma="il" pos="PROper">lui</w>
+          <w xml:id="t1249" n="1249" lemma="soi1" pos="PROper">se</w>
+          <w xml:id="t1250" n="1250" lemma="departir" pos="VERcjg">depart</w>
+        </l>
+        <l>
+          <w xml:id="t1252" n="1252" lemma="Mès" pos="NOMpro">Mes</w>
+          <w xml:id="t1253" n="1253" lemma="por2" pos="PRE">por</w>
+          <w xml:id="t1254" n="1254" lemma="le" pos="DETdef">l'</w>
+          <w xml:id="t1256" n="1256" lemma="otroi" pos="NOMcom">otroi</w>
+          <w xml:id="t1257" n="1257" lemma="que2" pos="PROrel">qu'</w>
+          <w xml:id="t1259" n="1259" lemma="il" pos="PROper">il</w>
+          <w xml:id="t1260" n="1260" lemma="en2" pos="PROadv">en</w>
+          <w xml:id="t1261" n="1261" lemma="avoir" pos="VERcjg">a</w>
+          <w xml:id="t1262" n="1262" lemma="faire" pos="VERppe">fait</w>
+        </l>
+        <l>
+          <w xml:id="t1264" n="1264" lemma="quel1" pos="DETint">Quelque</w>
+          <w xml:id="t1265" n="1265" lemma="pesance" pos="NOMcom">pesance</w>
+          <w xml:id="t1266" n="1266" lemma="que4" pos="PROrel">qu'</w>
+          <w xml:id="t1268" n="1268" lemma="il" pos="PROper">il</w>
+          <w xml:id="t1269" n="1269" lemma="en2" pos="PROadv">en</w>
+          <w xml:id="t1270" n="1270" lemma="avoir" pos="VERcjg">ait</w>
+        </l>
+        <l>
+          <w xml:id="t1272" n="1272" lemma="[" pos="PONfbl">[</w>
+          <w xml:id="t1273" n="1273" lemma="sen2" pos="NOMcom">54f</w>
+          <w xml:id="t1274" n="1274" lemma="]" pos="PONfbl">]</w>
+          <w xml:id="t1275" n="1275" lemma="il" pos="DETdef">Li</w>
+          <w xml:id="t1276" n="1276" lemma="covenir" pos="VERcjg">covient</w>
+          <w xml:id="t1277" n="1277" lemma="son4" pos="DETpos">son</w>
+          <w xml:id="t1278" n="1278" lemma="bon" pos="NOMcom">boen</w>
+          <w xml:id="t1279" n="1279" lemma="consentir" pos="NOMcom">consantir</w>
+        </l>
+        <l>
+          <w xml:id="t1281" n="1281" lemma="que4" pos="PROrel">Qu'</w>
+          <w xml:id="t1283" n="1283" lemma="emperëor" pos="NOMcom">ampereres</w>
+          <w xml:id="t1284" n="1284" lemma="ne1" pos="ADVneg">ne</w>
+          <w xml:id="t1285" n="1285" lemma="devoir" pos="VERcjg">doit</w>
+          <w xml:id="t1286" n="1286" lemma="mentir" pos="VERinf">mantir</w>
+        </l>
+        <l>
+          <w xml:id="t1288" n="1288" lemma="bel1" pos="ADJqua">Biax</w>
+          <w xml:id="t1289" n="1289" lemma="fil2" pos="NOMcom">filz</w>
+          <w xml:id="t1290" n="1290" lemma="faire" pos="VERcjg">fet</w>
+          <w xml:id="t1291" n="1291" lemma="il" pos="PROper">il</w>
+          <w xml:id="t1292" n="1292" lemma="laissier" pos="VERinf">lessier</w>
+          <w xml:id="t1293" n="1293" lemma="ne2" pos="ADVneg">ne</w>
+          <w xml:id="t1294" n="1294" lemma="devoir" pos="VERcjg">doi</w>
+        </l>
+        <l>
+          <w xml:id="t1296" n="1296" lemma="puis" pos="ADVgen">Puis</w>
+          <w xml:id="t1297" n="1297" lemma="que4" pos="CONsub">qu'</w>
+          <w xml:id="t1299" n="1299" lemma="a3" pos="PRE">a</w>
+          <w xml:id="t1300" n="1300" lemma="onor" pos="NOMcom">enor</w>
+          <w xml:id="t1301" n="1301" lemma="tendre1" pos="VERinf">tandre</w>
+          <w xml:id="t1302" n="1302" lemma="vos" pos="PROper">vos</w>
+          <w xml:id="t1303" n="1303" lemma="vëoir" pos="VERcjg">voi</w>
+        </l>
+        <l>
+          <w xml:id="t1305" n="1305" lemma="que4" pos="CONsub">Que</w>
+          <w xml:id="t1306" n="1306" lemma="ne1" pos="ADVneg">ne</w>
+          <w xml:id="t1307" n="1307" lemma="faire" pos="VERcjg">face</w>
+          <w xml:id="t1308" n="1308" lemma="vostre" pos="DETpos">vostre</w>
+          <w xml:id="t1309" n="1309" lemma="plaisir" pos="NOMcom">pleisir</w>
+        </l>
+        <l>
+          <w xml:id="t1311" n="1311" lemma="en1" pos="PRE">An</w>
+          <w xml:id="t1312" n="1312" lemma="mon1" pos="DETpos">mes</w>
+          <w xml:id="t1313" n="1313" lemma="tresor" pos="NOMcom">tresors</w>
+          <w xml:id="t1314" n="1314" lemma="pöoir" pos="VERcjg">poez</w>
+          <w xml:id="t1315" n="1315" lemma="saisir" pos="VERinf">seisir</w>
+        </l>
+        <l>
+          <w xml:id="t1317" n="1317" lemma="de" pos="PRE">D'</w>
+          <w xml:id="t1319" n="1319" lemma="or1" pos="NOMcom">or</w>
+          <w xml:id="t1320" n="1320" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t1321" n="1321" lemma="de" pos="PRE">d'</w>
+          <w xml:id="t1323" n="1323" lemma="argent" pos="NOMcom">argent</w>
+          <w xml:id="t1324" n="1324" lemma="plein" pos="ADJqua">plainnes</w>
+          <w xml:id="t1325" n="1325" lemma="." pos="PONfrt">.</w>
+          <w xml:id="t1326" n="1326" lemma="je" pos="PROper">ij</w>
+          <w xml:id="t1327" n="1327" lemma="." pos="PONfrt">.</w>
+          <w xml:id="t1328" n="1328" lemma="barge" pos="NOMcom">barges</w>
+        </l>
+        <l>
+          <w xml:id="t1330" n="1330" lemma="Mès" pos="NOMpro">Mes</w>
+          <w xml:id="t1331" n="1331" lemma="mout" pos="ADVgen">molt</w>
+          <w xml:id="t1332" n="1332" lemma="covenir" pos="VERcjg">covient</w>
+          <w xml:id="t1333" n="1333" lemma="que4" pos="CONsub">que</w>
+          <w xml:id="t1334" n="1334" lemma="estre1" pos="VERcjg">soiez</w>
+          <w xml:id="t1335" n="1335" lemma="large" pos="ADJqua">larges</w>
+        </l>
+        <l>
+          <w xml:id="t1337" n="1337" lemma="or4" pos="ADVgen">Or</w>
+          <w xml:id="t1338" n="1338" lemma="estre1" pos="VERcjg">est</w>
+          <w xml:id="t1339" n="1339" lemma="le" pos="DETdef">li</w>
+          <w xml:id="t1340" n="1340" lemma="vaslet" pos="NOMcom">vaslez</w>
+          <w xml:id="t1341" n="1341" lemma="bien1" pos="ADVgen">bien</w>
+          <w xml:id="t1342" n="1342" lemma="haitier" pos="VERppe">heitiez</w>
+        </l>
+        <l>
+          <w xml:id="t1344" n="1344" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t1345" n="1345" lemma="cortois" pos="ADJqua">cortois</w>
+          <w xml:id="t1346" n="1346" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t1347" n="1347" lemma="bien1" pos="ADVgen">bien</w>
+          <w xml:id="t1348" n="1348" lemma="afaitier" pos="VERppe">afeitiez</w>
+        </l>
+        <l>
+          <w xml:id="t1350" n="1350" lemma="cant1" pos="CONsub">Quant</w>
+          <w xml:id="t1351" n="1351" lemma="son4" pos="DETpos">ses</w>
+          <w xml:id="t1352" n="1352" lemma="pere" pos="NOMcom">peres</w>
+          <w xml:id="t1353" n="1353" lemma="tant" pos="ADVgen">tant</w>
+          <w xml:id="t1354" n="1354" lemma="il" pos="PROper">li</w>
+          <w xml:id="t1355" n="1355" lemma="prometre" pos="VERcjg">promet</w>
+        </l>
+        <l>
+          <w xml:id="t1357" n="1357" lemma="que4" pos="CONsub">Qu'</w>
+          <w xml:id="t1359" n="1359" lemma="abandon" pos="NOMcom">abandon</w>
+          <w xml:id="t1360" n="1360" lemma="son4" pos="DETpos">ses</w>
+          <w xml:id="t1361" n="1361" lemma="tresor" pos="NOMcom">tresors</w>
+          <w xml:id="t1362" n="1362" lemma="il" pos="PROper">li</w>
+          <w xml:id="t1363" n="1363" lemma="metre2" pos="VERcjg">met</w>
+        </l>
+        <l>
+          <w xml:id="t1365" n="1365" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t1366" n="1366" lemma="si" pos="ADVgen">si</w>
+          <w xml:id="t1367" n="1367" lemma="le" pos="DETdef">l'</w>
+          <w xml:id="t1369" n="1369" lemma="onor" pos="NOMcom">enore</w>
+          <w xml:id="t1370" n="1370" lemma="ci" pos="ADVgen">ci</w>
+          <w xml:id="t1371" n="1371" lemma="il" pos="PROper">li</w>
+          <w xml:id="t1372" n="1372" lemma="comander" pos="VERcjg">comande</w>
+        </l>
+        <l>
+          <w xml:id="t1374" n="1374" lemma="que4" pos="CONsub">Que</w>
+          <w xml:id="t1375" n="1375" lemma="largement" pos="ADVgen">largemant</w>
+          <w xml:id="t1376" n="1376" lemma="doner" pos="VERcjg">doint</w>
+          <w xml:id="t1377" n="1377" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t1378" n="1378" lemma="despendre2" pos="VERcjg">despande</w>
+        </l>
+        <l>
+          <w xml:id="t1380" n="1380" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t1381" n="1381" lemma="si" pos="ADVgen">si</w>
+          <w xml:id="t1382" n="1382" lemma="il" pos="PROper">li</w>
+          <w xml:id="t1383" n="1383" lemma="dire" pos="VERcjg">dit</w>
+          <w xml:id="t1384" n="1384" lemma="raison" pos="NOMcom">reison</w>
+          <w xml:id="t1385" n="1385" lemma="por2" pos="PRE">por</w>
+          <w xml:id="t1386" n="1386" lemma="coi2" pos="PROrel">coi</w>
+        </l>
+        <l>
+          <w xml:id="t1388" n="1388" lemma="bel1" pos="ADJqua">Biax</w>
+          <w xml:id="t1389" n="1389" lemma="fil2" pos="NOMcom">filz</w>
+          <w xml:id="t1390" n="1390" lemma="faire" pos="VERcjg">fet</w>
+          <w xml:id="t1391" n="1391" lemma="il" pos="PROper">il</w>
+          <w xml:id="t1392" n="1392" lemma="de" pos="PRE">de</w>
+          <w xml:id="t1393" n="1393" lemma="ce1" pos="PROdem">ce</w>
+          <w xml:id="t1394" n="1394" lemma="je" pos="PROper">me</w>
+          <w xml:id="t1395" n="1395" lemma="croire" pos="VERcjg">croi</w>
+        </l>
+        <l>
+          <w xml:id="t1397" n="1397" lemma="que4" pos="CONsub">Que</w>
+          <w xml:id="t1398" n="1398" lemma="largece" pos="NOMpro">Largesce</w>
+          <w xml:id="t1399" n="1399" lemma="estre1" pos="VERcjg">est</w>
+          <w xml:id="t1400" n="1400" lemma="dame" pos="NOMcom">dame</w>
+          <w xml:id="t1401" n="1401" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t1402" n="1402" lemma="röine1" pos="NOMcom">reine</w>
+        </l>
+        <l>
+          <w xml:id="t1404" n="1404" lemma="qui" pos="PROrel">Qui</w>
+          <w xml:id="t1405" n="1405" lemma="tot" pos="DETind">totes</w>
+          <w xml:id="t1406" n="1406" lemma="vertu" pos="NOMcom">vertuz</w>
+          <w xml:id="t1407" n="1407" lemma="enluminer" pos="VERcjg">anlumine</w>
+        </l>
+        <l>
+          <w xml:id="t1409" n="1409" lemma="ne1" pos="ADVneg">Ne</w>
+          <w xml:id="t1410" n="1410" lemma="ne1" pos="ADVneg">n'</w>
+          <w xml:id="t1412" n="1412" lemma="estre1" pos="VERcjg">est</w>
+          <w xml:id="t1413" n="1413" lemma="mie" pos="ADVneg">mie</w>
+          <w xml:id="t1414" n="1414" lemma="grief" pos="ADJqua">grief</w>
+          <w xml:id="t1415" n="1415" lemma="a3" pos="PRE">a</w>
+          <w xml:id="t1416" n="1416" lemma="prover" pos="VERinf">prover</w>
+        </l>
+        <l>
+          <w xml:id="t1418" n="1418" lemma="a3" pos="PRE">A</w>
+          <w xml:id="t1419" n="1419" lemma="quel1" pos="PROrel">quel</w>
+          <w xml:id="t1420" n="1420" lemma="bien1" pos="NOMcom">bien</w>
+          <w xml:id="t1421" n="1421" lemma="cel" pos="PROdem">cil</w>
+          <w xml:id="t1422" n="1422" lemma="soi1" pos="PROper">se</w>
+          <w xml:id="t1423" n="1423" lemma="pöoir" pos="VERcjg">puet</w>
+          <w xml:id="t1424" n="1424" lemma="torner" pos="VERinf">torner</w>
+        </l>
+        <l>
+          <w xml:id="t1426" n="1426" lemma="ja" pos="ADVgen">Ja</w>
+          <w xml:id="t1427" n="1427" lemma="tant" pos="ADVgen">tant</w>
+          <w xml:id="t1428" n="1428" lemma="ne1" pos="ADVneg">ne</w>
+          <w xml:id="t1429" n="1429" lemma="estre1" pos="VERcjg">soit</w>
+          <w xml:id="t1430" n="1430" lemma="poissant" pos="ADJqua">puissanz</w>
+          <w xml:id="t1431" n="1431" lemma="ne2" pos="CONcoo">ne</w>
+          <w xml:id="t1432" n="1432" lemma="riche" pos="ADJqua">riches</w>
+        </l>
+        <l>
+          <w xml:id="t1434" n="1434" lemma="ne2" pos="ADVneg">Ne</w>
+          <w xml:id="t1435" n="1435" lemma="estre1" pos="VERcjg">soit</w>
+          <w xml:id="t1436" n="1436" lemma="ome" pos="NOMcom">homz</w>
+          <w xml:id="t1437" n="1437" lemma="se" pos="CONsub">se</w>
+          <w xml:id="t1438" n="1438" lemma="il" pos="PROimp">il</w>
+          <w xml:id="t1439" n="1439" lemma="estre1" pos="VERcjg">est</w>
+          <w xml:id="t1440" n="1440" lemma="chief1" pos="NOMcom">chiches</w>
+        </l>
+        <l>
+          <w xml:id="t1442" n="1442" lemma="qui" pos="PROrel">Qui</w>
+          <w xml:id="t1443" n="1443" lemma="atant" pos="VERcjg">atant</w>
+          <w xml:id="t1444" n="1444" lemma="de" pos="PRE">d'</w>
+          <w xml:id="t1446" n="1446" lemma="autre" pos="PROind">autre</w>
+          <w xml:id="t1447" n="1447" lemma="bien1" pos="ADVgen">bien</w>
+          <w xml:id="t1448" n="1448" lemma="sans" pos="PRE">sanz</w>
+          <w xml:id="t1449" n="1449" lemma="grace" pos="NOMcom">grace</w>
+        </l>
+        <l>
+          <w xml:id="t1451" n="1451" lemma="que4" pos="CONsub">Que</w>
+          <w xml:id="t1452" n="1452" lemma="largece" pos="NOMpro">Largesce</w>
+          <w xml:id="t1453" n="1453" lemma="löer1" pos="VERinf">loer</w>
+          <w xml:id="t1454" n="1454" lemma="ne1" pos="ADVneg">ne</w>
+          <w xml:id="t1455" n="1455" lemma="faire" pos="VERcjg">face</w>
+        </l>
+        <l>
+          <w xml:id="t1457" n="1457" lemma="par" pos="PRE">Par</w>
+          <w xml:id="t1458" n="1458" lemma="foi" pos="NOMcom">foi</w>
+          <w xml:id="t1459" n="1459" lemma="faire" pos="VERppe">fet</w>
+          <w xml:id="t1460" n="1460" lemma="prodome" pos="ADJqua">prodome</w>
+          <w xml:id="t1461" n="1461" lemma="largece" pos="NOMcom">largesce</w>
+        </l>
+        <l>
+          <w xml:id="t1463" n="1463" lemma="ce1" pos="PROdem">Ce</w>
+          <w xml:id="t1464" n="1464" lemma="que2" pos="PROrel">que</w>
+          <w xml:id="t1465" n="1465" lemma="ne1" pos="ADVneg">ne</w>
+          <w xml:id="t1466" n="1466" lemma="pöoir" pos="VERcjg">puet</w>
+          <w xml:id="t1467" n="1467" lemma="faire" pos="VERinf">feire</w>
+          <w xml:id="t1468" n="1468" lemma="hautece" pos="NOMcom">Hautesce</w>
+        </l>
+        <l>
+          <w xml:id="t1470" n="1470" lemma="ne2" pos="CONcoo">Ne</w>
+          <w xml:id="t1471" n="1471" lemma="cortoisie" pos="NOMcom">Corteisie</w>
+          <w xml:id="t1472" n="1472" lemma="ne2" pos="CONcoo">ne</w>
+          <w xml:id="t1473" n="1473" lemma="savoir" pos="VERinf">Savoir</w>
+        </l>
+        <l>
+          <w xml:id="t1475" n="1475" lemma="ne2" pos="CONcoo">Ne</w>
+          <w xml:id="t1476" n="1476" lemma="gentillece" pos="NOMcom">Gentillesce</w>
+          <w xml:id="t1477" n="1477" lemma="ne2" pos="CONcoo">ne</w>
+          <w xml:id="t1478" n="1478" lemma="avoir" pos="VERinf">Avoir</w>
+        </l>
+        <l>
+          <w xml:id="t1480" n="1480" lemma="ne2" pos="CONcoo">Ne</w>
+          <w xml:id="t1481" n="1481" lemma="force2" pos="NOMcom">Force</w>
+          <w xml:id="t1482" n="1482" lemma="ne2" pos="CONcoo">ne</w>
+          <w xml:id="t1483" n="1483" lemma="chevalerie" pos="NOMcom">Chevalerie</w>
+        </l>
+        <l>
+          <w xml:id="t1485" n="1485" lemma="ne2" pos="CONcoo">Ne</w>
+          <w xml:id="t1486" n="1486" lemma="pröece" pos="NOMcom">Proesce</w>
+          <w xml:id="t1487" n="1487" lemma="ne2" pos="CONcoo">ne</w>
+          <w xml:id="t1488" n="1488" lemma="seignorie" pos="NOMcom">Seignorie</w>
+        </l>
+        <l>
+          <w xml:id="t1490" n="1490" lemma="ne2" pos="CONcoo">Ne</w>
+          <w xml:id="t1491" n="1491" lemma="biauté" pos="NOMpro">Biautez</w>
+          <w xml:id="t1492" n="1492" lemma="ne2" pos="CONcoo">ne</w>
+          <w xml:id="t1493" n="1493" lemma="nul" pos="DETind">nule</w>
+          <w xml:id="t1494" n="1494" lemma="autre" pos="ADJind">autre</w>
+          <w xml:id="t1495" n="1495" lemma="chose" pos="NOMcom">chose</w>
+        </l>
+        <l>
+          <w xml:id="t1497" n="1497" lemma="Mès" pos="CONcoo">Mes</w>
+          <w xml:id="t1498" n="1498" lemma="tot" pos="ADVgen">tot</w>
+          <w xml:id="t1499" n="1499" lemma="aussi" pos="ADVgen">ausi</w>
+          <w xml:id="t1500" n="1500" lemma="come1" pos="CONsub">come</w>
+          <w xml:id="t1501" n="1501" lemma="le" pos="DETdef">la</w>
+          <w xml:id="t1502" n="1502" lemma="rose" pos="NOMcom">rose</w>
+        </l>
+        <l>
+          <w xml:id="t1504" n="1504" lemma="estre1" pos="VERcjg">Est</w>
+          <w xml:id="t1505" n="1505" lemma="plus" pos="ADVgen">plus</w>
+          <w xml:id="t1506" n="1506" lemma="que1" pos="CONsub">que</w>
+          <w xml:id="t1507" n="1507" lemma="nul" pos="DETind">nule</w>
+          <w xml:id="t1508" n="1508" lemma="autre" pos="ADJind">autre</w>
+          <w xml:id="t1509" n="1509" lemma="flor1" pos="NOMcom">flors</w>
+          <w xml:id="t1510" n="1510" lemma="bel1" pos="ADJqua">bele</w>
+        </l>
+        <l>
+          <w xml:id="t1512" n="1512" lemma="cant1" pos="CONsub">Quant</w>
+          <w xml:id="t1513" n="1513" lemma="il" pos="PROper">ele</w>
+          <w xml:id="t1514" n="1514" lemma="naistre" pos="VERcjg">neist</w>
+          <w xml:id="t1515" n="1515" lemma="frois1" pos="ADJqua">fresche</w>
+          <w xml:id="t1516" n="1516" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t1517" n="1517" lemma="novele" pos="ADJqua">novele</w>
+        </l>
+        <l>
+          <w xml:id="t1519" n="1519" lemma="ainsi" pos="ADVgen">Ensi</w>
+          <w xml:id="t1520" n="1520" lemma="le" pos="PROper">la</w>
+          <w xml:id="t1521" n="1521" lemma="où" pos="PROrel">ou</w>
+          <w xml:id="t1522" n="1522" lemma="largece" pos="NOMcom">largesce</w>
+          <w xml:id="t1523" n="1523" lemma="avenir" pos="VERcjg">avient</w>
+        </l>
+        <l>
+          <w xml:id="t1525" n="1525" lemma="de" pos="PRE">De</w>
+          <w xml:id="t1526" n="1526" lemma="sor2" pos="PRE">sor</w>
+          <w xml:id="t1527" n="1527" lemma="tot" pos="DETind">totes</w>
+          <w xml:id="t1528" n="1528" lemma="vertu" pos="NOMcom">vertuz</w>
+          <w xml:id="t1529" n="1529" lemma="soi1" pos="PROper">se</w>
+          <w xml:id="t1530" n="1530" lemma="tenir1" pos="VERcjg">tient</w>
+        </l>
+        <l>
+          <w xml:id="t1532" n="1532" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t1533" n="1533" lemma="le" pos="DETdef">les</w>
+          <w xml:id="t1534" n="1534" lemma="bonté" pos="NOMcom">bontez</w>
+          <w xml:id="t1535" n="1535" lemma="que2" pos="PROrel">que</w>
+          <w xml:id="t1536" n="1536" lemma="il" pos="PROper">ele</w>
+          <w xml:id="t1537" n="1537" lemma="trover" pos="VERcjg">trueve</w>
+        </l>
+        <l>
+          <w xml:id="t1539" n="1539" lemma="en1" pos="PRE">An</w>
+          <w xml:id="t1540" n="1540" lemma="prodome" pos="NOMcom">prodome</w>
+          <w xml:id="t1541" n="1541" lemma="qui" pos="PROrel">qui</w>
+          <w xml:id="t1542" n="1542" lemma="bien1" pos="ADVgen">bien</w>
+          <w xml:id="t1543" n="1543" lemma="soi1" pos="PROper">s'</w>
+          <w xml:id="t1545" n="1545" lemma="esprover" pos="VERcjg">eprueve</w>
+        </l>
+        <l>
+          <w xml:id="t1547" n="1547" lemma="faire" pos="VERppe">Fet</w>
+          <w xml:id="t1548" n="1548" lemma="a3" pos="PRE">a</w>
+          <w xml:id="t1549" n="1549" lemma="." pos="PONfrt">.</w>
+          <w xml:id="t1550" n="1550" lemma="cinc" pos="DETcar">v</w>
+          <w xml:id="t1551" n="1551" lemma="." pos="PONfrt">.</w>
+          <w xml:id="t1552" n="1552" lemma="cent" pos="DETcar">c</w>
+          <w xml:id="t1553" n="1553" lemma="." pos="PONfrt">.</w>
+          <w xml:id="t1554" n="1554" lemma="doble" pos="NOMcom">dobles</w>
+          <w xml:id="t1555" n="1555" lemma="monter" pos="VERinf">monter</w>
+        </l>
+        <l>
+          <w xml:id="t1557" n="1557" lemma="tant" pos="ADVgen">Tant</w>
+          <w xml:id="t1558" n="1558" lemma="avoir" pos="VERcjg">a</w>
+          <w xml:id="t1559" n="1559" lemma="en1" pos="PRE">en</w>
+          <w xml:id="t1560" n="1560" lemma="largece" pos="NOMcom">largesce</w>
+          <w xml:id="t1561" n="1561" lemma="a3" pos="PRE">a</w>
+          <w xml:id="t1562" n="1562" lemma="conter" pos="VERinf">conter</w>
+        </l>
+        <l>
+          <w xml:id="t1564" n="1564" lemma="que4" pos="CONsub">Que</w>
+          <w xml:id="t1565" n="1565" lemma="ne1" pos="ADVneg">n'</w>
+          <w xml:id="t1567" n="1567" lemma="en2" pos="PROadv">an</w>
+          <w xml:id="t1568" n="1568" lemma="dire" pos="VERcjg">diroie</w>
+          <w xml:id="t1569" n="1569" lemma="le" pos="DETdef">la</w>
+          <w xml:id="t1570" n="1570" lemma="moitié" pos="NOMcom">mitie</w>
+        </l>
+        <l>
+          <w xml:id="t1572" n="1572" lemma="bien1" pos="ADVgen">Bien</w>
+          <w xml:id="t1573" n="1573" lemma="avoir" pos="VERcjg">a</w>
+          <w xml:id="t1574" n="1574" lemma="le" pos="PROper">li</w>
+          <w xml:id="t1575" n="1575" lemma="vaslet" pos="VERppe">vaslez</w>
+          <w xml:id="t1576" n="1576" lemma="esploitier" pos="VERppe">esploitie</w>
+        </l>
+        <l>
+          <w xml:id="t1578" n="1578" lemma="de" pos="PRE">De</w>
+          <w xml:id="t1579" n="1579" lemma="cant2" pos="PROind">quan</w>
+          <w xml:id="t1580" n="1580" lemma="que2" pos="PROrel">qu'</w>
+          <w xml:id="t1582" n="1582" lemma="il" pos="PROper">il</w>
+          <w xml:id="t1583" n="1583" lemma="avoir" pos="VERcjg">a</w>
+          <w xml:id="t1584" n="1584" lemma="querre" pos="VERppe">quis</w>
+          <w xml:id="t1585" n="1585" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t1586" n="1586" lemma="rover" pos="ADJqua">rove</w>
+        </l>
+        <l>
+          <w xml:id="t1588" n="1588" lemma="car" pos="CONcoo">Car</w>
+          <w xml:id="t1589" n="1589" lemma="son4" pos="DETpos">ses</w>
+          <w xml:id="t1590" n="1590" lemma="pere" pos="NOMcom">peres</w>
+          <w xml:id="t1591" n="1591" lemma="il" pos="PROper">li</w>
+          <w xml:id="t1592" n="1592" lemma="avoir" pos="VERcjg">a</w>
+          <w xml:id="t1593" n="1593" lemma="rover" pos="VERppe">rove</w>
+        </l>
+        <l>
+          <w xml:id="t1595" n="1595" lemma="[" pos="PONfbl">[</w>
+          <w xml:id="t1596" n="1596" lemma="çaienz" pos="VERcjg">55a</w>
+          <w xml:id="t1597" n="1597" lemma="]" pos="PONfbl">]</w>
+          <w xml:id="t1598" n="1598" lemma="tot" pos="PROind">Tot</w>
+          <w xml:id="t1599" n="1599" lemma="ce1" pos="PROdem">ce</w>
+          <w xml:id="t1600" n="1600" lemma="que2" pos="PROrel">qu'</w>
+          <w xml:id="t1602" n="1602" lemma="il" pos="PROper">il</w>
+          <w xml:id="t1603" n="1603" lemma="venir" pos="VERcjg">vint</w>
+          <w xml:id="t1604" n="1604" lemma="avoir" pos="PRE">a</w>
+          <w xml:id="t1605" n="1605" lemma="crëanter" pos="NOMcom">creante</w>
+        </l>
+        <l>
+          <w xml:id="t1607" n="1607" lemma="le" pos="DETdef">L'</w>
+          <w xml:id="t1609" n="1609" lemma="empererriz" pos="NOMcom">empereriz</w>
+          <w xml:id="t1610" n="1610" lemma="estre1" pos="VERcjg">fu</w>
+          <w xml:id="t1611" n="1611" lemma="mout" pos="ADVgen">molt</w>
+          <w xml:id="t1612" n="1612" lemma="dolent" pos="ADJqua">dolante</w>
+        </l>
+        <l>
+          <w xml:id="t1614" n="1614" lemma="cant1" pos="CONsub">Quant</w>
+          <w xml:id="t1615" n="1615" lemma="de" pos="PRE">de</w>
+          <w xml:id="t1616" n="1616" lemma="le" pos="DETdef">la</w>
+          <w xml:id="t1617" n="1617" lemma="voie" pos="NOMcom">voie</w>
+          <w xml:id="t1618" n="1618" lemma="öir" pos="VERcjg">oi</w>
+          <w xml:id="t1619" n="1619" lemma="parler" pos="VERinf">parler</w>
+        </l>
+        <l>
+          <w xml:id="t1621" n="1621" lemma="où" pos="PROrel">Ou</w>
+          <w xml:id="t1622" n="1622" lemma="son4" pos="DETpos">ses</w>
+          <w xml:id="t1623" n="1623" lemma="fil2" pos="NOMcom">filz</w>
+          <w xml:id="t1624" n="1624" lemma="en2" pos="PROadv">an</w>
+          <w xml:id="t1625" n="1625" lemma="devoir" pos="VERcjg">devoit</w>
+          <w xml:id="t1626" n="1626" lemma="aler" pos="VERinf">aler</w>
+        </l>
+        <l>
+          <w xml:id="t1628" n="1628" lemma="Mès" pos="NOMpro">Mes</w>
+          <w xml:id="t1629" n="1629" lemma="qui" pos="PROrel">qui</w>
+          <w xml:id="t1630" n="1630" lemma="cant1" pos="CONsub">quan</w>
+          <w xml:id="t1631" n="1631" lemma="avoir" pos="VERcjg">ait</w>
+          <w xml:id="t1632" n="1632" lemma="duel" pos="NOMcom">duel</w>
+          <w xml:id="t1633" n="1633" lemma="ne1" pos="CONcoo">ne</w>
+          <w xml:id="t1634" n="1634" lemma="pesance" pos="NOMcom">pesance</w>
+        </l>
+        <l>
+          <w xml:id="t1636" n="1636" lemma="ne2" pos="CONcoo">Ne</w>
+          <w xml:id="t1637" n="1637" lemma="qui" pos="PROrel">qui</w>
+          <w xml:id="t1638" n="1638" lemma="que4" pos="CONsub">que</w>
+          <w xml:id="t1639" n="1639" lemma="le" pos="DETdef">li</w>
+          <w xml:id="t1640" n="1640" lemma="tort2" pos="NOMcom">tort</w>
+          <w xml:id="t1641" n="1641" lemma="avoir" pos="VERcjg">a</w>
+          <w xml:id="t1642" n="1642" lemma="enfance" pos="NOMcom">enfance</w>
+        </l>
+        <l>
+          <w xml:id="t1644" n="1644" lemma="ne2" pos="ADVneg">Ne</w>
+          <w xml:id="t1645" n="1645" lemma="qui" pos="PROrel">qui</w>
+          <w xml:id="t1646" n="1646" lemma="que4" pos="CONsub">que</w>
+          <w xml:id="t1647" n="1647" lemma="il" pos="DETdef">li</w>
+          <w xml:id="t1648" n="1648" lemma="blasmer" pos="NOMcom">blasme</w>
+          <w xml:id="t1649" n="1649" lemma="ne1" pos="ADVneg">ne</w>
+          <w xml:id="t1650" n="1650" lemma="löer1" pos="VERcjg">lot</w>
+        </l>
+        <l>
+          <w xml:id="t1652" n="1652" lemma="le" pos="PROper">Li</w>
+          <w xml:id="t1653" n="1653" lemma="vaslet" pos="VERppe">vaslez</w>
+          <w xml:id="t1654" n="1654" lemma="a3+le" pos="PRE.DETdef">au</w>
+          <w xml:id="t1655" n="1655" lemma="plus" pos="ADVgen">plus</w>
+          <w xml:id="t1656" n="1656" lemma="tost1" pos="ADVgen">tost</w>
+          <w xml:id="t1657" n="1657" lemma="que4" pos="CONsub">qu'</w>
+          <w xml:id="t1659" n="1659" lemma="il" pos="PROper">il</w>
+          <w xml:id="t1660" n="1660" lemma="pöoir" pos="VERcjg">pot</w>
+        </l>
+        <l>
+          <w xml:id="t1662" n="1662" lemma="comander" pos="VERcjg">Commande</w>
+          <w xml:id="t1663" n="1663" lemma="son4" pos="DETpos">ses</w>
+          <w xml:id="t1664" n="1664" lemma="ne1+il" pos="NOMcom">nes</w>
+          <w xml:id="t1665" n="1665" lemma="aprester" pos="VERinf">aprester</w>
+        </l>
+        <l>
+          <w xml:id="t1667" n="1667" lemma="car" pos="CONcoo">Car</w>
+          <w xml:id="t1668" n="1668" lemma="il" pos="PROper">il</w>
+          <w xml:id="t1669" n="1669" lemma="ne1" pos="ADVneg">n'</w>
+          <w xml:id="t1671" n="1671" lemma="i2" pos="PROadv">i</w>
+          <w xml:id="t1672" n="1672" lemma="voloir" pos="VERcjg">vialt</w>
+          <w xml:id="t1673" n="1673" lemma="plus" pos="ADVgen">plus</w>
+          <w xml:id="t1674" n="1674" lemma="arester" pos="VERinf">arester</w>
+        </l>
+        <l>
+          <w xml:id="t1676" n="1676" lemma="en1" pos="PRE">An</w>
+          <w xml:id="t1677" n="1677" lemma="son4" pos="DETpos">son</w>
+          <w xml:id="t1678" n="1678" lemma="päis" pos="NOMcom">pais</w>
+          <w xml:id="t1679" n="1679" lemma="plus" pos="ADVgen">plus</w>
+          <w xml:id="t1680" n="1680" lemma="longement2" pos="ADVgen">longuement</w>
+        </l>
+        <l>
+          <w xml:id="t1682" n="1682" lemma="le" pos="DETdef">Les</w>
+          <w xml:id="t1683" n="1683" lemma="nef2" pos="NOMcom">nes</w>
+          <w xml:id="t1684" n="1684" lemma="par" pos="PRE">par</w>
+          <w xml:id="t1685" n="1685" lemma="son4" pos="DETpos">son</w>
+          <w xml:id="t1686" n="1686" lemma="comandement" pos="NOMcom">comandemant</w>
+        </l>
+        <l>
+          <w xml:id="t1688" n="1688" lemma="durer" pos="VERcjg">Durent</w>
+          <w xml:id="t1689" n="1689" lemma="chargier" pos="VERppe">chargiees</w>
+          <w xml:id="t1690" n="1690" lemma="cel" pos="DETdem">cele</w>
+          <w xml:id="t1691" n="1691" lemma="nuit" pos="NOMcom">nuit</w>
+        </l>
+        <l>
+          <w xml:id="t1693" n="1693" lemma="de" pos="PRE">De</w>
+          <w xml:id="t1694" n="1694" lemma="vin" pos="NOMcom">vin</w>
+          <w xml:id="t1695" n="1695" lemma="de" pos="PRE">de</w>
+          <w xml:id="t1696" n="1696" lemma="char2" pos="NOMcom">char</w>
+          <w xml:id="t1697" n="1697" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t1698" n="1698" lemma="de" pos="PRE">de</w>
+          <w xml:id="t1699" n="1699" lemma="bescuit" pos="NOMcom">bescuit</w>
+        </l>
+        <l>
+          <w xml:id="t1701" n="1701" lemma="le" pos="DETdef">Les</w>
+          <w xml:id="t1702" n="1702" lemma="nef2" pos="NOMcom">nes</w>
+          <w xml:id="t1703" n="1703" lemma="estre1" pos="VERcjg">sont</w>
+          <w xml:id="t1704" n="1704" lemma="chargier" pos="VERppe">chargiees</w>
+          <w xml:id="t1705" n="1705" lemma="a3+le" pos="PRE.DETdef">au</w>
+          <w xml:id="t1706" n="1706" lemma="port2" pos="NOMcom">port</w>
+        </l>
+        <l>
+          <w xml:id="t1708" n="1708" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t1709" n="1709" lemma="lendemain" pos="ADVgen">landemain</w>
+          <w xml:id="t1710" n="1710" lemma="avoir" pos="PRE">a</w>
+          <w xml:id="t1711" n="1711" lemma="grant" pos="ADJqua">grant</w>
+          <w xml:id="t1712" n="1712" lemma="deport" pos="NOMcom">deport</w>
+        </l>
+        <l>
+          <w xml:id="t1714" n="1714" lemma="venir" pos="VERcjg">Vint</w>
+          <w xml:id="t1715" n="1715" lemma="Alixandre" pos="NOMpro">Alixandres</w>
+          <w xml:id="t1716" n="1716" lemma="en1+le" pos="PRE.DETdef">el</w>
+          <w xml:id="t1717" n="1717" lemma="sablon" pos="NOMcom">sablon</w>
+        </l>
+        <l>
+          <w xml:id="t1719" n="1719" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t1720" n="1720" lemma="avuec" pos="PRE">avuec</w>
+          <w xml:id="t1721" n="1721" lemma="il" pos="PROper">lui</w>
+          <w xml:id="t1722" n="1722" lemma="son4" pos="DETpos">si</w>
+          <w xml:id="t1723" n="1723" lemma="compagnon" pos="NOMcom">conpaignon</w>
+        </l>
+        <l>
+          <w xml:id="t1725" n="1725" lemma="qui" pos="PROrel">Qui</w>
+          <w xml:id="t1726" n="1726" lemma="lié1" pos="ADJqua">lie</w>
+          <w xml:id="t1727" n="1727" lemma="estre1" pos="VERcjg">estoient</w>
+          <w xml:id="t1728" n="1728" lemma="de" pos="PRE">de</w>
+          <w xml:id="t1729" n="1729" lemma="le" pos="DETdef">la</w>
+          <w xml:id="t1730" n="1730" lemma="voie" pos="NOMcom">voie</w>
+        </l>
+        <l>
+          <w xml:id="t1732" n="1732" lemma="le" pos="DETdef">Li</w>
+          <w xml:id="t1733" n="1733" lemma="emperëor" pos="NOMcom">empereres</w>
+          <w xml:id="t1734" n="1734" lemma="il" pos="PROper">les</w>
+          <w xml:id="t1735" n="1735" lemma="convoiier" pos="VERcjg">convoie</w>
+        </l>
+        <l>
+          <w xml:id="t1737" n="1737" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t1738" n="1738" lemma="le" pos="DETdef">l'</w>
+          <w xml:id="t1740" n="1740" lemma="empererriz" pos="VERcjg">empereriz</w>
+          <w xml:id="t1741" n="1741" lemma="cui" pos="PROrel">cui</w>
+          <w xml:id="t1742" n="1742" lemma="mout" pos="ADVgen">molt</w>
+          <w xml:id="t1743" n="1743" lemma="peser" pos="VERcjg">poise</w>
+        </l>
+        <l>
+          <w xml:id="t1745" n="1745" lemma="a3+le" pos="PRE.DETdef">Au</w>
+          <w xml:id="t1746" n="1746" lemma="port2" pos="NOMcom">port</w>
+          <w xml:id="t1747" n="1747" lemma="trover" pos="VERcjg">truevent</w>
+          <w xml:id="t1748" n="1748" lemma="lez" pos="PRE">lez</w>
+          <w xml:id="t1749" n="1749" lemma="le" pos="DETdef">la</w>
+          <w xml:id="t1750" n="1750" lemma="falir" pos="NOMcom">faloise</w>
+        </l>
+        <l>
+          <w xml:id="t1752" n="1752" lemma="le" pos="DETdef">Les</w>
+          <w xml:id="t1753" n="1753" lemma="marinier" pos="NOMcom">mariniers</w>
+          <w xml:id="t1754" n="1754" lemma="dedenz" pos="PRE">dedanz</w>
+          <w xml:id="t1755" n="1755" lemma="le" pos="DETdef">les</w>
+          <w xml:id="t1756" n="1756" lemma="nef2" pos="NOMcom">nes</w>
+        </l>
+        <l>
+          <w xml:id="t1758" n="1758" lemma="le" pos="DETdef">L'</w>
+          <w xml:id="t1760" n="1760" lemma="ore3" pos="NOMcom">orez</w>
+          <w xml:id="t1761" n="1761" lemma="estre1" pos="VERcjg">fu</w>
+          <w xml:id="t1762" n="1762" lemma="paisible" pos="ADJqua">peisible</w>
+          <w xml:id="t1763" n="1763" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t1764" n="1764" lemma="suen" pos="PROpos">soes</w>
+        </l>
+        <l>
+          <w xml:id="t1766" n="1766" lemma="le" pos="DETdef">Li</w>
+          <w xml:id="t1767" n="1767" lemma="vent" pos="NOMcom">vanz</w>
+          <w xml:id="t1768" n="1768" lemma="douz" pos="ADJqua">dolz</w>
+          <w xml:id="t1769" n="1769" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t1770" n="1770" lemma="le" pos="DETdef">li</w>
+          <w xml:id="t1771" n="1771" lemma="air1" pos="NOMcom">airs</w>
+          <w xml:id="t1772" n="1772" lemma="serein" pos="NOMcom">serains</w>
+        </l>
+        <l>
+          <w xml:id="t1774" n="1774" lemma="Alixandre" pos="NOMpro">Alixandres</w>
+          <w xml:id="t1775" n="1775" lemma="tot" pos="ADVgen">toz</w>
+          <w xml:id="t1776" n="1776" lemma="premerain" pos="PROord">premerains</w>
+        </l>
+        <l>
+          <w xml:id="t1778" n="1778" lemma="cant1" pos="CONsub">Quant</w>
+          <w xml:id="t1779" n="1779" lemma="de" pos="PRE">de</w>
+          <w xml:id="t1780" n="1780" lemma="son4" pos="DETpos">son</w>
+          <w xml:id="t1781" n="1781" lemma="pere" pos="NOMcom">pere</w>
+          <w xml:id="t1782" n="1782" lemma="estre1" pos="VERcjg">fu</w>
+          <w xml:id="t1783" n="1783" lemma="partir" pos="VERppe">partiz</w>
+        </l>
+        <l>
+          <w xml:id="t1785" n="1785" lemma="a3+le" pos="PRE.DETdef">Au</w>
+          <w xml:id="t1786" n="1786" lemma="congié" pos="NOMcom">congie</w>
+          <w xml:id="t1787" n="1787" lemma="de" pos="PRE">de</w>
+          <w xml:id="t1788" n="1788" lemma="le" pos="DETdef">l'</w>
+          <w xml:id="t1790" n="1790" lemma="empererriz" pos="NOMcom">empereriz</w>
+        </l>
+        <l>
+          <w xml:id="t1792" n="1792" lemma="qui" pos="PROrel">Qui</w>
+          <w xml:id="t1793" n="1793" lemma="le" pos="DETdef">le</w>
+          <w xml:id="t1794" n="1794" lemma="cuer2" pos="NOMcom">cuer</w>
+          <w xml:id="t1795" n="1795" lemma="avoir" pos="VERcjg">a</w>
+          <w xml:id="t1796" n="1796" lemma="dolent" pos="ADJqua">dolant</w>
+          <w xml:id="t1797" n="1797" lemma="en1+le" pos="PRE.DETdef">el</w>
+          <w xml:id="t1798" n="1798" lemma="ventre1" pos="NOMcom">vantre</w>
+        </l>
+        <l>
+          <w xml:id="t1800" n="1800" lemma="de" pos="PRE">De</w>
+          <w xml:id="t1801" n="1801" lemma="le" pos="DETdef">la</w>
+          <w xml:id="t1802" n="1802" lemma="nef2" pos="NOMcom">nef</w>
+          <w xml:id="t1803" n="1803" lemma="en1+le" pos="PRE.DETdef">el</w>
+          <w xml:id="t1804" n="1804" lemma="bataille" pos="NOMcom">batel</w>
+          <w xml:id="t1805" n="1805" lemma="soi1" pos="PROper">s'</w>
+          <w xml:id="t1807" n="1807" lemma="en2" pos="PROadv">an</w>
+          <w xml:id="t1808" n="1808" lemma="entrer" pos="VERcjg">antre</w>
+        </l>
+        <l>
+          <w xml:id="t1810" n="1810" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t1811" n="1811" lemma="son4" pos="DETpos">si</w>
+          <w xml:id="t1812" n="1812" lemma="compagnon" pos="NOMcom">conpaignon</w>
+          <w xml:id="t1813" n="1813" lemma="avuec" pos="PRE">avuec</w>
+          <w xml:id="t1814" n="1814" lemma="il" pos="PROper">lui</w>
+        </l>
+        <l>
+          <w xml:id="t1816" n="1816" lemma="ensemble" pos="NOMpro">Ansanble</w>
+          <w xml:id="t1817" n="1817" lemma="catre" pos="DETcar">quatre</w>
+          <w xml:id="t1818" n="1818" lemma="trois" pos="PROcar">troi</w>
+          <w xml:id="t1819" n="1819" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t1820" n="1820" lemma="deus" pos="PROcar">dui</w>
+        </l>
+        <l>
+          <w xml:id="t1822" n="1822" lemma="tencier" pos="NOMpro">Tancent</w>
+          <w xml:id="t1823" n="1823" lemma="de" pos="PRE">d'</w>
+          <w xml:id="t1825" n="1825" lemma="entrer" pos="VERinf">antrer</w>
+          <w xml:id="t1826" n="1826" lemma="sans" pos="NOMcom">san</w>
+          <w xml:id="t1827" n="1827" lemma="atendre" pos="VERppe">atandue</w>
+        </l>
+        <l>
+          <w xml:id="t1829" n="1829" lemma="tantost" pos="ADVgen">Tantost</w>
+          <w xml:id="t1830" n="1830" lemma="estre1" pos="VERcjg">fu</w>
+          <w xml:id="t1831" n="1831" lemma="le" pos="DETdef">la</w>
+          <w xml:id="t1832" n="1832" lemma="voile1" pos="NOMcom">voile</w>
+          <w xml:id="t1833" n="1833" lemma="tendre1" pos="VERppe">tandue</w>
+        </l>
+        <l>
+          <w xml:id="t1835" n="1835" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t1836" n="1836" lemma="le" pos="DETdef">la</w>
+          <w xml:id="t1837" n="1837" lemma="barge" pos="NOMcom">barge</w>
+          <w xml:id="t1838" n="1838" lemma="desancrer" pos="VERppe">desaencree</w>
+        </l>
+        <l>
+          <w xml:id="t1840" n="1840" lemma="cel" pos="PROdem">Cil</w>
+          <w xml:id="t1841" n="1841" lemma="de" pos="PRE">de</w>
+          <w xml:id="t1842" n="1842" lemma="terre" pos="NOMcom">terre</w>
+          <w xml:id="t1843" n="1843" lemma="cui" pos="PROrel">cui</w>
+          <w xml:id="t1844" n="1844" lemma="pas" pos="ADVneg">pas</w>
+          <w xml:id="t1845" n="1845" lemma="ne1" pos="ADVneg">n'</w>
+          <w xml:id="t1847" n="1847" lemma="agreer" pos="VERcjg">agree</w>
+        </l>
+        <l>
+          <w xml:id="t1849" n="1849" lemma="de+le" pos="PRE.DETdef">Del</w>
+          <w xml:id="t1850" n="1850" lemma="vaslet" pos="NOMcom">vaslet</w>
+          <w xml:id="t1851" n="1851" lemma="que2" pos="PROrel">que</w>
+          <w xml:id="t1852" n="1852" lemma="aler" pos="VERinf">aler</w>
+          <w xml:id="t1853" n="1853" lemma="en2" pos="PROadv">an</w>
+          <w xml:id="t1854" n="1854" lemma="vëoir" pos="VERcjg">voient</w>
+        </l>
+        <l>
+          <w xml:id="t1856" n="1856" lemma="tant" pos="ADVgen">Tant</w>
+          <w xml:id="t1857" n="1857" lemma="come1" pos="CONsub">con</w>
+          <w xml:id="t1858" n="1858" lemma="il" pos="PROper">il</w>
+          <w xml:id="t1859" n="1859" lemma="pöoir" pos="VERcjg">pueent</w>
+          <w xml:id="t1860" n="1860" lemma="il" pos="PROper">les</w>
+          <w xml:id="t1861" n="1861" lemma="convoiier" pos="VERcjg">convoient</w>
+        </l>
+        <l>
+          <w xml:id="t1863" n="1863" lemma="de" pos="PRE">De</w>
+          <w xml:id="t1864" n="1864" lemma="le" pos="DETdef">la</w>
+          <w xml:id="t1865" n="1865" lemma="veüe" pos="NOMcom">veue</w>
+          <w xml:id="t1866" n="1866" lemma="de" pos="PRE">de</w>
+          <w xml:id="t1867" n="1867" lemma="lor2" pos="DETpos">lor</w>
+          <w xml:id="t1868" n="1868" lemma="ueil" pos="NOMcom">ialz</w>
+        </l>
+        <l>
+          <w xml:id="t1870" n="1870" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t1871" n="1871" lemma="por2" pos="PRE">por</w>
+          <w xml:id="t1872" n="1872" lemma="ce1" pos="PROdem">ce</w>
+          <w xml:id="t1873" n="1873" lemma="que4" pos="CONsub">que</w>
+          <w xml:id="t1874" n="1874" lemma="il" pos="PROper">il</w>
+          <w xml:id="t1875" n="1875" lemma="pöoir" pos="VERcjg">puissent</w>
+          <w xml:id="t1876" n="1876" lemma="mieus" pos="ADVgen">mialz</w>
+        </l>
+        <l>
+          <w xml:id="t1878" n="1878" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t1879" n="1879" lemma="plus" pos="ADVgen">plus</w>
+          <w xml:id="t1880" n="1880" lemma="longement2" pos="ADVgen">longuemant</w>
+          <w xml:id="t1881" n="1881" lemma="esgarder" pos="VERinf">esgarder</w>
+        </l>
+        <l>
+          <w xml:id="t1883" n="1883" lemma="soi1" pos="PROper">S'</w>
+          <w xml:id="t1885" n="1885" lemma="en2" pos="PROadv">an</w>
+          <w xml:id="t1886" n="1886" lemma="aler" pos="VERcjg">vont</w>
+          <w xml:id="t1887" n="1887" lemma="tot" pos="PROind">tuit</w>
+          <w xml:id="t1888" n="1888" lemma="ensemble" pos="ADVgen">ansanble</w>
+          <w xml:id="t1889" n="1889" lemma="monter" pos="VERinf">monter</w>
+        </l>
+        <l>
+          <w xml:id="t1891" n="1891" lemma="lez" pos="PRE">Lez</w>
+          <w xml:id="t1892" n="1892" lemma="le" pos="DETdef">la</w>
+          <w xml:id="t1893" n="1893" lemma="marine" pos="NOMcom">marine</w>
+          <w xml:id="t1894" n="1894" lemma="en1" pos="PRE">an</w>
+          <w xml:id="t1895" n="1895" lemma="." pos="PONfrt">.</w>
+          <w xml:id="t1896" n="1896" lemma="je" pos="PROper">j</w>
+          <w xml:id="t1897" n="1897" lemma="." pos="PONfrt">.</w>
+          <w xml:id="t1898" n="1898" lemma="haut" pos="ADJqua">haut</w>
+          <w xml:id="t1899" n="1899" lemma="pui" pos="NOMcom">pui</w>
+        </l>
+        <l>
+          <w xml:id="t1901" n="1901" lemma="de" pos="PRE">D'</w>
+          <w xml:id="t1903" n="1903" lemma="iluec" pos="ADVgen">iluec</w>
+          <w xml:id="t1904" n="1904" lemma="esgarder" pos="VERcjg">esgardent</w>
+          <w xml:id="t1905" n="1905" lemma="lor2" pos="DETpos">lor</w>
+          <w xml:id="t1906" n="1906" lemma="enui" pos="NOMcom">ennui</w>
+        </l>
+        <l>
+          <w xml:id="t1908" n="1908" lemma="[" pos="PONfbl">[</w>
+          <w xml:id="t1909" n="1909" lemma="arbre" pos="NOMcom">55b</w>
+          <w xml:id="t1910" n="1910" lemma="]" pos="PONfbl">]</w>
+          <w xml:id="t1911" n="1911" lemma="tant" pos="ADVgen">Tant</w>
+          <w xml:id="t1912" n="1912" lemma="come1" pos="CONsub">con</w>
+          <w xml:id="t1913" n="1913" lemma="il" pos="PROper">il</w>
+          <w xml:id="t1914" n="1914" lemma="pöoir" pos="VERcjg">pueent</w>
+          <w xml:id="t1915" n="1915" lemma="plus" pos="ADVgen">plus</w>
+          <w xml:id="t1916" n="1916" lemma="vëoir" pos="VERinf">veoir</w>
+        </l>
+        <l>
+          <w xml:id="t1918" n="1918" lemma="lor2" pos="DETpos">Lor</w>
+          <w xml:id="t1919" n="1919" lemma="ami" pos="NOMcom">ami</w>
+          <w xml:id="t1920" n="1920" lemma="il" pos="PROper">l'</w>
+          <w xml:id="t1922" n="1922" lemma="esgarder" pos="VERcjg">esgardent</w>
+          <w xml:id="t1923" n="1923" lemma="por2" pos="PRE">por</w>
+          <w xml:id="t1924" n="1924" lemma="voir" pos="NOMcom">voir</w>
+        </l>
+        <l>
+          <w xml:id="t1926" n="1926" lemma="que4" pos="CONsub">Que</w>
+          <w xml:id="t1927" n="1927" lemma="de+le" pos="PRE.DETdef">del</w>
+          <w xml:id="t1928" n="1928" lemma="vaslet" pos="NOMcom">vaslet</w>
+          <w xml:id="t1929" n="1929" lemma="mout" pos="ADVgen">molt</w>
+          <w xml:id="t1930" n="1930" lemma="il" pos="DETpos">lor</w>
+          <w xml:id="t1931" n="1931" lemma="enui" pos="VERcjg">enuie</w>
+        </l>
+        <l>
+          <w xml:id="t1933" n="1933" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t1934" n="1934" lemma="dieu" pos="NOMpro">Dex</w>
+          <w xml:id="t1935" n="1935" lemma="a3" pos="PRE">a</w>
+          <w xml:id="t1936" n="1936" lemma="droit" pos="NOMcom">droit</w>
+          <w xml:id="t1937" n="1937" lemma="port2" pos="NOMcom">port</w>
+          <w xml:id="t1938" n="1938" lemma="il" pos="PROper">le</w>
+          <w xml:id="t1939" n="1939" lemma="conduire" pos="VERcjg">conduie</w>
+        </l>
+        <l>
+          <w xml:id="t1941" n="1941" lemma="sans" pos="PRE">Sanz</w>
+          <w xml:id="t1942" n="1942" lemma="encombrier" pos="NOMcom">anconbrier</w>
+          <w xml:id="t1943" n="1943" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t1944" n="1944" lemma="sans" pos="PRE">sanz</w>
+          <w xml:id="t1945" n="1945" lemma="peril" pos="NOMcom">peril</w>
+        </l>
+        <l>
+          <w xml:id="t1947" n="1947" lemma="en1" pos="PRE">En</w>
+          <w xml:id="t1948" n="1948" lemma="le" pos="DETdef">la</w>
+          <w xml:id="t1949" n="1949" lemma="mer" pos="NOMcom">mer</w>
+          <w xml:id="t1950" n="1950" lemma="estre1" pos="VERcjg">furent</w>
+          <w xml:id="t1951" n="1951" lemma="tot" pos="ADVgen">tot</w>
+          <w xml:id="t1952" n="1952" lemma="avril" pos="VERppe">avril</w>
+        </l>
+        <l>
+          <w xml:id="t1954" n="1954" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t1955" n="1955" lemma="un" pos="DETndf">une</w>
+          <w xml:id="t1956" n="1956" lemma="partie" pos="NOMcom">partie</w>
+          <w xml:id="t1957" n="1957" lemma="de" pos="PRE">de</w>
+          <w xml:id="t1958" n="1958" lemma="mai" pos="NOMcom">mai</w>
+        </l>
+        <l>
+          <w xml:id="t1960" n="1960" lemma="sans" pos="PRE">Sanz</w>
+          <w xml:id="t1961" n="1961" lemma="grant" pos="ADJqua">grant</w>
+          <w xml:id="t1962" n="1962" lemma="peril" pos="NOMcom">peril</w>
+          <w xml:id="t1963" n="1963" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t1964" n="1964" lemma="sans" pos="PRE">sanz</w>
+          <w xml:id="t1965" n="1965" lemma="esmai" pos="NOMcom">esmai</w>
+        </l>
+        <l>
+          <w xml:id="t1967" n="1967" lemma="venir" pos="VERcjg">Vindrent</w>
+          <w xml:id="t1968" n="1968" lemma="a3+le" pos="PRE.DETdef">au</w>
+          <w xml:id="t1969" n="1969" lemma="port2" pos="NOMcom">port</w>
+          <w xml:id="t1970" n="1970" lemma="desoz" pos="PRE">desoz</w>
+          <w xml:id="t1971" n="1971" lemma="Hampton" pos="NOMpro">Hantone</w>
+        </l>
+        <l>
+          <w xml:id="t1973" n="1973" lemma="." pos="PONfrt">.</w>
+          <w xml:id="t1974" n="1974" lemma="je" pos="PROper">j</w>
+          <w xml:id="t1975" n="1975" lemma="." pos="PONfrt">.</w>
+          <w xml:id="t1976" n="1976" lemma="jor" pos="NOMcom">jor</w>
+          <w xml:id="t1977" n="1977" lemma="entre2" pos="PRE">antre</w>
+          <w xml:id="t1978" n="1978" lemma="vespre" pos="NOMcom">vespres</w>
+          <w xml:id="t1979" n="1979" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t1980" n="1980" lemma="none2" pos="NOMcom">none</w>
+        </l>
+        <l>
+          <w xml:id="t1982" n="1982" lemma="jeter" pos="NOMpro">Gietent</w>
+          <w xml:id="t1983" n="1983" lemma="encre" pos="ADVgen">encre</w>
+          <w xml:id="t1984" n="1984" lemma="si" pos="ADVgen">si</w>
+          <w xml:id="t1985" n="1985" lemma="avoir" pos="VERcjg">ont</w>
+          <w xml:id="t1986" n="1986" lemma="port2" pos="NOMcom">port</w>
+          <w xml:id="t1987" n="1987" lemma="prendre" pos="VERppe">pris</w>
+        </l>
+        <l>
+          <w xml:id="t1989" n="1989" lemma="le" pos="DETdef">Li</w>
+          <w xml:id="t1990" n="1990" lemma="vaslet" pos="NOMcom">vaslet</w>
+          <w xml:id="t1991" n="1991" lemma="qui" pos="PROrel">qui</w>
+          <w xml:id="t1992" n="1992" lemma="ne1" pos="ADVneg">n'</w>
+          <w xml:id="t1994" n="1994" lemma="avoir" pos="VERcjg">orent</w>
+          <w xml:id="t1995" n="1995" lemma="aprendre" pos="VERppe">apris</w>
+        </l>
+        <l>
+          <w xml:id="t1997" n="1997" lemma="a3" pos="PRE">A</w>
+          <w xml:id="t1998" n="1998" lemma="sofrir" pos="VERinf">sofrir</w>
+          <w xml:id="t1999" n="1999" lemma="mesaise" pos="NOMcom">meseise</w>
+          <w xml:id="t2000" n="2000" lemma="ne2" pos="CONcoo">ne</w>
+          <w xml:id="t2001" n="2001" lemma="peine" pos="NOMcom">painne</w>
+        </l>
+        <l>
+          <w xml:id="t2003" n="2003" lemma="en1" pos="PRE">En</w>
+          <w xml:id="t2004" n="2004" lemma="mer" pos="NOMcom">mer</w>
+          <w xml:id="t2005" n="2005" lemma="qui" pos="PROrel">qui</w>
+          <w xml:id="t2006" n="2006" lemma="ne1" pos="ADVneg">ne</w>
+          <w xml:id="t2007" n="2007" lemma="il" pos="PROper">lor</w>
+          <w xml:id="t2008" n="2008" lemma="estre1" pos="VERcjg">fu</w>
+          <w xml:id="t2009" n="2009" lemma="pas" pos="ADVneg">pas</w>
+          <w xml:id="t2010" n="2010" lemma="sain" pos="ADJqua">sainne</w>
+        </l>
+        <l>
+          <w xml:id="t2012" n="2012" lemma="öir" pos="NOMpro">Orent</w>
+          <w xml:id="t2013" n="2013" lemma="longement2" pos="ADVgen">longuemant</w>
+          <w xml:id="t2014" n="2014" lemma="demorer" pos="NOMcom">demore</w>
+        </l>
+        <l>
+          <w xml:id="t2016" n="2016" lemma="tant" pos="ADVgen">Tant</w>
+          <w xml:id="t2017" n="2017" lemma="que4" pos="CONsub">que</w>
+          <w xml:id="t2018" n="2018" lemma="tot" pos="PROind">tuit</w>
+          <w xml:id="t2019" n="2019" lemma="estre1" pos="VERcjg">sont</w>
+          <w xml:id="t2020" n="2020" lemma="descolorer" pos="VERppe">descolore</w>
+        </l>
+        <l>
+          <w xml:id="t2022" n="2022" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t2023" n="2023" lemma="afeblir" pos="VERppe">afebli</w>
+          <w xml:id="t2024" n="2024" lemma="estre1" pos="VERcjg">furent</w>
+          <w xml:id="t2025" n="2025" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t2026" n="2026" lemma="vain" pos="ADJqua">vain</w>
+        </l>
+        <l>
+          <w xml:id="t2028" n="2028" lemma="tot" pos="DETind">Tuit</w>
+          <w xml:id="t2029" n="2029" lemma="le" pos="DETdef">li</w>
+          <w xml:id="t2030" n="2030" lemma="plus" pos="ADVgen">plus</w>
+          <w xml:id="t2031" n="2031" lemma="fort" pos="ADJqua">fort</w>
+          <w xml:id="t2032" n="2032" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t2033" n="2033" lemma="le" pos="DETdef">li</w>
+          <w xml:id="t2034" n="2034" lemma="plus" pos="ADVgen">plus</w>
+          <w xml:id="t2035" n="2035" lemma="sain" pos="ADJqua">sain</w>
+        </l>
+        <l>
+          <w xml:id="t2037" n="2037" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t2038" n="2038" lemma="neporcant" pos="ADVgen">neporquant</w>
+          <w xml:id="t2039" n="2039" lemma="grant" pos="ADJqua">grant</w>
+          <w xml:id="t2040" n="2040" lemma="joie" pos="NOMcom">joie</w>
+          <w xml:id="t2041" n="2041" lemma="faire" pos="VERcjg">font</w>
+        </l>
+        <l>
+          <w xml:id="t2043" n="2043" lemma="cant1" pos="CONsub">Quant</w>
+          <w xml:id="t2044" n="2044" lemma="de" pos="PRE">de</w>
+          <w xml:id="t2045" n="2045" lemma="le" pos="DETdef">la</w>
+          <w xml:id="t2046" n="2046" lemma="mer" pos="NOMcom">mer</w>
+          <w xml:id="t2047" n="2047" lemma="eschaper" pos="VERppe">eschape</w>
+          <w xml:id="t2048" n="2048" lemma="estre1" pos="VERcjg">sont</w>
+        </l>
+        <l>
+          <w xml:id="t2050" n="2050" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t2051" n="2051" lemma="venir" pos="VERppe">venu</w>
+          <w xml:id="t2052" n="2052" lemma="là" pos="ADVgen">la</w>
+          <w xml:id="t2053" n="2053" lemma="où" pos="PROrel">ou</w>
+          <w xml:id="t2054" n="2054" lemma="il" pos="PROper">il</w>
+          <w xml:id="t2055" n="2055" lemma="voloir" pos="VERcjg">voloient</w>
+        </l>
+        <l>
+          <w xml:id="t2057" n="2057" lemma="por2" pos="PRE">Por</w>
+          <w xml:id="t2058" n="2058" lemma="ce1" pos="PROdem">ce</w>
+          <w xml:id="t2059" n="2059" lemma="que4" pos="CONsub">que</w>
+          <w xml:id="t2060" n="2060" lemma="forment2" pos="ADVgen">forment</w>
+          <w xml:id="t2061" n="2061" lemma="soi1" pos="PROper">se</w>
+          <w xml:id="t2062" n="2062" lemma="doloir" pos="VERcjg">doloient</w>
+        </l>
+        <l>
+          <w xml:id="t2064" n="2064" lemma="desoz" pos="PRE">Desoz</w>
+          <w xml:id="t2065" n="2065" lemma="Hampton" pos="NOMpro">Hantone</w>
+          <w xml:id="t2066" n="2066" lemma="soi1" pos="PROper">se</w>
+          <w xml:id="t2067" n="2067" lemma="remanoir" pos="VERcjg">remainnent</w>
+        </l>
+        <l>
+          <w xml:id="t2069" n="2069" lemma="le" pos="DETdef">La</w>
+          <w xml:id="t2070" n="2070" lemma="nuit" pos="NOMcom">nuit</w>
+          <w xml:id="t2071" n="2071" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t2072" n="2072" lemma="grant" pos="ADJqua">grant</w>
+          <w xml:id="t2073" n="2073" lemma="joie" pos="NOMcom">joie</w>
+          <w xml:id="t2074" n="2074" lemma="demener" pos="VERcjg">demainnent</w>
+        </l>
+        <l>
+          <w xml:id="t2076" n="2076" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t2077" n="2077" lemma="faire" pos="VERcjg">font</w>
+          <w xml:id="t2078" n="2078" lemma="demander" pos="VERinf">demander</w>
+          <w xml:id="t2079" n="2079" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t2080" n="2080" lemma="enquerre" pos="VERinf">anquerre</w>
+        </l>
+        <l>
+          <w xml:id="t2082" n="2082" lemma="se" pos="CONsub">Se</w>
+          <w xml:id="t2083" n="2083" lemma="le" pos="DETdef">li</w>
+          <w xml:id="t2084" n="2084" lemma="roi2" pos="NOMcom">rois</w>
+          <w xml:id="t2085" n="2085" lemma="estre1" pos="VERcjg">est</w>
+          <w xml:id="t2086" n="2086" lemma="en1" pos="PRE">an</w>
+          <w xml:id="t2087" n="2087" lemma="Engleterre" pos="NOMpro">Eingleterre</w>
+        </l>
+        <l>
+          <w xml:id="t2089" n="2089" lemma="le" pos="DETdef">L'</w>
+          <w xml:id="t2091" n="2091" lemma="on" pos="PROind">an</w>
+          <w xml:id="t2092" n="2092" lemma="il" pos="PROper">lor</w>
+          <w xml:id="t2093" n="2093" lemma="dire" pos="VERcjg">dist</w>
+          <w xml:id="t2094" n="2094" lemma="que4" pos="CONsub">qu'</w>
+          <w xml:id="t2096" n="2096" lemma="il" pos="PROper">il</w>
+          <w xml:id="t2097" n="2097" lemma="estre1" pos="VERcjg">est</w>
+          <w xml:id="t2098" n="2098" lemma="a3" pos="PRE">a</w>
+          <w xml:id="t2099" n="2099" lemma="Winchester" pos="NOMpro">Guincestre</w>
+        </l>
+        <l>
+          <w xml:id="t2101" n="2101" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t2102" n="2102" lemma="que4" pos="CONsub">que</w>
+          <w xml:id="t2103" n="2103" lemma="mout" pos="ADVgen">molt</w>
+          <w xml:id="t2104" n="2104" lemma="tost1" pos="ADVgen">tost</w>
+          <w xml:id="t2105" n="2105" lemma="i2" pos="PROadv">i</w>
+          <w xml:id="t2106" n="2106" lemma="pöoir" pos="VERcjg">porront</w>
+          <w xml:id="t2107" n="2107" lemma="estre1" pos="VERinf">estre</w>
+        </l>
+        <l>
+          <w xml:id="t2109" n="2109" lemma="se" pos="CONsub">S'</w>
+          <w xml:id="t2111" n="2111" lemma="il" pos="PROper">il</w>
+          <w xml:id="t2112" n="2112" lemma="voloir" pos="VERcjg">vuelent</w>
+          <w xml:id="t2113" n="2113" lemma="lever" pos="VERinf">lever</w>
+          <w xml:id="t2114" n="2114" lemma="par" pos="PRE">par</w>
+          <w xml:id="t2115" n="2115" lemma="matin2" pos="NOMcom">matin</w>
+        </l>
+        <l>
+          <w xml:id="t2117" n="2117" lemma="se" pos="CONsub">S'</w>
+          <w xml:id="t2119" n="2119" lemma="il" pos="PROper">il</w>
+          <w xml:id="t2120" n="2120" lemma="tenir1" pos="VERcjg">tienent</w>
+          <w xml:id="t2121" n="2121" lemma="le" pos="DETdef">le</w>
+          <w xml:id="t2122" n="2122" lemma="droit" pos="ADJqua">droit</w>
+          <w xml:id="t2123" n="2123" lemma="chemin" pos="NOMcom">chemin</w>
+        </l>
+        <l>
+          <w xml:id="t2125" n="2125" lemma="le" pos="DETdef">Li</w>
+          <w xml:id="t2126" n="2126" lemma="vaslet" pos="NOMcom">vaslet</w>
+          <w xml:id="t2127" n="2127" lemma="par" pos="PRE">par</w>
+          <w xml:id="t2128" n="2128" lemma="matin2" pos="NOMcom">matin</w>
+          <w xml:id="t2129" n="2129" lemma="soi1" pos="PROper">s'</w>
+          <w xml:id="t2131" n="2131" lemma="esveillier" pos="VERcjg">esvoillent</w>
+        </l>
+        <l>
+          <w xml:id="t2133" n="2133" lemma="si" pos="ADVgen">Si</w>
+          <w xml:id="t2134" n="2134" lemma="soi1" pos="PROper">s'</w>
+          <w xml:id="t2136" n="2136" lemma="atorner" pos="VERcjg">atornent</w>
+          <w xml:id="t2137" n="2137" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t2138" n="2138" lemma="apareillier1" pos="VERcjg">aparoillent</w>
+        </l>
+        <l>
+          <w xml:id="t2140" n="2140" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t2141" n="2141" lemma="cant1" pos="CONsub">quant</w>
+          <w xml:id="t2142" n="2142" lemma="il" pos="PROper">il</w>
+          <w xml:id="t2143" n="2143" lemma="estre1" pos="VERcjg">furent</w>
+          <w xml:id="t2144" n="2144" lemma="atorner" pos="VERppe">atorne</w>
+        </l>
+        <l>
+          <w xml:id="t2146" n="2146" lemma="de" pos="PRE">De</w>
+          <w xml:id="t2147" n="2147" lemma="Hampton" pos="NOMpro">Hantone</w>
+          <w xml:id="t2148" n="2148" lemma="soi1" pos="PROper">s'</w>
+          <w xml:id="t2150" n="2150" lemma="en2" pos="PROadv">an</w>
+          <w xml:id="t2151" n="2151" lemma="estre1" pos="VERcjg">sont</w>
+          <w xml:id="t2152" n="2152" lemma="torner" pos="VERppe">torne</w>
+        </l>
+        <l>
+          <w xml:id="t2154" n="2154" lemma="si" pos="ADVgen">Si</w>
+          <w xml:id="t2155" n="2155" lemma="avoir" pos="VERcjg">ont</w>
+          <w xml:id="t2156" n="2156" lemma="le" pos="DETdef">le</w>
+          <w xml:id="t2157" n="2157" lemma="droit" pos="ADJqua">droit</w>
+          <w xml:id="t2158" n="2158" lemma="chemin" pos="NOMcom">chemin</w>
+          <w xml:id="t2159" n="2159" lemma="tenir1" pos="VERppe">tenu</w>
+        </l>
+        <l>
+          <w xml:id="t2161" n="2161" lemma="tant" pos="ADVgen">Tant</w>
+          <w xml:id="t2162" n="2162" lemma="que4" pos="CONsub">qu'</w>
+          <w xml:id="t2164" n="2164" lemma="a3" pos="PRE">a</w>
+          <w xml:id="t2165" n="2165" lemma="Winchester" pos="NOMpro">Guincestre</w>
+          <w xml:id="t2166" n="2166" lemma="estre1" pos="VERcjg">sont</w>
+          <w xml:id="t2167" n="2167" lemma="venir" pos="VERppe">venu</w>
+        </l>
+        <l>
+          <w xml:id="t2169" n="2169" lemma="en1+le" pos="PROrel">Ou</w>
+          <w xml:id="t2170" n="2170" lemma="le" pos="DETdef">li</w>
+          <w xml:id="t2171" n="2171" lemma="roi2" pos="NOMcom">rois</w>
+          <w xml:id="t2172" n="2172" lemma="estre1" pos="VERcjg">estoit</w>
+          <w xml:id="t2173" n="2173" lemma="a3" pos="PRE">a</w>
+          <w xml:id="t2174" n="2174" lemma="sejor" pos="NOMcom">sejor</w>
+        </l>
+        <l>
+          <w xml:id="t2176" n="2176" lemma="ainçois" pos="NOMpro">Eincois</w>
+          <w xml:id="t2177" n="2177" lemma="que4" pos="CONsub">qu'</w>
+          <w xml:id="t2179" n="2179" lemma="il" pos="PROper">il</w>
+          <w xml:id="t2180" n="2180" lemma="estre1" pos="VERcjg">fust</w>
+          <w xml:id="t2181" n="2181" lemma="prim" pos="NOMcom">prime</w>
+          <w xml:id="t2182" n="2182" lemma="de" pos="PRE">de</w>
+          <w xml:id="t2183" n="2183" lemma="jor" pos="NOMcom">jor</w>
+        </l>
+        <l>
+          <w xml:id="t2185" n="2185" lemma="estre1" pos="NOMpro">Furent</w>
+          <w xml:id="t2186" n="2186" lemma="a3" pos="PRE">a</w>
+          <w xml:id="t2187" n="2187" lemma="cort1" pos="NOMcom">cort</w>
+          <w xml:id="t2188" n="2188" lemma="venir" pos="VERppe">venu</w>
+          <w xml:id="t2189" n="2189" lemma="le" pos="DETdef">li</w>
+          <w xml:id="t2190" n="2190" lemma="gré2" pos="NOMcom">Gre</w>
+        </l>
+        <l>
+          <w xml:id="t2192" n="2192" lemma="a3+le" pos="PRE.DETdef">Au</w>
+          <w xml:id="t2193" n="2193" lemma="pié" pos="NOMcom">pie</w>
+          <w xml:id="t2194" n="2194" lemma="descendre" pos="VERcjg">descendent</w>
+          <w xml:id="t2195" n="2195" lemma="de+le" pos="PRE.DETdef">del</w>
+          <w xml:id="t2196" n="2196" lemma="degré" pos="NOMcom">degre</w>
+        </l>
+        <l>
+          <w xml:id="t2198" n="2198" lemma="le" pos="DETdef">Li</w>
+          <w xml:id="t2199" n="2199" lemma="escuier2" pos="NOMcom">escuier</w>
+          <w xml:id="t2200" n="2200" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t2201" n="2201" lemma="le" pos="DETdef">li</w>
+          <w xml:id="t2202" n="2202" lemma="cheval" pos="NOMcom">cheval</w>
+        </l>
+        <l>
+          <w xml:id="t2204" n="2204" lemma="remanoir" pos="VERcjg">Remestrent</w>
+          <w xml:id="t2205" n="2205" lemma="en1" pos="PRE">an</w>
+          <w xml:id="t2206" n="2206" lemma="le" pos="DETdef">la</w>
+          <w xml:id="t2207" n="2207" lemma="cort1" pos="NOMcom">cort</w>
+          <w xml:id="t2208" n="2208" lemma="aval" pos="ADVgen">aval</w>
+        </l>
+        <l>
+          <w xml:id="t2210" n="2210" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t2211" n="2211" lemma="le" pos="DETdef">li</w>
+          <w xml:id="t2212" n="2212" lemma="vaslet" pos="NOMcom">vaslet</w>
+          <w xml:id="t2213" n="2213" lemma="monter" pos="VERcjg">montent</w>
+          <w xml:id="t2214" n="2214" lemma="amont" pos="ADVgen">amont</w>
+        </l>
+        <l>
+          <w xml:id="t2216" n="2216" lemma="devant" pos="PRE">Devant</w>
+          <w xml:id="t2217" n="2217" lemma="le" pos="DETdef">le</w>
+          <w xml:id="t2218" n="2218" lemma="meillor" pos="ADJqua">meillor</w>
+          <w xml:id="t2219" n="2219" lemma="roi2" pos="NOMcom">roi</w>
+          <w xml:id="t2220" n="2220" lemma="de+le" pos="PRE.DETdef">del</w>
+          <w xml:id="t2221" n="2221" lemma="mont" pos="NOMcom">mont</w>
+        </l>
+        <l>
+          <w xml:id="t2223" n="2223" lemma="[" pos="PONfbl">[</w>
+          <w xml:id="t2224" n="2224" lemma="100" pos="NOMcom">55c</w>
+          <w xml:id="t2225" n="2225" lemma="]" pos="PONfbl">]</w>
+          <w xml:id="t2226" n="2226" lemma="qui" pos="PROrel">Qui</w>
+          <w xml:id="t2227" n="2227" lemma="onque" pos="ADVgen">onques</w>
+          <w xml:id="t2228" n="2228" lemma="estre1" pos="VERcjg">fust</w>
+          <w xml:id="t2229" n="2229" lemma="ne2" pos="CONcoo">ne</w>
+          <w xml:id="t2230" n="2230" lemma="ja+mais1" pos="NOMcom">james</w>
+          <w xml:id="t2231" n="2231" lemma="estre1" pos="VERcjg">soit</w>
+        </l>
+        <l>
+          <w xml:id="t2233" n="2233" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t2234" n="2234" lemma="cant1" pos="CONsub">quant</w>
+          <w xml:id="t2235" n="2235" lemma="le" pos="DETdef">li</w>
+          <w xml:id="t2236" n="2236" lemma="roi2" pos="NOMcom">rois</w>
+          <w xml:id="t2237" n="2237" lemma="Artu" pos="NOMpro">Artus</w>
+          <w xml:id="t2238" n="2238" lemma="il" pos="PROper">les</w>
+          <w xml:id="t2239" n="2239" lemma="vëoir" pos="VERcjg">voit</w>
+        </l>
+        <l>
+          <w xml:id="t2241" n="2241" lemma="mout" pos="ADVgen">Molt</w>
+          <w xml:id="t2242" n="2242" lemma="il" pos="PROper">li</w>
+          <w xml:id="t2243" n="2243" lemma="plaire" pos="VERcjg">pleisent</w>
+          <w xml:id="t2244" n="2244" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t2245" n="2245" lemma="abelir" pos="VERcjg">abelissent</w>
+        </l>
+        <l>
+          <w xml:id="t2247" n="2247" lemma="Mès" pos="NOMpro">Mes</w>
+          <w xml:id="t2248" n="2248" lemma="ainz" pos="ADVgen">ainz</w>
+          <w xml:id="t2249" n="2249" lemma="que4" pos="CONsub">que</w>
+          <w xml:id="t2250" n="2250" lemma="devant" pos="PRE">devant</w>
+          <w xml:id="t2251" n="2251" lemma="il" pos="PROper">lui</w>
+          <w xml:id="t2252" n="2252" lemma="venir" pos="VERcjg">venissent</w>
+        </l>
+        <l>
+          <w xml:id="t2254" n="2254" lemma="oster2" pos="NOMpro">Ostent</w>
+          <w xml:id="t2255" n="2255" lemma="le" pos="DETdef">les</w>
+          <w xml:id="t2256" n="2256" lemma="mantel" pos="NOMcom">mantiax</w>
+          <w xml:id="t2257" n="2257" lemma="de" pos="PRE">de</w>
+          <w xml:id="t2258" n="2258" lemma="lor2" pos="DETpos">lor</w>
+          <w xml:id="t2259" n="2259" lemma="col" pos="NOMcom">cos</w>
+        </l>
+        <l>
+          <w xml:id="t2261" n="2261" lemma="que4" pos="CONsub">Que</w>
+          <w xml:id="t2262" n="2262" lemma="le" pos="DETdef">l'</w>
+          <w xml:id="t2264" n="2264" lemma="on" pos="PROind">an</w>
+          <w xml:id="t2265" n="2265" lemma="ne1" pos="ADVneg">ne</w>
+          <w xml:id="t2266" n="2266" lemma="il" pos="PROper">les</w>
+          <w xml:id="t2267" n="2267" lemma="tenir1" pos="VERcjg">tenist</w>
+          <w xml:id="t2268" n="2268" lemma="por2" pos="PRE">por</w>
+          <w xml:id="t2269" n="2269" lemma="fol3" pos="NOMcom">fos</w>
+        </l>
+        <l>
+          <w xml:id="t2271" n="2271" lemma="ainsi" pos="ADVgen">Ensi</w>
+          <w xml:id="t2272" n="2272" lemma="trestot" pos="PROind">trestuit</w>
+          <w xml:id="t2273" n="2273" lemma="desafubler" pos="ADJqua">desafuble</w>
+        </l>
+        <l>
+          <w xml:id="t2275" n="2275" lemma="en2" pos="NOMcom">An</w>
+          <w xml:id="t2276" n="2276" lemma="estre1" pos="VERcjg">sont</w>
+          <w xml:id="t2277" n="2277" lemma="devant" pos="PRE">devant</w>
+          <w xml:id="t2278" n="2278" lemma="le" pos="DETdef">le</w>
+          <w xml:id="t2279" n="2279" lemma="roi2" pos="NOMcom">roi</w>
+          <w xml:id="t2280" n="2280" lemma="aler" pos="VERppe">ale</w>
+        </l>
+        <l>
+          <w xml:id="t2282" n="2282" lemma="tot" pos="DETind">Tuit</w>
+          <w xml:id="t2283" n="2283" lemma="le" pos="DETdef">li</w>
+          <w xml:id="t2284" n="2284" lemma="baron" pos="NOMcom">baron</w>
+          <w xml:id="t2285" n="2285" lemma="il" pos="PROper">les</w>
+          <w xml:id="t2286" n="2286" lemma="esgarder" pos="VERcjg">esgardoient</w>
+        </l>
+        <l>
+          <w xml:id="t2288" n="2288" lemma="por2" pos="PRE">Por</w>
+          <w xml:id="t2289" n="2289" lemma="ce1" pos="PROdem">ce</w>
+          <w xml:id="t2290" n="2290" lemma="que4" pos="CONsub">que</w>
+          <w xml:id="t2291" n="2291" lemma="bel1" pos="NOMcom">biax</w>
+          <w xml:id="t2292" n="2292" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t2293" n="2293" lemma="gent1" pos="NOMcom">genz</w>
+          <w xml:id="t2294" n="2294" lemma="il" pos="PROper">les</w>
+          <w xml:id="t2295" n="2295" lemma="vëoir" pos="VERcjg">voient</w>
+        </l>
+        <l>
+          <w xml:id="t2297" n="2297" lemma="car" pos="CONcoo">Car</w>
+          <w xml:id="t2298" n="2298" lemma="le" pos="DETdef">li</w>
+          <w xml:id="t2299" n="2299" lemma="vaslet" pos="NOMcom">vaslet</w>
+          <w xml:id="t2300" n="2300" lemma="mout" pos="ADVgen">molt</w>
+          <w xml:id="t2301" n="2301" lemma="il" pos="PROper">lor</w>
+          <w xml:id="t2302" n="2302" lemma="plaire" pos="VERcjg">pleisoient</w>
+        </l>
+        <l>
+          <w xml:id="t2304" n="2304" lemma="ne1" pos="ADVneg">Ne</w>
+          <w xml:id="t2305" n="2305" lemma="cuidier1" pos="VERcjg">cuident</w>
+          <w xml:id="t2306" n="2306" lemma="pas" pos="ADVneg">pas</w>
+          <w xml:id="t2307" n="2307" lemma="que4" pos="CONsub">qu'</w>
+          <w xml:id="t2309" n="2309" lemma="il" pos="PROper">il</w>
+          <w xml:id="t2310" n="2310" lemma="ne1" pos="ADVneg">ne</w>
+          <w xml:id="t2311" n="2311" lemma="estre1" pos="VERcjg">soient</w>
+        </l>
+        <l>
+          <w xml:id="t2313" n="2313" lemma="tot" pos="PROind">Tuit</w>
+          <w xml:id="t2314" n="2314" lemma="de" pos="PRE">de</w>
+          <w xml:id="t2315" n="2315" lemma="conte1" pos="NOMcom">contes</w>
+          <w xml:id="t2316" n="2316" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t2317" n="2317" lemma="de" pos="PRE">de</w>
+          <w xml:id="t2318" n="2318" lemma="roi2" pos="NOMcom">roi</w>
+          <w xml:id="t2319" n="2319" lemma="fil2" pos="NOMcom">fil</w>
+        </l>
+        <l>
+          <w xml:id="t2321" n="2321" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t2322" n="2322" lemma="por2" pos="PRE">por</w>
+          <w xml:id="t2323" n="2323" lemma="voir" pos="NOMcom">voir</w>
+          <w xml:id="t2324" n="2324" lemma="si" pos="ADVgen">si</w>
+          <w xml:id="t2325" n="2325" lemma="estre1" pos="VERcjg">estoient</w>
+          <w xml:id="t2326" n="2326" lemma="il" pos="PROper">il</w>
+        </l>
+        <l>
+          <w xml:id="t2328" n="2328" lemma="mout" pos="ADVgen">Molt</w>
+          <w xml:id="t2329" n="2329" lemma="par" pos="ADVgen">par</w>
+          <w xml:id="t2330" n="2330" lemma="estre1" pos="NOMcom">sont</w>
+          <w xml:id="t2331" n="2331" lemma="bel1" pos="ADJqua">bel</w>
+          <w xml:id="t2332" n="2332" lemma="de" pos="PRE">de</w>
+          <w xml:id="t2333" n="2333" lemma="lor2" pos="DETpos">lor</w>
+          <w xml:id="t2334" n="2334" lemma="ëage" pos="NOMcom">aage</w>
+        </l>
+        <l>
+          <w xml:id="t2336" n="2336" lemma="gent2" pos="ADJqua">Gent</w>
+          <w xml:id="t2337" n="2337" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t2338" n="2338" lemma="bien1" pos="ADVgen">bien</w>
+          <w xml:id="t2339" n="2339" lemma="faire" pos="VERppe">fet</w>
+          <w xml:id="t2340" n="2340" lemma="de" pos="PRE">de</w>
+          <w xml:id="t2341" n="2341" lemma="lonc" pos="ADJqua">lonc</w>
+          <w xml:id="t2342" n="2342" lemma="corsage" pos="NOMcom">corssage</w>
+        </l>
+        <l>
+          <w xml:id="t2344" n="2344" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t2345" n="2345" lemma="le" pos="DETdef">les</w>
+          <w xml:id="t2346" n="2346" lemma="robe" pos="NOMcom">robes</w>
+          <w xml:id="t2347" n="2347" lemma="que2" pos="PROrel">que</w>
+          <w xml:id="t2348" n="2348" lemma="il" pos="PROper">il</w>
+          <w xml:id="t2349" n="2349" lemma="vestir" pos="VERcjg">vestoient</w>
+        </l>
+        <l>
+          <w xml:id="t2351" n="2351" lemma="de" pos="PRE">D'</w>
+          <w xml:id="t2353" n="2353" lemma="un" pos="DETndf">un</w>
+          <w xml:id="t2354" n="2354" lemma="drap" pos="NOMcom">drap</w>
+          <w xml:id="t2355" n="2355" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t2356" n="2356" lemma="de" pos="PRE">d'</w>
+          <w xml:id="t2358" n="2358" lemma="un" pos="DETndf">une</w>
+          <w xml:id="t2359" n="2359" lemma="taille" pos="NOMcom">taille</w>
+          <w xml:id="t2360" n="2360" lemma="estre1" pos="VERcjg">estoient</w>
+        </l>
+        <l>
+          <w xml:id="t2362" n="2362" lemma="de" pos="PRE">D'</w>
+          <w xml:id="t2364" n="2364" lemma="un" pos="DETndf">un</w>
+          <w xml:id="t2365" n="2365" lemma="semblant" pos="NOMcom">sanblant</w>
+          <w xml:id="t2366" n="2366" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t2367" n="2367" lemma="de" pos="PRE">d'</w>
+          <w xml:id="t2369" n="2369" lemma="un" pos="DETndf">une</w>
+          <w xml:id="t2370" n="2370" lemma="color" pos="NOMcom">color</w>
+        </l>
+        <l>
+          <w xml:id="t2372" n="2372" lemma="." pos="PONfrt">.</w>
+          <w xml:id="t2373" n="2373" lemma="12" pos="DETcar">xij</w>
+          <w xml:id="t2374" n="2374" lemma="." pos="PONfrt">.</w>
+          <w xml:id="t2375" n="2375" lemma="estre1" pos="VERcjg">furent</w>
+          <w xml:id="t2376" n="2376" lemma="sans" pos="PRE">sanz</w>
+          <w xml:id="t2377" n="2377" lemma="lor2" pos="DETpos">lor</w>
+          <w xml:id="t2378" n="2378" lemma="seignor" pos="NOMcom">seignor</w>
+        </l>
+        <l>
+          <w xml:id="t2380" n="2380" lemma="dont" pos="PROrel">Don</w>
+          <w xml:id="t2381" n="2381" lemma="je" pos="PROper">je</w>
+          <w xml:id="t2382" n="2382" lemma="vos" pos="PROper">vos</w>
+          <w xml:id="t2383" n="2383" lemma="dire" pos="VERcjg">dirai</w>
+          <w xml:id="t2384" n="2384" lemma="tant" pos="ADVgen">tant</w>
+          <w xml:id="t2385" n="2385" lemma="sans" pos="PRE">sanz</w>
+          <w xml:id="t2386" n="2386" lemma="plus" pos="ADVgen">plus</w>
+        </l>
+        <l>
+          <w xml:id="t2388" n="2388" lemma="que4" pos="CONsub">Que</w>
+          <w xml:id="t2389" n="2389" lemma="meillor" pos="NOMcom">miaudres</w>
+          <w xml:id="t2390" n="2390" lemma="de" pos="PRE">de</w>
+          <w xml:id="t2391" n="2391" lemma="il" pos="PROper">lui</w>
+          <w xml:id="t2392" n="2392" lemma="ne1" pos="ADVneg">ne</w>
+          <w xml:id="t2393" n="2393" lemma="estre1" pos="VERcjg">fu</w>
+          <w xml:id="t2394" n="2394" lemma="nul" pos="PROind">nus</w>
+        </l>
+        <l>
+          <w xml:id="t2396" n="2396" lemma="mais1" pos="CONcoo">Mais</w>
+          <w xml:id="t2397" n="2397" lemma="sans" pos="PRE">sanz</w>
+          <w xml:id="t2398" n="2398" lemma="orgueil" pos="NOMcom">orguel</w>
+          <w xml:id="t2399" n="2399" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t2400" n="2400" lemma="sans" pos="PRE">sanz</w>
+          <w xml:id="t2401" n="2401" lemma="desroi" pos="NOMcom">desroi</w>
+        </l>
+        <l>
+          <w xml:id="t2403" n="2403" lemma="desfubler" pos="NOMpro">Desfublez</w>
+          <w xml:id="t2404" n="2404" lemma="estre1" pos="VERcjg">fu</w>
+          <w xml:id="t2405" n="2405" lemma="devant" pos="PRE">devant</w>
+          <w xml:id="t2406" n="2406" lemma="le" pos="DETdef">le</w>
+          <w xml:id="t2407" n="2407" lemma="roi2" pos="NOMcom">roi</w>
+        </l>
+        <l>
+          <w xml:id="t2409" n="2409" lemma="que4" pos="CONsub">Que</w>
+          <w xml:id="t2410" n="2410" lemma="mout" pos="ADVgen">molt</w>
+          <w xml:id="t2411" n="2411" lemma="estre1" pos="VERcjg">fu</w>
+          <w xml:id="t2412" n="2412" lemma="bel1" pos="ADJqua">biax</w>
+          <w xml:id="t2413" n="2413" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t2414" n="2414" lemma="bien1" pos="ADVgen">bien</w>
+          <w xml:id="t2415" n="2415" lemma="taillier1" pos="VERppe">tailliez</w>
+        </l>
+        <l>
+          <w xml:id="t2417" n="2417" lemma="devant" pos="PRE">Devant</w>
+          <w xml:id="t2418" n="2418" lemma="il" pos="PROper">lui</w>
+          <w xml:id="t2419" n="2419" lemma="soi1" pos="PROper">s'</w>
+          <w xml:id="t2421" n="2421" lemma="estre1" pos="VERcjg">est</w>
+          <w xml:id="t2422" n="2422" lemma="agenoillier" pos="VERppe">agenoilliez</w>
+        </l>
+        <l>
+          <w xml:id="t2424" n="2424" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t2425" n="2425" lemma="tot" pos="DETind">tuit</w>
+          <w xml:id="t2426" n="2426" lemma="le" pos="DETdef">li</w>
+          <w xml:id="t2427" n="2427" lemma="autre" pos="PROind">autre</w>
+          <w xml:id="t2428" n="2428" lemma="par" pos="PRE">par</w>
+          <w xml:id="t2429" n="2429" lemma="amor" pos="NOMcom">amor</w>
+        </l>
+        <l>
+          <w xml:id="t2431" n="2431" lemma="soi1" pos="PROper">S'</w>
+          <w xml:id="t2433" n="2433" lemma="agenoillier" pos="VERcjg">agenoillent</w>
+          <w xml:id="t2434" n="2434" lemma="lez" pos="DETdef">lez</w>
+          <w xml:id="t2435" n="2435" lemma="lor2" pos="DETpos">lor</w>
+          <w xml:id="t2436" n="2436" lemma="seignor" pos="NOMcom">seignor</w>
+        </l>
+        <l>
+          <w xml:id="t2438" n="2438" lemma="Alixandre" pos="NOMpro">Alixandres</w>
+          <w xml:id="t2439" n="2439" lemma="le" pos="DETdef">le</w>
+          <w xml:id="t2440" n="2440" lemma="roi2" pos="NOMcom">roi</w>
+          <w xml:id="t2441" n="2441" lemma="salüer" pos="VERcjg">salue</w>
+        </l>
+        <l>
+          <w xml:id="t2443" n="2443" lemma="qui" pos="PROrel">Qui</w>
+          <w xml:id="t2444" n="2444" lemma="le" pos="DETdef">la</w>
+          <w xml:id="t2445" n="2445" lemma="lignage" pos="NOMcom">leingue</w>
+          <w xml:id="t2446" n="2446" lemma="avoir" pos="VERcjg">avoit</w>
+          <w xml:id="t2447" n="2447" lemma="esmolir" pos="VERppe">esmolue</w>
+        </l>
+        <l>
+          <w xml:id="t2449" n="2449" lemma="a3" pos="PRE">A</w>
+          <w xml:id="t2450" n="2450" lemma="bien1" pos="ADVgen">bien</w>
+          <w xml:id="t2451" n="2451" lemma="parler" pos="VERinf">parler</w>
+          <w xml:id="t2452" n="2452" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t2453" n="2453" lemma="sagement" pos="ADJqua">sagemant</w>
+        </l>
+        <l>
+          <w xml:id="t2455" n="2455" lemma="roi2" pos="NOMcom">Rois</w>
+          <w xml:id="t2456" n="2456" lemma="faire" pos="VERcjg">fet</w>
+          <w xml:id="t2457" n="2457" lemma="il" pos="PROper">il</w>
+          <w xml:id="t2458" n="2458" lemma="se" pos="CONsub">se</w>
+          <w xml:id="t2459" n="2459" lemma="de" pos="PRE">de</w>
+          <w xml:id="t2460" n="2460" lemma="vos" pos="PROper">vos</w>
+          <w xml:id="t2461" n="2461" lemma="ne1" pos="ADVneg">ne</w>
+          <w xml:id="t2462" n="2462" lemma="mander" pos="VERcjg">mant</w>
+        </l>
+        <l>
+          <w xml:id="t2464" n="2464" lemma="renomee" pos="NOMpro">Renomee</w>
+          <w xml:id="t2465" n="2465" lemma="qui" pos="PROrel">qui</w>
+          <w xml:id="t2466" n="2466" lemma="vostre" pos="PROper">vos</w>
+          <w xml:id="t2467" n="2467" lemma="renomer" pos="VERcjg">renome</w>
+        </l>
+        <l>
+          <w xml:id="t2469" n="2469" lemma="des2" pos="PRE">Des</w>
+          <w xml:id="t2470" n="2470" lemma="que4" pos="CONsub">que</w>
+          <w xml:id="t2471" n="2471" lemma="dieu" pos="NOMpro">Dex</w>
+          <w xml:id="t2472" n="2472" lemma="faire" pos="VERcjg">fist</w>
+          <w xml:id="t2473" n="2473" lemma="le" pos="DETdef">le</w>
+          <w xml:id="t2474" n="2474" lemma="premier" pos="ADJord">premier</w>
+          <w xml:id="t2475" n="2475" lemma="ome" pos="NOMcom">home</w>
+        </l>
+        <l>
+          <w xml:id="t2477" n="2477" lemma="ne2" pos="ADVneg">Ne</w>
+          <w xml:id="t2478" n="2478" lemma="naistre" pos="VERcjg">nasqui</w>
+          <w xml:id="t2479" n="2479" lemma="de" pos="PRE">de</w>
+          <w xml:id="t2480" n="2480" lemma="vostre" pos="DETpos">vostre</w>
+          <w xml:id="t2481" n="2481" lemma="poissance" pos="NOMcom">puissance</w>
+        </l>
+        <l>
+          <w xml:id="t2483" n="2483" lemma="roi2" pos="NOMcom">Rois</w>
+          <w xml:id="t2484" n="2484" lemma="qui" pos="PROrel">qui</w>
+          <w xml:id="t2485" n="2485" lemma="en1" pos="PRE">an</w>
+          <w xml:id="t2486" n="2486" lemma="dieu" pos="NOMpro">Deu</w>
+          <w xml:id="t2487" n="2487" lemma="avoir" pos="VERcjg">eust</w>
+          <w xml:id="t2488" n="2488" lemma="crëance" pos="NOMcom">creance</w>
+        </l>
+        <l>
+          <w xml:id="t2490" n="2490" lemma="roi2" pos="NOMcom">Rois</w>
+          <w xml:id="t2491" n="2491" lemma="le" pos="DETdef">li</w>
+          <w xml:id="t2492" n="2492" lemma="renom" pos="NOMcom">renons</w>
+          <w xml:id="t2493" n="2493" lemma="qui" pos="PROrel">qui</w>
+          <w xml:id="t2494" n="2494" lemma="de" pos="PRE">de</w>
+          <w xml:id="t2495" n="2495" lemma="vostre" pos="PROper">vos</w>
+          <w xml:id="t2496" n="2496" lemma="corir" pos="NOMcom">cort</w>
+        </l>
+        <l>
+          <w xml:id="t2498" n="2498" lemma="je" pos="PROper">M'</w>
+          <w xml:id="t2500" n="2500" lemma="avoir" pos="VERcjg">a</w>
+          <w xml:id="t2501" n="2501" lemma="amener" pos="VERcjg">amene</w>
+          <w xml:id="t2502" n="2502" lemma="a3" pos="PRE">a</w>
+          <w xml:id="t2503" n="2503" lemma="vostre" pos="DETpos">vostre</w>
+          <w xml:id="t2504" n="2504" lemma="cort1" pos="NOMcom">cort</w>
+        </l>
+        <l>
+          <w xml:id="t2506" n="2506" lemma="por2" pos="PRE">Por</w>
+          <w xml:id="t2507" n="2507" lemma="vos" pos="PROper">vos</w>
+          <w xml:id="t2508" n="2508" lemma="servir" pos="VERinf">servir</w>
+          <w xml:id="t2509" n="2509" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t2510" n="2510" lemma="onorer" pos="VERinf">enorer</w>
+        </l>
+        <l>
+          <w xml:id="t2512" n="2512" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t2513" n="2513" lemma="se" pos="PROper">s'</w>
+          <w xml:id="t2515" n="2515" lemma="i2" pos="PROadv">i</w>
+          <w xml:id="t2516" n="2516" lemma="voloir" pos="VERcjg">voldrai</w>
+          <w xml:id="t2517" n="2517" lemma="tant" pos="ADVgen">tant</w>
+          <w xml:id="t2518" n="2518" lemma="demorer" pos="VERinf">demorer</w>
+        </l>
+        <l>
+          <w xml:id="t2520" n="2520" lemma="que4" pos="CONsub">Que</w>
+          <w xml:id="t2521" n="2521" lemma="chevalier" pos="NOMcom">chevaliers</w>
+          <w xml:id="t2522" n="2522" lemma="estre1" pos="VERcjg">soie</w>
+          <w xml:id="t2523" n="2523" lemma="novel" pos="ADJqua">noviax</w>
+        </l>
+        <l>
+          <w xml:id="t2525" n="2525" lemma="se" pos="CONsub">Se</w>
+          <w xml:id="t2526" n="2526" lemma="mon1" pos="DETpos">mes</w>
+          <w xml:id="t2527" n="2527" lemma="servise" pos="NOMcom">servises</w>
+          <w xml:id="t2528" n="2528" lemma="vos" pos="PROper">vos</w>
+          <w xml:id="t2529" n="2529" lemma="estre1" pos="VERcjg">est</w>
+          <w xml:id="t2530" n="2530" lemma="bel1" pos="ADJqua">biax</w>
+        </l>
+        <l>
+          <w xml:id="t2532" n="2532" lemma="de" pos="PRE">De</w>
+          <w xml:id="t2533" n="2533" lemma="vostre" pos="DETpos">vostre</w>
+          <w xml:id="t2534" n="2534" lemma="main2" pos="NOMcom">main</w>
+          <w xml:id="t2535" n="2535" lemma="non" pos="ADVneg">non</w>
+          <w xml:id="t2536" n="2536" lemma="de" pos="PRE">de</w>
+          <w xml:id="t2537" n="2537" lemma="le" pos="DETdef">l'</w>
+          <w xml:id="t2539" n="2539" lemma="autrui" pos="PROind">autrui</w>
+        </l>
+        <l>
+          <w xml:id="t2541" n="2541" lemma="car" pos="CONcoo">Car</w>
+          <w xml:id="t2542" n="2542" lemma="se" pos="CONsub">se</w>
+          <w xml:id="t2543" n="2543" lemma="de" pos="PRE">de</w>
+          <w xml:id="t2544" n="2544" lemma="le" pos="DETdef">la</w>
+          <w xml:id="t2545" n="2545" lemma="vostre" pos="PROpos">vostre</w>
+          <w xml:id="t2546" n="2546" lemma="ne1+il" pos="ADVneg.PROper">nel</w>
+          <w xml:id="t2547" n="2547" lemma="estre1" pos="VERcjg">fui</w>
+        </l>
+        <l>
+          <w xml:id="t2549" n="2549" lemma="[" pos="PONfbl">[</w>
+          <w xml:id="t2550" n="2550" lemma="55d" pos="PONfbl">55d</w>
+          <w xml:id="t2551" n="2551" lemma="]" pos="PONfbl">]</w>
+          <w xml:id="t2552" n="2552" lemma="ne1" pos="ADVneg">Ne</w>
+          <w xml:id="t2553" n="2553" lemma="estre1" pos="VERcjg">serai</w>
+          <w xml:id="t2554" n="2554" lemma="chevalier" pos="NOMcom">chevaliers</w>
+          <w xml:id="t2555" n="2555" lemma="clamer" pos="VERppe">clamez</w>
+        </l>
+        <l>
+          <w xml:id="t2557" n="2557" lemma="se" pos="CONsub">Se</w>
+          <w xml:id="t2558" n="2558" lemma="vos" pos="PROper">vos</w>
+          <w xml:id="t2559" n="2559" lemma="tant" pos="ADVgen">tant</w>
+          <w xml:id="t2560" n="2560" lemma="mon1" pos="DETpos">mon</w>
+          <w xml:id="t2561" n="2561" lemma="servise" pos="NOMcom">servise</w>
+          <w xml:id="t2562" n="2562" lemma="amer1" pos="VERcjg">amez</w>
+        </l>
+        <l>
+          <w xml:id="t2564" n="2564" lemma="que4" pos="CONsub">Que</w>
+          <w xml:id="t2565" n="2565" lemma="chevalier" pos="NOMcom">chevaliers</w>
+          <w xml:id="t2566" n="2566" lemma="je" pos="PROper">me</w>
+          <w xml:id="t2567" n="2567" lemma="voloir" pos="VERcjg">vuilliez</w>
+          <w xml:id="t2568" n="2568" lemma="faire" pos="VERinf">faire</w>
+        </l>
+        <l>
+          <w xml:id="t2570" n="2570" lemma="retenir" pos="VERcjg">Retenez</w>
+          <w xml:id="t2571" n="2571" lemma="je" pos="PROper">moi</w>
+          <w xml:id="t2572" n="2572" lemma="roi2" pos="NOMcom">rois</w>
+          <w xml:id="t2573" n="2573" lemma="debonaire" pos="ADJqua">debonaire</w>
+        </l>
+        <l>
+          <w xml:id="t2575" n="2575" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t2576" n="2576" lemma="mon1" pos="DETpos">mes</w>
+          <w xml:id="t2577" n="2577" lemma="compagnon" pos="NOMcom">conpaignons</w>
+          <w xml:id="t2578" n="2578" lemma="qui" pos="PROrel">qui</w>
+          <w xml:id="t2579" n="2579" lemma="ci" pos="ADVgen">ci</w>
+          <w xml:id="t2580" n="2580" lemma="estre1" pos="VERcjg">sont</w>
+        </l>
+        <l>
+          <w xml:id="t2582" n="2582" lemma="le" pos="DETdef">Li</w>
+          <w xml:id="t2583" n="2583" lemma="roi2" pos="NOMcom">rois</w>
+          <w xml:id="t2584" n="2584" lemma="tot" pos="ADVgen">tot</w>
+          <w xml:id="t2585" n="2585" lemma="maintenant" pos="ADVgen">maintenant</w>
+          <w xml:id="t2586" n="2586" lemma="respondre1" pos="VERcjg">respont</w>
+        </l>
+        <l>
+          <w xml:id="t2588" n="2588" lemma="ami" pos="NOMcom">Amis</w>
+          <w xml:id="t2589" n="2589" lemma="faire" pos="VERcjg">fet</w>
+          <w xml:id="t2590" n="2590" lemma="il" pos="PROper">il</w>
+          <w xml:id="t2591" n="2591" lemma="ne1" pos="ADVneg">ne</w>
+          <w xml:id="t2592" n="2592" lemma="refuser" pos="VERcjg">refus</w>
+          <w xml:id="t2593" n="2593" lemma="mie" pos="ADVneg">mie</w>
+        </l>
+        <l>
+          <w xml:id="t2595" n="2595" lemma="ne2" pos="CONcoo">Ne</w>
+          <w xml:id="t2596" n="2596" lemma="vos" pos="PROper">vos</w>
+          <w xml:id="t2597" n="2597" lemma="ne2" pos="ADVneg">ne</w>
+          <w xml:id="t2598" n="2598" lemma="vostre" pos="DETpos">vostre</w>
+          <w xml:id="t2599" n="2599" lemma="compagnie" pos="NOMcom">conpaignie</w>
+        </l>
+        <l>
+          <w xml:id="t2601" n="2601" lemma="mais1" pos="CONcoo">Mes</w>
+          <w xml:id="t2602" n="2602" lemma="bien1" pos="ADVgen">bien</w>
+          <w xml:id="t2603" n="2603" lemma="veintre" pos="VERppa">veignant</w>
+          <w xml:id="t2604" n="2604" lemma="estre1" pos="VERcjg">soiez</w>
+          <w xml:id="t2605" n="2605" lemma="vos" pos="PROper">vos</w>
+          <w xml:id="t2606" n="2606" lemma="tot" pos="PROind">tuit</w>
+        </l>
+        <l>
+          <w xml:id="t2608" n="2608" lemma="car" pos="ADVgen">Car</w>
+          <w xml:id="t2609" n="2609" lemma="bien1" pos="ADVgen">bien</w>
+          <w xml:id="t2610" n="2610" lemma="sembler" pos="VERppe">sanblez</w>
+          <w xml:id="t2611" n="2611" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t2612" n="2612" lemma="je" pos="PROper">je</w>
+          <w xml:id="t2613" n="2613" lemma="il" pos="PROper">le</w>
+          <w xml:id="t2614" n="2614" lemma="cuidier1" pos="VERcjg">cuit</w>
+        </l>
+        <l>
+          <w xml:id="t2616" n="2616" lemma="que4" pos="CONsub">Que</w>
+          <w xml:id="t2617" n="2617" lemma="vos" pos="PROper">vos</w>
+          <w xml:id="t2618" n="2618" lemma="estre1" pos="VERcjg">soiez</w>
+          <w xml:id="t2619" n="2619" lemma="fil2" pos="NOMcom">fil</w>
+          <w xml:id="t2620" n="2620" lemma="de" pos="PRE">de</w>
+          <w xml:id="t2621" n="2621" lemma="haut" pos="ADJqua">hauz</w>
+          <w xml:id="t2622" n="2622" lemma="ome" pos="NOMcom">homes</w>
+        </l>
+        <l>
+          <w xml:id="t2624" n="2624" lemma="dont" pos="PROrel">Dom</w>
+          <w xml:id="t2625" n="2625" lemma="estre1" pos="VERcjg">estes</w>
+          <w xml:id="t2626" n="2626" lemma="vos" pos="PROper">vos</w>
+          <w xml:id="t2627" n="2627" lemma="de" pos="PRE">de</w>
+          <w xml:id="t2628" n="2628" lemma="Grece" pos="NOMpro">Grece</w>
+          <w xml:id="t2629" n="2629" lemma="estre1" pos="VERcjg">somes</w>
+        </l>
+        <l>
+          <w xml:id="t2631" n="2631" lemma="de" pos="PRE">De</w>
+          <w xml:id="t2632" n="2632" lemma="Grece" pos="NOMpro">Grece</w>
+          <w xml:id="t2633" n="2633" lemma="voir" pos="ADJqua">voire</w>
+          <w xml:id="t2634" n="2634" lemma="qui" pos="PROrel">qui</w>
+          <w xml:id="t2635" n="2635" lemma="estre1" pos="VERcjg">est</w>
+          <w xml:id="t2636" n="2636" lemma="ton4" pos="DETpos">tes</w>
+          <w xml:id="t2637" n="2637" lemma="pere" pos="NOMcom">peres</w>
+        </l>
+        <l>
+          <w xml:id="t2639" n="2639" lemma="par" pos="PRE">Par</w>
+          <w xml:id="t2640" n="2640" lemma="foi" pos="NOMcom">foi</w>
+          <w xml:id="t2641" n="2641" lemma="seignor" pos="NOMcom">sire</w>
+          <w xml:id="t2642" n="2642" lemma="le" pos="DETdef">li</w>
+          <w xml:id="t2643" n="2643" lemma="emperëor" pos="NOMcom">empereres</w>
+        </l>
+        <l>
+          <w xml:id="t2645" n="2645" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t2646" n="2646" lemma="comander" pos="ADVint">comant</w>
+          <w xml:id="t2647" n="2647" lemma="a3+le" pos="PRE.DETdef">as</w>
+          <w xml:id="t2648" n="2648" lemma="nom" pos="NOMcom">non</w>
+          <w xml:id="t2649" n="2649" lemma="bel1" pos="ADJqua">biax</w>
+          <w xml:id="t2650" n="2650" lemma="ami" pos="NOMcom">amis</w>
+        </l>
+        <l>
+          <w xml:id="t2652" n="2652" lemma="Alixandre" pos="NOMpro">Alixandres</w>
+          <w xml:id="t2653" n="2653" lemma="je" pos="PROper">me</w>
+          <w xml:id="t2654" n="2654" lemma="estre1" pos="VERcjg">fu</w>
+          <w xml:id="t2655" n="2655" lemma="nom" pos="NOMcom">nons</w>
+          <w xml:id="t2656" n="2656" lemma="metre2" pos="VERppe">mis</w>
+        </l>
+        <l>
+          <w xml:id="t2658" n="2658" lemma="là" pos="ADVgen">La</w>
+          <w xml:id="t2659" n="2659" lemma="où" pos="PROrel">ou</w>
+          <w xml:id="t2660" n="2660" lemma="je" pos="PROper">ge</w>
+          <w xml:id="t2661" n="2661" lemma="recevoir" pos="VERcjg">recui</w>
+          <w xml:id="t2662" n="2662" lemma="si+il" pos="ADVgen.PROper">sel</w>
+          <w xml:id="t2663" n="2663" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t2664" n="2664" lemma="criembre" pos="VERcjg">cresme</w>
+        </l>
+        <l>
+          <w xml:id="t2666" n="2666" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t2667" n="2667" lemma="crestïenté" pos="NOMcom">crestiante</w>
+          <w xml:id="t2668" n="2668" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t2669" n="2669" lemma="batesme" pos="NOMcom">baptesme</w>
+        </l>
+        <l>
+          <w xml:id="t2671" n="2671" lemma="Alixandre" pos="NOMpro">Alixandre</w>
+          <w xml:id="t2672" n="2672" lemma="bel1" pos="ADJqua">biax</w>
+          <w xml:id="t2673" n="2673" lemma="ami" pos="NOMcom">amis</w>
+          <w xml:id="t2674" n="2674" lemma="chier" pos="ADJqua">chiers</w>
+        </l>
+        <l>
+          <w xml:id="t2676" n="2676" lemma="je" pos="PROper">Je</w>
+          <w xml:id="t2677" n="2677" lemma="vos" pos="PROper">vos</w>
+          <w xml:id="t2678" n="2678" lemma="retenir" pos="VERcjg">retieng</w>
+          <w xml:id="t2679" n="2679" lemma="mout" pos="ADVgen">molt</w>
+          <w xml:id="t2680" n="2680" lemma="volentiers" pos="ADVgen">volantiers</w>
+        </l>
+        <l>
+          <w xml:id="t2682" n="2682" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t2683" n="2683" lemma="mout" pos="ADVgen">molt</w>
+          <w xml:id="t2684" n="2684" lemma="je" pos="PROper">me</w>
+          <w xml:id="t2685" n="2685" lemma="plaire" pos="VERcjg">plest</w>
+          <w xml:id="t2686" n="2686" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t2687" n="2687" lemma="mout" pos="ADVgen">molt</w>
+          <w xml:id="t2688" n="2688" lemma="je" pos="PROper">me</w>
+          <w xml:id="t2689" n="2689" lemma="haitier" pos="VERcjg">heite</w>
+        </l>
+        <l>
+          <w xml:id="t2691" n="2691" lemma="car" pos="CONcoo">Car</w>
+          <w xml:id="t2692" n="2692" lemma="mout" pos="ADVgen">molt</w>
+          <w xml:id="t2693" n="2693" lemma="je" pos="PROper">m'</w>
+          <w xml:id="t2695" n="2695" lemma="avoir" pos="VERcjg">avez</w>
+          <w xml:id="t2696" n="2696" lemma="grant" pos="ADJqua">grant</w>
+          <w xml:id="t2697" n="2697" lemma="onor" pos="NOMcom">enor</w>
+          <w xml:id="t2698" n="2698" lemma="faire" pos="VERppe">feite</w>
+        </l>
+        <l>
+          <w xml:id="t2700" n="2700" lemma="cant1" pos="CONsub">Quant</w>
+          <w xml:id="t2701" n="2701" lemma="venir" pos="VERppe">venuz</w>
+          <w xml:id="t2702" n="2702" lemma="estre1" pos="VERcjg">estes</w>
+          <w xml:id="t2703" n="2703" lemma="a3" pos="PRE">a</w>
+          <w xml:id="t2704" n="2704" lemma="mon1" pos="DETpos">ma</w>
+          <w xml:id="t2705" n="2705" lemma="cort1" pos="NOMcom">cort</w>
+        </l>
+        <l>
+          <w xml:id="t2707" n="2707" lemma="mout" pos="ADVgen">Molt</w>
+          <w xml:id="t2708" n="2708" lemma="voloir" pos="VERcjg">vuel</w>
+          <w xml:id="t2709" n="2709" lemma="que4" pos="CONsub">que</w>
+          <w xml:id="t2710" n="2710" lemma="le" pos="DETdef">l'</w>
+          <w xml:id="t2712" n="2712" lemma="en2" pos="PROind">en</w>
+          <w xml:id="t2713" n="2713" lemma="vos" pos="PROper">vos</w>
+          <w xml:id="t2714" n="2714" lemma="i2" pos="PROadv">i</w>
+          <w xml:id="t2715" n="2715" lemma="onor" pos="NOMcom">enor</w>
+        </l>
+        <l>
+          <w xml:id="t2717" n="2717" lemma="come1" pos="CONsub">Com</w>
+          <w xml:id="t2718" n="2718" lemma="franc1" pos="ADJqua">franc</w>
+          <w xml:id="t2719" n="2719" lemma="vaslet" pos="NOMcom">vaslet</w>
+          <w xml:id="t2720" n="2720" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t2721" n="2721" lemma="sage" pos="ADJqua">sage</w>
+          <w xml:id="t2722" n="2722" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t2723" n="2723" lemma="douz" pos="ADJqua">dolz</w>
+        </l>
+        <l>
+          <w xml:id="t2725" n="2725" lemma="trop" pos="ADVgen">Trop</w>
+          <w xml:id="t2726" n="2726" lemma="avoir" pos="VERcjg">avez</w>
+          <w xml:id="t2727" n="2727" lemma="estre1" pos="VERppe">este</w>
+          <w xml:id="t2728" n="2728" lemma="a3" pos="PRE">a</w>
+          <w xml:id="t2729" n="2729" lemma="genoil" pos="NOMcom">genolz</w>
+        </l>
+        <l>
+          <w xml:id="t2731" n="2731" lemma="relever" pos="VERcjg">Releve</w>
+          <w xml:id="t2732" n="2732" lemma="sus" pos="PRE">sus</w>
+          <w xml:id="t2733" n="2733" lemma="je+il" pos="PROper.PROper">jel</w>
+          <w xml:id="t2734" n="2734" lemma="vos" pos="PROper">vos</w>
+          <w xml:id="t2735" n="2735" lemma="comander" pos="VERcjg">comant</w>
+        </l>
+        <l>
+          <w xml:id="t2737" n="2737" lemma="et" pos="CONcoo">Et</w>
+          <w xml:id="t2738" n="2738" lemma="estre1" pos="VERcjg">soiez</w>
+          <w xml:id="t2739" n="2739" lemma="des2" pos="PRE">des</w>
+          <w xml:id="t2740" n="2740" lemma="or1" pos="ADVgen">ore</w>
+          <w xml:id="t2741" n="2741" lemma="en1" pos="PRE">en</w>
+          <w xml:id="t2742" n="2742" lemma="avant" pos="ADVgen">avant</w>
+        </l>
+        <l>
+          <w xml:id="t2744" n="2744" lemma="de" pos="PRE">De</w>
+          <w xml:id="t2745" n="2745" lemma="mon1" pos="DETpos">ma</w>
+          <w xml:id="t2746" n="2746" lemma="cort1" pos="NOMcom">cort</w>
+          <w xml:id="t2747" n="2747" lemma="et" pos="CONcoo">et</w>
+          <w xml:id="t2748" n="2748" lemma="de" pos="PRE">de</w>
+          <w xml:id="t2749" n="2749" lemma="mon1" pos="DETpos">mes</w>
+          <w xml:id="t2750" n="2750" lemma="privé1" pos="NOMcom">privez</w>
+        </l>
+        <l>
+          <w xml:id="t2752" n="2752" lemma="que4" pos="PROrel">Qu'</w>
+          <w xml:id="t2754" n="2754" lemma="a3" pos="PRE">a</w>
+          <w xml:id="t2755" n="2755" lemma="bon" pos="ADJqua">boen</w>
+          <w xml:id="t2756" n="2756" lemma="port2" pos="NOMcom">port</w>
+          <w xml:id="t2757" n="2757" lemma="estre1" pos="VERcjg">estes</w>
+          <w xml:id="t2758" n="2758" lemma="ariver1" pos="VERppe">arivez</w>
+        </l>
+      </ab>
+    </body>
+  </text>
+</TEI>

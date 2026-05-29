@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="dante2_C">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>dante2 witness C</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>For teaching/demo purposes.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Derived from provided plain-text witness.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Huic ipsi inter sermonem aliquando iunioremque Canes prandenti, cum ministri utriusque, dedita opera, ante pedes Dantis, ad eum lacessendum, ossa occulte subiecissent, remota mensa, versi omnes in solum Dantem, mirabantur, cum ante ipsum solummodo ossa conspicerentur. Tum ille, ut erat ad respondendum promptus : « Minime, inquit, mirum, si Canes ossa sua commederunt ; ego autem non sum Canis. ».</p>
+    </body>
+  </text>
+</TEI>

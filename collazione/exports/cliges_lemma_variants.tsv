@@ -1,0 +1,478 @@
+type	lineA	lineB	witA	witB	A_form	A_lemma	A_pos	B_form	B_lemma	B_pos
+lacune	1	1	Cliges_A	Cliges_P	54b	arbre	NOMcom			
+pos_diff	3	3	Cliges_A	Cliges_P	Amors	amor	NOMpro	Amors	amor	NOMcom
+lexicale	3	3	Cliges_A	Cliges_P	romans	romanz	NOMcom	rime	rime4	NOMcom
+lexicale	5	5	Cliges_A	Cliges_P	Del	de+le	PRE.DETdef	Du	deus	PRE.DETdef
+pos_diff	8	8	Cliges_A	Cliges_P	rancomance	recomencier	NOMcom	recommence	recomencier	VERcjg
+lexicale	11	11	Cliges_A	Cliges_P	Mes	mès	CONcoo	Mais	mais1	CONcoo
+lexicale	12	12	Cliges_A	Cliges_P	Orroiz	öir	VERcjg	Ores	or4	NOMpro
+lexicale	14	14	Cliges_A	Cliges_P	fier	fier	ADJqua	haut	haut	ADJqua
+lexicale	14	14	Cliges_A	Cliges_P	corage	corage	NOMcom	parage	parage	NOMcom
+pos_diff	16	16	Cliges_A	Cliges_P	engleterre	engleterre	NOMcom	Engleterre	engleterre	NOMpro
+lexicale	20	20	Cliges_A	Cliges_P	livres	livre3	NOMcom	livres	livre2	NOMcom
+lexicale	22	22	Cliges_A	Cliges_P	estrez	estre1	VERppe	estrais	estraire	VERppe
+vers_ajoute		23	Cliges_A	Cliges_P						
+vers_ajoute		24	Cliges_A	Cliges_P						
+pos_diff	23	25	Cliges_A	Cliges_P	voire	voir	ADJqua	voire	voir	ADVgen
+lexicale	24	26	Cliges_A	Cliges_P	Por	por2	PRE	De	de	PRE
+lexicale	24	26	Cliges_A	Cliges_P	ce	ce1	PROdem	tant	tant	ADVgen
+lexicale	26	28	Cliges_A	Cliges_P	fez	fé	VERppe	fais	fait1	NOMcom
+lexicale	28	30	Cliges_A	Cliges_P	Ce	ce2	PROdem	Or	or4	ADVgen
+lexicale	28	30	Cliges_A	Cliges_P	nos	nos1	PROper	vos	vos	PROper
+lexicale	28	30	Cliges_A	Cliges_P	ont	avoir	VERcjg	ert	estre1	VERcjg
+ajout	28	30	Cliges_A	Cliges_P				par	par	PRE
+lexicale	28	30	Cliges_A	Cliges_P	notre	nostre	DETpos	cest	cest	DETdem
+lacune	29	31	Cliges_A	Cliges_P	an	en1	PRE			
+lexicale	34	36	Cliges_A	Cliges_P	maintenue	maintenir	VERppe	retenue	retenir	VERppe
+lexicale	38	40	Cliges_A	Cliges_P	altres	autre	PROind	Grigois	gregois	NOMpro
+lexicale	38	40	Cliges_A	Cliges_P	prestee	prester	VERppe	donee	doner	VERppe
+lexicale	39	41	Cliges_A	Cliges_P	Car	car	CONcoo	Mais	mais1	CONcoo
+lexicale	39	41	Cliges_A	Cliges_P	des	de+le	PRE.DETdef	de	de	PRE
+pos_diff	39	41	Cliges_A	Cliges_P	Grezois	gregois	NOMcom	Grigois	gregois	NOMpro
+lacune	40	42	Cliges_A	Cliges_P	an	en1	PRE			
+lexicale	40	42	Cliges_A	Cliges_P	mes	mais1	CONcoo	ore	or4	NOMcom
+lacune	41	43	Cliges_A	Cliges_P	54c	100	NOMcom			
+lexicale	42	44	Cliges_A	Cliges_P	estrainte	estreindre	VERppe	estainte	esteindre	VERppe
+pos_diff	42	44	Cliges_A	Cliges_P	brese	brese	VERppe	brese	brese	NOMcom
+pos_diff	43	45	Cliges_A	Cliges_P	Crestiens	crestiien	NOMpro	Crestijens	crestiien	NOMcom
+lexicale	45	47	Cliges_A	Cliges_P	Qui	que2	PROrel	Qu'	que4	CONsub
+lexicale	45	47	Cliges_A	Cliges_P	trez	tref2	VERppe	il	il	PROper
+lexicale	45	47	Cliges_A	Cliges_P	fu	estre1	VERcjg	traite	traire	VERcjg
+lexicale	48	50	Cliges_A	Cliges_P	ot	avoir	VERcjg	i	i2	PROadv
+lexicale	48	50	Cliges_A	Cliges_P	cointe	cointe	ADJqua	ot	avoir	VERcjg
+lexicale	48	50	Cliges_A	Cliges_P	et	et	CONcoo	molt	mout	ADVgen
+pos_diff	49	51	Cliges_A	Cliges_P	Don	dont	NOMpro	Dont	dont	PROrel
+lexicale	50	52	Cliges_A	Cliges_P	Mes	mès	CONcoo	Mais	mais1	CONcoo
+lexicale	53	55	Cliges_A	Cliges_P	Poist	poissant	DETind	Peust	poil	DETind
+lexicale	62	64	Cliges_A	Cliges_P	conteron	conter	VERcjg	parlerai	parler	VERcjg
+lexicale	63	65	Cliges_A	Cliges_P	corageus	corajos	ADJqua	orgilleus	orgoillos	ADJqua
+ajout	64	66	Cliges_A	Cliges_P				ne	ne1	ADVneg
+ajout	69	71	Cliges_A	Cliges_P				tos	tot	DETind
+lexicale	69	71	Cliges_A	Cliges_P	tozjorz	tozjors	ADVgen	jors	jor	NOMcom
+lexicale	70	72	Cliges_A	Cliges_P	corz	cort1	NOMcom	cors	cors1	NOMcom
+lacune	72	74	Cliges_A	Cliges_P	an	en2	PROadv			
+lacune	73	75	Cliges_A	Cliges_P	il	il	PROper			
+lexicale	74	76	Cliges_A	Cliges_P	nee	naistre	VERppe	nule	nul	ADJind
+pos_diff	74	76	Cliges_A	Cliges_P	le	il	DETdef	l'	il	PROper
+ajout	74	76	Cliges_A	Cliges_P				en	en2	PROadv
+lexicale	74	76	Cliges_A	Cliges_P	deteingne	detenir	NOMcom	retiegne	retenir	VERcjg
+lexicale	75	77	Cliges_A	Cliges_P	El	en1+le	PRE.DETdef	K'	que4	CONcoo
+lexicale	75	77	Cliges_A	Cliges_P	mont	mont	NOMcom	aler	aler	VERinf
+lexicale	75	77	Cliges_A	Cliges_P	que	que4	PROrel	ne	ne1	ADVneg
+lexicale	75	77	Cliges_A	Cliges_P	n'	ne1	ADVneg	s'	soi1	PROper
+lexicale	75	77	Cliges_A	Cliges_P	voist	aler	VERcjg	voelle	voloir	VERcjg
+lexicale	76	78	Cliges_A	Cliges_P	Mes	mès	CONcoo	Mais	mais1	CONcoo
+lexicale	78	80	Cliges_A	Cliges_P	Cornoaille	cornouailles	NOMpro	Cornuaille	corneille	NOMpro
+pos_diff	80	82	Cliges_A	Cliges_P	Va	aler	NOMpro	Vait	aler	VERcjg
+pos_diff	81	83	Cliges_A	Cliges_P	biax	bel1	ADJqua	biaus	bel1	NOMcom
+lexicale	82	84	Cliges_A	Cliges_P	veuz	vëoir	NOMcom	vous	vos	PROper
+lexicale	83	85	Cliges_A	Cliges_P	Et	et	CONcoo	Ne	ne2	ADVneg
+ajout	85	87	Cliges_A	Cliges_P				et	et	CONcoo
+lexicale	85	87	Cliges_A	Cliges_P	pris	prendre	NOMcom	pris	pris1	NOMcom
+lexicale	86	88	Cliges_A	Cliges_P	Un	un	DETndf	j	je	PROper
+pos_diff	86	88	Cliges_A	Cliges_P	don	don	PROrel	don	don	ADVgen
+lexicale	86	88	Cliges_A	Cliges_P	os	os2	NOMcom	os	oser	NOMcom
+lexicale	87	89	Cliges_A	Cliges_P	doingniez	deignier	VERcjg	doignies	doner	VERcjg
+lexicale	90	92	Cliges_A	Cliges_P	ce	ce1	PROdem	cou	col	PROrel
+pos_diff	90	92	Cliges_A	Cliges_P	grevez	grever	VERppe	greves	grever	ADJqua
+pos_diff	91	93	Cliges_A	Cliges_P	po	poi	ADVgen	peu	poi	NOMcom
+lexicale	98	100	Cliges_A	Cliges_P	pleisir	plaisir	NOMcom	palisir	palir	NOMcom
+lexicale	101	103	Cliges_A	Cliges_P	qui	qui	PROrel	et	et	CONcoo
+lexicale	106	108	Cliges_A	Cliges_P	plante	plante2	NOMcom	plente	plenté	NOMcom
+pos_diff	112	114	Cliges_A	Cliges_P	justise	justice	VERcjg	justice	justice	NOMcom
+lacune	113	115	Cliges_A	Cliges_P	Por	por2	PRE			
+lexicale	113	115	Cliges_A	Cliges_P	ce	ce1	PROdem	Proier	priier	VERinf
+ajout	114	116	Cliges_A	Cliges_P				armee	armer	VERppe
+lacune	114	116	Cliges_A	Cliges_P	armee	armer	VERppe			
+lexicale	115	117	Cliges_A	Cliges_P	el	en1+le	PRE.DETdef	en	en1	PRE
+lexicale	119	121	Cliges_A	Cliges_P	Car	car	CONcoo	Ja	ja	ADVgen
+pos_diff	121	123	Cliges_A	Cliges_P	Deu	dieu	NOMpro	diu	dieu	NOMcom
+lexicale	121	123	Cliges_A	Cliges_P	ne	ne1	ADVneg	nel	ne1+il	ADVneg.PROper
+lexicale	122	124	Cliges_A	Cliges_P	Cist	cest	DETdem	Cis	cel	DETdem
+pos_diff	122	124	Cliges_A	Cliges_P	vostres	vostre	PROpos	vostre	vostre	DETpos
+lexicale	124	126	Cliges_A	Cliges_P	por	por2	PRE	a	a3	PRE
+lexicale	124	126	Cliges_A	Cliges_P	chiche	chiche2	ADJqua	chiche	chief1	NOMcom
+lexicale	125	127	Cliges_A	Cliges_P	son	son4	DETpos	don	dont	PROrel
+ajout	126	128	Cliges_A	Cliges_P				Par	par	PRE
+lexicale	126	128	Cliges_A	Cliges_P	Demain	demain	NOMpro	tans	tant	NOMcom
+pos_diff	127	129	Cliges_A	Cliges_P	seroiz	estre1	VERcjg	seres	estre1	ADJqua
+lacune	129	131	Cliges_A	Cliges_P	54e	noiier2	PROper			
+lexicale	129	131	Cliges_A	Cliges_P	de	de	PRE	tos	tot	DETind
+lexicale	129	131	Cliges_A	Cliges_P	noz	nostre	DETpos	vos	vostre	ADJpos
+lexicale	132	134	Cliges_A	Cliges_P	Qui	que2	PROrel	Qui	qui	PROrel
+lacune	132	134	Cliges_A	Cliges_P	il	il	PROimp			
+pos_diff	133	135	Cliges_A	Cliges_P	vaslez	vaslet	VERppe	valles	vaslet	NOMcom
+lexicale	136	138	Cliges_A	Cliges_P	Et	et	CONcoo	Si	si	ADVgen
+lexicale	138	140	Cliges_A	Cliges_P	feire	faire	VERinf	voles	voloir	VERcjg
+lexicale	138	140	Cliges_A	Cliges_P	volez	voloir	VERcjg	faire	faire	VERinf
+lexicale	139	141	Cliges_A	Cliges_P	ce	ce1	PROdem	cou	col	PROrel
+lexicale	140	142	Cliges_A	Cliges_P	Or	or4	ADVgen	Dont	dont	PROrel
+pos_diff	140	142	Cliges_A	Cliges_P	veir	vair1	ADJqua	vair	vair1	VERinf
+pos_diff	140	142	Cliges_A	Cliges_P	gris	gris	ADJqua	gris	gris	NOMcom
+lexicale	144	146	Cliges_A	Cliges_P	si	si	ADVgen	li	le	DETdef
+lexicale	145	147	Cliges_A	Cliges_P	poisse	peser	VERcjg	peusse	pöoir	VERcjg
+lacune	146	148	Cliges_A	Cliges_P	an	en2	PROadv			
+lexicale	146	148	Cliges_A	Cliges_P	retorner	retorner	VERinf	enorter	enhorter	VERinf
+lexicale	147	149	Cliges_A	Cliges_P	proiere	priiere	NOMcom	pormetre	prometre	VERinf
+lexicale	147	149	Cliges_A	Cliges_P	par	par	PRE	por	por2	PRE
+ajout	148	150	Cliges_A	Cliges_P				en	en2	PROadv
+lacune	148	150	Cliges_A	Cliges_P	la	le	DETdef			
+pos_diff	149	151	Cliges_A	Cliges_P	Veoir	vëoir	VERinf	Veir	vëoir	VERcjg
+lexicale	149	151	Cliges_A	Cliges_P	ses	son4	DETpos	les	le	DETdef
+ajout	150	152	Cliges_A	Cliges_P				est	estre1	VERcjg
+lacune	150	152	Cliges_A	Cliges_P	est	estre1	VERcjg			
+lexicale	153	155	Cliges_A	Cliges_P	avoir	avoir	VERinf	il	il	PROper
+ajout	154	156	Cliges_A	Cliges_P				Avoir	avoir	VERinf
+lexicale	154	156	Cliges_A	Cliges_P	terre	terre	NOMcom	mont	mont	NOMcom
+lexicale	154	156	Cliges_A	Cliges_P	cheminoient	cheminer	VERcjg	erroient	errer2	VERcjg
+lexicale	157	159	Cliges_A	Cliges_P	nule	nul	DETind	rien	rien	PROind
+lexicale	157	159	Cliges_A	Cliges_P	rien	rien	NOMcom	nule	nul	ADJind
+lexicale	158	160	Cliges_A	Cliges_P	jorz	jor	NOMcom	tans	tant	NOMcom
+vers_ajoute		161	Cliges_A	Cliges_P						
+vers_ajoute		162	Cliges_A	Cliges_P						
+ajout	161	165	Cliges_A	Cliges_P				l	il	PROper
+lexicale	161	165	Cliges_A	Cliges_P	lamasse	laissier	VERcjg	amasse	amer1	VERcjg
+lexicale	162	166	Cliges_A	Cliges_P	loist	loisir1	VERcjg	loist	laissier	VERcjg
+lexicale	163	167	Cliges_A	Cliges_P	conquerre	conquerre	VERinf	aquerre	aquerre	VERinf
+pos_diff	163	167	Cliges_A	Cliges_P	vail	valoir	VERcjg	vail	valoir	NOMcom
+ajout	164	168	Cliges_A	Cliges_P				I	i2	PROper
+lexicale	165	169	Cliges_A	Cliges_P	sanz	sans	PRE	toute	tot	DETind
+lexicale	165	169	Cliges_A	Cliges_P	dotance	dotance	NOMcom	voie	voie	NOMcom
+ajout	166	170	Cliges_A	Cliges_P				Ot	avoir	VERcjg
+lacune	166	170	Cliges_A	Cliges_P	ot	avoir	VERcjg			
+lexicale	166	170	Cliges_A	Cliges_P	joie	joie	NOMcom	molt	mout	ADVgen
+lexicale	166	170	Cliges_A	Cliges_P	et	et	CONcoo	gran	grant	ADJqua
+lexicale	166	170	Cliges_A	Cliges_P	pesance	pesance	NOMcom	joie	joie	NOMcom
+vers_absent	167		Cliges_A	Cliges_P						
+vers_absent	168		Cliges_A	Cliges_P						
+lexicale	170	172	Cliges_A	Cliges_P	De	de	PRE	Por	por2	PRE
+lexicale	170	172	Cliges_A	Cliges_P	ce	ce1	PROdem	cou	col	PROdem
+lexicale	171	173	Cliges_A	Cliges_P	Mes	mès	NOMpro	Mais	mais1	CONcoo
+ajout	172	174	Cliges_A	Cliges_P				que	que4	PROrel
+lacune	173	175	Cliges_A	Cliges_P	54f	sen2	NOMcom			
+pos_diff	173	175	Cliges_A	Cliges_P	Li	il	DETdef	Li	il	PROper
+pos_diff	173	175	Cliges_A	Cliges_P	consantir	consentir	NOMcom	consentir	consentir	VERinf
+pos_diff	174	176	Cliges_A	Cliges_P	Qu'	que4	PROrel	K	que4	CONcoo
+pos_diff	175	177	Cliges_A	Cliges_P	fet	faire	VERcjg	fait	faire	VERppe
+lexicale	175	177	Cliges_A	Cliges_P	ne	ne2	ADVneg	ne	ne1	ADVneg
+pos_diff	175	177	Cliges_A	Cliges_P	doi	devoir	VERcjg	doi	devoir	NOMcom
+lacune	176	178	Cliges_A	Cliges_P	Puis	puis	ADVgen			
+lexicale	176	178	Cliges_A	Cliges_P	qu'	que4	CONsub	Quant	cant1	CONsub
+lexicale	176	178	Cliges_A	Cliges_P	tandre	tendre1	VERinf	penser	penser	VERinf
+lexicale	178	180	Cliges_A	Cliges_P	mes	mon1	DETpos	me	je	DETpos
+lexicale	180	182	Cliges_A	Cliges_P	Mes	mès	NOMpro	Mais	mais1	CONcoo
+lexicale	180	182	Cliges_A	Cliges_P	molt	mout	ADVgen	gardes	garder	NOMcom
+lexicale	180	182	Cliges_A	Cliges_P	covient	covenir	VERcjg	que	que4	CONsub
+lexicale	180	182	Cliges_A	Cliges_P	que	que4	CONsub	vos	vos	PROper
+lacune	181	183	Cliges_A	Cliges_P	Or	or4	ADVgen			
+lexicale	181	183	Cliges_A	Cliges_P	est	estre1	VERcjg	Et	et	CONcoo
+lexicale	181	183	Cliges_A	Cliges_P	li	le	DETdef	cortois	cortois	ADJqua
+lexicale	181	183	Cliges_A	Cliges_P	vaslez	vaslet	NOMcom	et	et	CONcoo
+lexicale	181	183	Cliges_A	Cliges_P	heitiez	haitier	VERppe	affaities	afaitier	VERppe
+ajout	182	184	Cliges_A	Cliges_P				Or	or4	ADVgen
+lexicale	182	184	Cliges_A	Cliges_P	Et	et	CONcoo	est	estre1	VERcjg
+lexicale	182	184	Cliges_A	Cliges_P	cortois	cortois	ADJqua	li	le	DETdef
+lexicale	182	184	Cliges_A	Cliges_P	et	et	CONcoo	valles	vaslet	NOMcom
+lexicale	182	184	Cliges_A	Cliges_P	afeitiez	afaitier	VERppe	haities	haitier	VERppe
+pos_diff	184	186	Cliges_A	Cliges_P	Qu'	que4	CONsub	K	que4	CONcoo
+pos_diff	185	187	Cliges_A	Cliges_P	si	si	ADVgen	se	si	PROper
+lacune	185	187	Cliges_A	Cliges_P	l'	le	DETdef			
+lexicale	185	187	Cliges_A	Cliges_P	enore	onor	NOMcom	li	il	PROper
+lexicale	185	187	Cliges_A	Cliges_P	ci	ci	ADVgen	enorte	enorter	VERcjg
+lexicale	185	187	Cliges_A	Cliges_P	li	il	PROper	et	et	CONcoo
+lexicale	186	188	Cliges_A	Cliges_P	despande	despendre2	VERcjg	espande	espandre	NOMcom
+lexicale	188	190	Cliges_A	Cliges_P	de	de	PRE	entent	entendre	VERcjg
+lexicale	188	190	Cliges_A	Cliges_P	ce	ce1	PROdem	a	a3	PRE
+lacune	188	190	Cliges_A	Cliges_P	croi	croire	VERcjg			
+lexicale	189	191	Cliges_A	Cliges_P	Que	que4	CONsub	Car	car	CONcoo
+pos_diff	189	191	Cliges_A	Cliges_P	Largesce	largece	NOMpro	Largece	largece	NOMcom
+lexicale	191	193	Cliges_A	Cliges_P	Ne	ne1	ADVneg	Ce	ce1	PROdem
+lexicale	192	194	Cliges_A	Cliges_P	A	a3	PRE	En	en1	PRE
+pos_diff	192	194	Cliges_A	Cliges_P	quel	quel1	PROrel	quel	quel1	DETint
+lexicale	192	194	Cliges_A	Cliges_P	bien	bien1	NOMcom	liu	lieu	NOMcom
+lacune	192	194	Cliges_A	Cliges_P	cil	cel	PROdem			
+lexicale	192	194	Cliges_A	Cliges_P	se	soi1	PROper	porroit	pöoir	VERcjg
+lexicale	192	194	Cliges_A	Cliges_P	puet	pöoir	VERcjg	on	on	PROind
+lexicale	192	194	Cliges_A	Cliges_P	torner	torner	VERinf	trover	trover	VERinf
+lexicale	193	195	Cliges_A	Cliges_P	Ja	ja	ADVgen	Home	ome	NOMcom
+lacune	193	195	Cliges_A	Cliges_P	ne	ne1	ADVneg			
+lexicale	194	196	Cliges_A	Cliges_P	homz	ome	NOMcom	blasmes	blasme	NOMcom
+lexicale	194	196	Cliges_A	Cliges_P	se	se	CONsub	quant	cant1	CONsub
+lacune	195	197	Cliges_A	Cliges_P	Qui	qui	PROrel			
+lexicale	195	197	Cliges_A	Cliges_P	atant	atant	VERcjg	Tot	tot	ADVgen
+lexicale	195	197	Cliges_A	Cliges_P	d'	de	PRE	bien	bien1	ADVgen
+lexicale	195	197	Cliges_A	Cliges_P	autre	autre	PROind	sont	estre1	VERcjg
+lexicale	195	197	Cliges_A	Cliges_P	bien	bien1	ADVgen	a	a3	PRE
+lexicale	195	197	Cliges_A	Cliges_P	sanz	sans	PRE	celui	cel	DETdem
+lexicale	195	197	Cliges_A	Cliges_P	grace	grace	NOMcom	damace	damage	NOMcom
+lexicale	196	198	Cliges_A	Cliges_P	Que	que4	CONsub	Qui	qui	PROrel
+pos_diff	196	198	Cliges_A	Cliges_P	Largesce	largece	NOMpro	Largece	largece	NOMcom
+lexicale	197	199	Cliges_A	Cliges_P	foi	foi	NOMcom	li	il	PROper
+pos_diff	197	199	Cliges_A	Cliges_P	fet	faire	VERppe	font	faire	VERcjg
+pos_diff	197	199	Cliges_A	Cliges_P	prodome	prodome	ADJqua	preudome	prodome	NOMcom
+lexicale	198	200	Cliges_A	Cliges_P	Ce	ce1	PROdem	Cou	col	PROrel
+lexicale	198	200	Cliges_A	Cliges_P	que	que2	PROrel	que	que4	PROrel
+pos_diff	199	201	Cliges_A	Cliges_P	Savoir	savoir	VERinf	Savoirs	savoir	NOMcom
+pos_diff	200	202	Cliges_A	Cliges_P	Avoir	avoir	VERinf	Avoirs	avoir	ADJqua
+lexicale	202	204	Cliges_A	Cliges_P	Proesce	pröece	NOMcom	Hardimens	hardement	NOMcom
+lexicale	203	205	Cliges_A	Cliges_P	Ne	ne2	CONcoo	Ne	ne1	ADVneg
+lexicale	203	205	Cliges_A	Cliges_P	Biautez	biauté	NOMpro	li	il	PROper
+lexicale	203	205	Cliges_A	Cliges_P	ne	ne2	CONcoo	estuet	estovoir1	VERcjg
+lexicale	203	205	Cliges_A	Cliges_P	nule	nul	DETind	mie	mie	ADVneg
+pos_diff	203	205	Cliges_A	Cliges_P	autre	autre	ADJind	autre	autre	DETind
+lexicale	204	206	Cliges_A	Cliges_P	Mes	mès	CONcoo	Mais	mais1	CONcoo
+lacune	204	206	Cliges_A	Cliges_P	tot	tot	ADVgen			
+lexicale	204	206	Cliges_A	Cliges_P	ausi	aussi	ADVgen	autresi	autresi	ADVgen
+lexicale	206	208	Cliges_A	Cliges_P	fresche	frois1	ADJqua	fresce	frai	ADJqua
+lexicale	207	209	Cliges_A	Cliges_P	Ensi	ainsi	ADVgen	Ausi	aussi	ADVgen
+pos_diff	207	209	Cliges_A	Cliges_P	la	le	PROper	la	le	ADVgen
+lexicale	207	209	Cliges_A	Cliges_P	avient	avenir	VERcjg	vient	venir	VERcjg
+lacune	208	210	Cliges_A	Cliges_P	De	de	PRE			
+lexicale	208	210	Cliges_A	Cliges_P	sor	sor2	PRE	Desor	desor	PRE
+lexicale	210	212	Cliges_A	Cliges_P	qui	qui	PROrel	quant	cant1	CONsub
+lexicale	210	212	Cliges_A	Cliges_P	eprueve	esprover	VERcjg	prueve	prover	VERcjg
+pos_diff	214	216	Cliges_A	Cliges_P	li	le	PROper	li	le	DETdef
+pos_diff	214	216	Cliges_A	Cliges_P	vaslez	vaslet	VERppe	valles	vaslet	NOMcom
+lacune	215	217	Cliges_A	Cliges_P	quan	cant2	PROind			
+lexicale	215	217	Cliges_A	Cliges_P	qu'	que2	PROrel	quanqu	cantque	PROrel
+lexicale	216	218	Cliges_A	Cliges_P	Car	car	CONcoo	Que	que4	CONsub
+lexicale	216	218	Cliges_A	Cliges_P	rove	rover	VERppe	trove	trover	VERppe
+lacune	217	219	Cliges_A	Cliges_P	55a	çaienz	VERcjg			
+pos_diff	217	219	Cliges_A	Cliges_P	Tot	tot	PROind	Tot	tot	ADVgen
+lacune	217	219	Cliges_A	Cliges_P	ce	ce1	PROdem			
+lexicale	217	219	Cliges_A	Cliges_P	qu'	que2	PROrel	quanques	cantque	PROrel
+lexicale	217	219	Cliges_A	Cliges_P	vint	venir	VERcjg	fu	estre1	VERcjg
+lexicale	217	219	Cliges_A	Cliges_P	a	avoir	PRE	a	a3	PRE
+lexicale	218	220	Cliges_A	Cliges_P	L'	le	DETdef	Lors	lors	ADVgen
+lexicale	218	220	Cliges_A	Cliges_P	empereriz	empererriz	NOMcom	fu	estre1	VERcjg
+lexicale	218	220	Cliges_A	Cliges_P	fu	estre1	VERcjg	l	le	DETdef
+lexicale	218	220	Cliges_A	Cliges_P	molt	mout	ADVgen	empeerris	empererriz	NOMcom
+lexicale	220	222	Cliges_A	Cliges_P	Ou	où	PROrel	U	que4	PROrel
+lexicale	221	223	Cliges_A	Cliges_P	Mes	mès	NOMpro	Mais	mais1	CONcoo
+ajout	221	223	Cliges_A	Cliges_P				k	que4	PROrel
+lexicale	221	223	Cliges_A	Cliges_P	quan	cant1	CONsub	en	en2	PROadv
+lexicale	221	223	Cliges_A	Cliges_P	ne	ne1	CONcoo	et	et	CONcoo
+lexicale	222	224	Cliges_A	Cliges_P	qui	qui	PROrel	que	que4	CONsub
+lexicale	222	224	Cliges_A	Cliges_P	que	que4	CONsub	qui	qui	PROrel
+pos_diff	223	225	Cliges_A	Cliges_P	Ne	ne2	ADVneg	Ne	ne2	CONcoo
+lexicale	223	225	Cliges_A	Cliges_P	que	que4	CONsub	qui	qui	PROrel
+pos_diff	223	225	Cliges_A	Cliges_P	li	il	DETdef	le	il	PROper
+pos_diff	223	225	Cliges_A	Cliges_P	blasme	blasmer	NOMcom	blasme	blasmer	VERcjg
+lexicale	223	225	Cliges_A	Cliges_P	ne	ne1	ADVneg	et	et	CONcoo
+lexicale	223	225	Cliges_A	Cliges_P	lot	löer1	VERcjg	deslot	desloiier	VERcjg
+pos_diff	224	226	Cliges_A	Cliges_P	Li	le	PROper	Li	le	DETdef
+pos_diff	224	226	Cliges_A	Cliges_P	vaslez	vaslet	VERppe	valles	vaslet	NOMcom
+pos_diff	224	226	Cliges_A	Cliges_P	qu'	que4	CONsub	qu	que4	PROrel
+lexicale	225	227	Cliges_A	Cliges_P	nes	ne1+il	NOMcom	nes	nef2	NOMcom
+lexicale	227	229	Cliges_A	Cliges_P	An	en1	PRE	K	que4	CONcoo
+lexicale	227	229	Cliges_A	Cliges_P	son	son4	DETpos	aler	aler	VERinf
+lexicale	227	229	Cliges_A	Cliges_P	pais	päis	NOMcom	ne	ne1	ADVneg
+lexicale	227	229	Cliges_A	Cliges_P	plus	plus	ADVgen	veut	voloir	VERcjg
+lexicale	227	229	Cliges_A	Cliges_P	longuement	longement2	ADVgen	hastivement	hastivement	ADVgen
+lexicale	229	231	Cliges_A	Cliges_P	Durent	durer	VERcjg	Furent	estre1	VERcjg
+pos_diff	229	231	Cliges_A	Cliges_P	chargiees	chargier	VERppe	cargier	chargier	VERinf
+lexicale	230	232	Cliges_A	Cliges_P	vin	vin	NOMcom	pain	pain	NOMcom
+lexicale	230	232	Cliges_A	Cliges_P	char	char2	NOMcom	car	car	CONcoo
+lexicale	234	236	Cliges_A	Cliges_P	Et	et	CONcoo	Einsanle	ensemble	ADVgen
+lexicale	234	236	Cliges_A	Cliges_P	avuec	avuec	PRE	o	o4	PRE
+lexicale	235	237	Cliges_A	Cliges_P	lie	lié1	ADJqua	liet	lever	ADVgen
+ajout	236	238	Cliges_A	Cliges_P				Et	et	CONcoo
+pos_diff	237	239	Cliges_A	Cliges_P	empereriz	empererriz	VERcjg	empeerris	empererriz	NOMcom
+lexicale	238	240	Cliges_A	Cliges_P	lez	lez	PRE	les	il	PROper
+lexicale	238	240	Cliges_A	Cliges_P	la	le	DETdef	le	il	PROper
+pos_diff	238	240	Cliges_A	Cliges_P	faloise	falir	NOMcom	faloise	falir	VERppe
+lexicale	240	242	Cliges_A	Cliges_P	orez	ore3	NOMcom	mers	mer	NOMcom
+pos_diff	240	242	Cliges_A	Cliges_P	soes	suen	PROpos	soes	suen	ADJqua
+lexicale	241	243	Cliges_A	Cliges_P	dolz	douz	ADJqua	dous	deus	ADJqua
+lexicale	244	246	Cliges_A	Cliges_P	Au	a3+le	PRE.DETdef	Congie	congié	NOMpro
+lexicale	244	246	Cliges_A	Cliges_P	congie	congié	NOMcom	prent	prendre	VERcjg
+lexicale	244	246	Cliges_A	Cliges_P	de	de	PRE	a	a3	PRE
+lexicale	245	247	Cliges_A	Cliges_P	le	le	DETdef	dolant	dolent	ADJqua
+lexicale	245	247	Cliges_A	Cliges_P	cuer	cuer2	NOMcom	ot	avoir	VERcjg
+lexicale	245	247	Cliges_A	Cliges_P	a	avoir	VERcjg	le	le	DETdef
+lexicale	245	247	Cliges_A	Cliges_P	dolant	dolent	ADJqua	cuer	cuer2	NOMcom
+lexicale	246	248	Cliges_A	Cliges_P	De	de	PRE	Del	de+le	PRE.DETdef
+lexicale	246	248	Cliges_A	Cliges_P	la	le	DETdef	batel	bataille	NOMcom
+lexicale	246	248	Cliges_A	Cliges_P	nef	nef2	NOMcom	en	en1	PRE
+lexicale	246	248	Cliges_A	Cliges_P	el	en1+le	PRE.DETdef	la	le	DETdef
+lexicale	246	248	Cliges_A	Cliges_P	batel	bataille	NOMcom	nef	nef2	NOMcom
+lexicale	247	249	Cliges_A	Cliges_P	avuec	avuec	PRE	apres	après	PRE
+ajout	248	250	Cliges_A	Cliges_P				I	i2	PROadv
+ajout	248	250	Cliges_A	Cliges_P				sont	estre1	VERcjg
+lexicale	248	250	Cliges_A	Cliges_P	Ansanble	ensemble	NOMpro	entre	entre2	PRE
+lexicale	248	250	Cliges_A	Cliges_P	quatre	catre	DETcar	tot	tot	ADVgen
+lexicale	248	250	Cliges_A	Cliges_P	troi	trois	PROcar	dui	deus	PROcar
+lexicale	249	251	Cliges_A	Cliges_P	Tancent	tencier	NOMpro	Quant	cant1	CONsub
+lexicale	249	251	Cliges_A	Cliges_P	d'	de	PRE	furent	estre1	VERcjg
+lexicale	249	251	Cliges_A	Cliges_P	antrer	entrer	VERinf	ens	enz	ADVgen
+ajout	250	252	Cliges_A	Cliges_P				Fu	estre1	VERcjg
+lexicale	250	252	Cliges_A	Cliges_P	Tantost	tantost	ADVgen	en	en1	PRE
+lexicale	250	252	Cliges_A	Cliges_P	fu	estre1	VERcjg	haut	haut	ADJqua
+lexicale	250	252	Cliges_A	Cliges_P	la	le	DETdef	li	il	DETdef
+pos_diff	250	252	Cliges_A	Cliges_P	voile	voile1	NOMcom	voile	voile1	VERcjg
+lexicale	252	254	Cliges_A	Cliges_P	terre	terre	NOMcom	Gresse	grece	NOMpro
+lexicale	254	256	Cliges_A	Cliges_P	les	il	PROper	le	le	DETdef
+pos_diff	254	256	Cliges_A	Cliges_P	convoient	convoiier	VERcjg	convoient	convoiier	NOMcom
+lexicale	255	257	Cliges_A	Cliges_P	la	le	DETdef	aigue	aigue	NOMcom
+lexicale	255	257	Cliges_A	Cliges_P	veue	veüe	NOMcom	douce	douz	ADJqua
+lexicale	255	257	Cliges_A	Cliges_P	de	de	PRE	levent	lever	VERcjg
+lacune	256	258	Cliges_A	Cliges_P	Et	et	CONcoo			
+lexicale	256	258	Cliges_A	Cliges_P	ce	ce1	PROdem	cou	col	PROrel
+ajout	256	258	Cliges_A	Cliges_P				il	il	PROper
+lexicale	257	259	Cliges_A	Cliges_P	longuemant	longement2	ADVgen	longement	longement	ADVgen
+ajout	258	260	Cliges_A	Cliges_P				Si	si	ADVgen
+lacune	258	260	Cliges_A	Cliges_P	tuit	tot	PROind			
+lexicale	259	261	Cliges_A	Cliges_P	Lez	lez	PRE	Les	le	DETdef
+lexicale	259	261	Cliges_A	Cliges_P	an	en1	PRE	en	en2	PRE
+lacune	261	263	Cliges_A	Cliges_P	55b	arbre	NOMcom			
+lexicale	261	263	Cliges_A	Cliges_P	pueent	pöoir	VERcjg	le	il	PROper
+lexicale	261	263	Cliges_A	Cliges_P	plus	plus	ADVgen	pueent	pöoir	VERcjg
+lexicale	262	264	Cliges_A	Cliges_P	ami	ami	NOMcom	anui	enui	NOMcom
+lacune	262	264	Cliges_A	Cliges_P	l'	il	PROper			
+pos_diff	262	264	Cliges_A	Cliges_P	voir	voir	NOMcom	voir	voir	ADVgen
+lexicale	263	265	Cliges_A	Cliges_P	Que	que4	CONsub	Car	car	CONcoo
+pos_diff	263	265	Cliges_A	Cliges_P	lor	il	DETpos	lor	il	PROper
+lexicale	263	265	Cliges_A	Cliges_P	enuie	enui	VERcjg	anuie	enoiier	VERcjg
+lexicale	264	266	Cliges_A	Cliges_P	Et	et	CONcoo	Cui	cui	PROrel
+lexicale	264	266	Cliges_A	Cliges_P	Dex	dieu	NOMpro	Damlediex	damnedeu	NOMpro
+lacune	264	266	Cliges_A	Cliges_P	a	a3	PRE			
+lexicale	264	266	Cliges_A	Cliges_P	droit	droit	NOMcom	a	avoir	VERcjg
+lacune	264	266	Cliges_A	Cliges_P	le	il	PROper			
+pos_diff	264	266	Cliges_A	Cliges_P	conduie	conduire	VERcjg	conduie	conduire	VERppe
+lexicale	268	270	Cliges_A	Cliges_P	esmai	esmai	NOMcom	esmai	esmaiier	NOMcom
+lexicale	269	271	Cliges_A	Cliges_P	Hantone	hampton	NOMpro	Hanstone	antonin	NOMpro
+pos_diff	271	273	Cliges_A	Cliges_P	Gietent	jeter	NOMpro	Jetent	jeter	VERcjg
+lexicale	271	273	Cliges_A	Cliges_P	encre	encre	ADVgen	lor	lor2	DETpos
+lexicale	271	273	Cliges_A	Cliges_P	si	si	ADVgen	ancre	ancre	NOMcom
+lexicale	271	273	Cliges_A	Cliges_P	ont	avoir	VERcjg	port	port2	VERppe
+lexicale	271	273	Cliges_A	Cliges_P	port	port2	NOMcom	ont	avoir	VERcjg
+lexicale	275	277	Cliges_A	Cliges_P	Orent	öir	NOMpro	Orent	avoir	VERcjg
+lacune	276	278	Cliges_A	Cliges_P	tuit	tot	PROind			
+lexicale	276	278	Cliges_A	Cliges_P	sont	estre1	VERcjg	trestout	trestot	ADVgen
+lexicale	281	283	Cliges_A	Cliges_P	la	là	ADVgen	la	le	ADVgen
+lexicale	282	284	Cliges_A	Cliges_P	ce	ce1	PROdem	cou	col	PROdem
+lexicale	282	284	Cliges_A	Cliges_P	que	que4	CONsub	que	que2	CONsub
+ajout	283	285	Cliges_A	Cliges_P				Le	le	DETdef
+ajout	283	285	Cliges_A	Cliges_P				soir	soir	NOMcom
+lexicale	283	285	Cliges_A	Cliges_P	Desoz	desoz	PRE	a	a3	PRE
+lacune	283	285	Cliges_A	Cliges_P	se	soi1	PROper			
+lexicale	284	286	Cliges_A	Cliges_P	et	et	CONcoo	molt	mout	ADVgen
+lexicale	287	289	Cliges_A	Cliges_P	L'	le	DETdef	268b	car	NOMcom
+lexicale	289	291	Cliges_A	Cliges_P	lever	lever	VERinf	movoir	movoir	VERinf
+ajout	290	292	Cliges_A	Cliges_P				Mais	mais1	CONcoo
+lexicale	290	292	Cliges_A	Cliges_P	S'	se	CONsub	qu	que4	CONsub
+pos_diff	290	292	Cliges_A	Cliges_P	droit	droit	ADJqua	droit	droit	NOMcom
+vers_ajoute		293	Cliges_A	Cliges_P						
+vers_ajoute		294	Cliges_A	Cliges_P						
+lexicale	295	299	Cliges_A	Cliges_P	Si	si	ADVgen	Et	et	CONcoo
+pos_diff	295	299	Cliges_A	Cliges_P	droit	droit	ADJqua	droit	droit	NOMcom
+lexicale	296	300	Cliges_A	Cliges_P	qu'	que4	CONsub	k	que2	CONsub
+lexicale	297	301	Cliges_A	Cliges_P	Ou	en1+le	PROrel	U	que4	PROrel
+pos_diff	298	302	Cliges_A	Cliges_P	Eincois	ainçois	NOMpro	Ancois	ainçois	ADVgen
+lexicale	298	302	Cliges_A	Cliges_P	prime	prim	NOMcom	tierce	tierce	NOMcom
+pos_diff	299	303	Cliges_A	Cliges_P	Furent	estre1	NOMpro	Furent	estre1	VERcjg
+lexicale	300	304	Cliges_A	Cliges_P	Au	a3+le	PRE.DETdef	A	a3	PRE
+pos_diff	300	304	Cliges_A	Cliges_P	descendent	descendre	VERcjg	descendnet	descendre	VERppe
+ajout	300	304	Cliges_A	Cliges_P				de	de	PRE
+lexicale	300	304	Cliges_A	Cliges_P	del	de+le	PRE.DETdef	lor	lor2	DETpos
+lexicale	300	304	Cliges_A	Cliges_P	degre	degré	NOMcom	gre	gré2	NOMcom
+lacune	305	309	Cliges_A	Cliges_P	55c	100	NOMcom			
+pos_diff	305	309	Cliges_A	Cliges_P	james	ja+mais1	NOMcom	jamais	ja+mais1	ADVgen
+lexicale	306	310	Cliges_A	Cliges_P	Artus	artu	NOMpro	venir	venir	VERinf
+lexicale	308	312	Cliges_A	Cliges_P	Mes	mès	NOMpro	Mais	mais1	CONcoo
+pos_diff	309	313	Cliges_A	Cliges_P	Ostent	oster2	NOMpro	Ostent	oster2	VERcjg
+lexicale	309	313	Cliges_A	Cliges_P	les	le	DETdef	lor	lor2	DETpos
+pos_diff	310	314	Cliges_A	Cliges_P	Que	que4	CONsub	C	que4	PROrel
+lacune	310	314	Cliges_A	Cliges_P	l'	le	DETdef			
+ajout	310	314	Cliges_A	Cliges_P				en	en2	PROadv
+pos_diff	311	315	Cliges_A	Cliges_P	trestuit	trestot	PROind	trestot	trestot	DETind
+pos_diff	311	315	Cliges_A	Cliges_P	desafuble	desafubler	ADJqua	desafule	desafubler	VERppe
+ajout	312	316	Cliges_A	Cliges_P				S	soi1	PROper
+pos_diff	312	316	Cliges_A	Cliges_P	An	en2	NOMcom	en	en2	PROadv
+lexicale	313	317	Cliges_A	Cliges_P	Tuit	tot	DETind	Et	et	CONcoo
+ajout	313	317	Cliges_A	Cliges_P				trestot	trestot	ADVgen
+lexicale	313	317	Cliges_A	Cliges_P	les	il	PROper	se	soi1	PROper
+lexicale	313	317	Cliges_A	Cliges_P	esgardoient	esgarder	VERcjg	taisent	taire	VERcjg
+lacune	314	318	Cliges_A	Cliges_P	Por	por2	PRE			
+lexicale	314	318	Cliges_A	Cliges_P	ce	ce1	PROdem	Car	car	CONcoo
+lexicale	314	318	Cliges_A	Cliges_P	que	que4	CONsub	li	le	DETdef
+lexicale	314	318	Cliges_A	Cliges_P	biax	bel1	NOMcom	vallet	vaslet	NOMcom
+lacune	314	318	Cliges_A	Cliges_P	et	et	CONcoo			
+lexicale	314	318	Cliges_A	Cliges_P	genz	gent1	NOMcom	forment	forment2	ADVgen
+lexicale	314	318	Cliges_A	Cliges_P	voient	vëoir	VERcjg	plaisent	plaire	VERcjg
+ajout	315	319	Cliges_A	Cliges_P				Por	por2	PRE
+lexicale	315	319	Cliges_A	Cliges_P	Car	car	CONcoo	cou	col	PROdem
+lexicale	315	319	Cliges_A	Cliges_P	li	le	DETdef	que	que4	PROrel
+lexicale	315	319	Cliges_A	Cliges_P	vaslet	vaslet	NOMcom	biaus	bel1	NOMcom
+ajout	315	319	Cliges_A	Cliges_P				et	et	CONcoo
+lexicale	315	319	Cliges_A	Cliges_P	molt	mout	ADVgen	gens	gent1	NOMcom
+lexicale	315	319	Cliges_A	Cliges_P	pleisoient	plaire	VERcjg	voient	vëoir	VERcjg
+pos_diff	317	321	Cliges_A	Cliges_P	Tuit	tot	PROind	Tot	tot	ADVgen
+lexicale	317	321	Cliges_A	Cliges_P	contes	conte1	NOMcom	rois	roi2	NOMcom
+lexicale	317	321	Cliges_A	Cliges_P	et	et	CONcoo	u	o3	CONcoo
+lexicale	317	321	Cliges_A	Cliges_P	roi	roi2	NOMcom	conte	conte1	NOMcom
+lexicale	319	323	Cliges_A	Cliges_P	Molt	mout	ADVgen	Et	et	CONcoo
+lexicale	319	323	Cliges_A	Cliges_P	par	par	ADVgen	molt	mout	ADVgen
+pos_diff	319	323	Cliges_A	Cliges_P	sont	estre1	NOMcom	erent	estre1	VERcjg
+lacune	319	323	Cliges_A	Cliges_P	bel	bel1	ADJqua			
+lexicale	319	323	Cliges_A	Cliges_P	lor	lor2	DETpos	bel	bel1	ADJqua
+lexicale	320	324	Cliges_A	Cliges_P	lonc	lonc	ADJqua	lor	lor2	DETpos
+lexicale	321	325	Cliges_A	Cliges_P	robes	robe	NOMcom	reubes	roiaume	NOMcom
+lexicale	321	325	Cliges_A	Cliges_P	vestoient	vestir	VERcjg	avoient	avoir	VERcjg
+ajout	325	329	Cliges_A	Cliges_P				tant	tant	ADVgen
+lacune	325	329	Cliges_A	Cliges_P	tant	tant	ADVgen			
+ajout	326	330	Cliges_A	Cliges_P				ainc	ainc	ADVgen
+lexicale	327	331	Cliges_A	Cliges_P	desroi	desroi	NOMcom	deroi	derompre	NOMcom
+lexicale	328	332	Cliges_A	Cliges_P	Desfublez	desfubler	NOMpro	Desfules	desafubler	VERppe
+lexicale	329	333	Cliges_A	Cliges_P	Que	que4	CONsub	Et	et	CONcoo
+lexicale	329	333	Cliges_A	Cliges_P	molt	mout	ADVgen	fu	estre1	VERcjg
+lexicale	329	333	Cliges_A	Cliges_P	fu	estre1	VERcjg	molt	mout	ADVgen
+lexicale	331	335	Cliges_A	Cliges_P	par	par	PRE	por	por2	PRE
+lexicale	331	335	Cliges_A	Cliges_P	amor	amor	NOMcom	honor	onor	NOMcom
+lexicale	332	336	Cliges_A	Cliges_P	lez	lez	DETdef	les	le	DETdef
+vers_absent	333		Cliges_A	Cliges_P						
+ajout	334	337	Cliges_A	Cliges_P				Alixandres	alixandre	NOMpro
+ajout	334	337	Cliges_A	Cliges_P				le	le	DETdef
+ajout	334	337	Cliges_A	Cliges_P				roi	roi2	NOMcom
+ajout	334	337	Cliges_A	Cliges_P				salue	salüer	VERppe
+lexicale	334	337	Cliges_A	Cliges_P	leingue	lignage	NOMcom	langue	langue1	NOMcom
+lexicale	334	337	Cliges_A	Cliges_P	esmolue	esmolir	VERppe	esmolue	esmoudre	VERppe
+lacune	335	338	Cliges_A	Cliges_P	A	a3	PRE			
+lacune	335	338	Cliges_A	Cliges_P	bien	bien1	ADVgen			
+pos_diff	336	339	Cliges_A	Cliges_P	fet	faire	VERcjg	fait	faire	VERppe
+lacune	336	339	Cliges_A	Cliges_P	se	se	CONsub			
+lexicale	336	339	Cliges_A	Cliges_P	mant	mander	VERcjg	demant	demander	NOMcom
+pos_diff	337	340	Cliges_A	Cliges_P	Renomee	renomee	NOMpro	Renomee	renomee	NOMcom
+ajout	337	340	Cliges_A	Cliges_P				est	estre1	VERcjg
+lexicale	339	342	Cliges_A	Cliges_P	Ne	ne2	ADVneg	Ne	ne1	ADVneg
+lacune	340	343	Cliges_A	Cliges_P	Rois	roi2	NOMcom			
+ajout	340	343	Cliges_A	Cliges_P				sa	son4	DETpos
+lexicale	341	344	Cliges_A	Cliges_P	vos	vostre	PROper	vos	vos	PROper
+lacune	343	346	Cliges_A	Cliges_P	vos	vos	PROper			
+ajout	343	346	Cliges_A	Cliges_P				por	por2	PRE
+lacune	344	347	Cliges_A	Cliges_P	s'	se	PROper			
+lexicale	344	347	Cliges_A	Cliges_P	i	i2	PROadv	si	si	ADVgen
+ajout	348	351	Cliges_A	Cliges_P				jou	je	PROper
+lexicale	348	351	Cliges_A	Cliges_P	de	de	PRE	par	par	PRE
+lexicale	348	351	Cliges_A	Cliges_P	la	le	DETdef	vos	vos	PROper
+lexicale	348	351	Cliges_A	Cliges_P	vostre	vostre	PROpos	ne	ne1	ADVneg
+lexicale	348	351	Cliges_A	Cliges_P	nel	ne1+il	ADVneg.PROper	le	il	PROper
+lacune	350	353	Cliges_A	Cliges_P	vos	vos	PROper			
+lacune	350	353	Cliges_A	Cliges_P	tant	tant	ADVgen			
+ajout	350	353	Cliges_A	Cliges_P				tant	tant	ADVgen
+lexicale	350	353	Cliges_A	Cliges_P	amez	amer1	VERcjg	ames	ame	NOMcom
+lexicale	357	360	Cliges_A	Cliges_P	veignant	veintre	VERppa	vegnant	venir	ADJqua
+pos_diff	358	361	Cliges_A	Cliges_P	Car	car	ADVgen	Car	car	CONcoo
+pos_diff	358	361	Cliges_A	Cliges_P	sanblez	sembler	VERppe	sanles	sembler	VERcjg
+lexicale	359	362	Cliges_A	Cliges_P	de	de	PRE	a	a3	PRE
+lexicale	361	364	Cliges_A	Cliges_P	est	estre1	VERcjg	ist	issir	VERcjg
+ajout	362	365	Cliges_A	Cliges_P				ma	mon1	DETpos
+lexicale	363	366	Cliges_A	Cliges_P	comant	comander	ADVint	comment	coment1	ADVint
+lacune	372	375	Cliges_A	Cliges_P	l'	le	DETdef			
+lexicale	372	375	Cliges_A	Cliges_P	en	en2	PROind	on	on	PROind
+lexicale	373	376	Cliges_A	Cliges_P	vaslet	vaslet	NOMcom	vassal	vassal	NOMcom
+lexicale	376	379	Cliges_A	Cliges_P	des	des2	PRE	des	de+le	PRE
+lexicale	377	380	Cliges_A	Cliges_P	mes	mon1	DETpos	moi	je	PROper
+lexicale	378	381	Cliges_A	Cliges_P	Qu'	que4	PROrel	K	qui	CONcoo
+lexicale	378	381	Cliges_A	Cliges_P	a	a3	PRE	a	avoir	PRE
+pos_diff	378	381	Cliges_A	Cliges_P	arivez	ariver1	VERppe	arives	ariver1	ADVgen

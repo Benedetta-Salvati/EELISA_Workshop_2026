@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="dante1_C">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>dante1 witness C</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>For teaching/demo purposes.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Derived from provided plain-text witness.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Dantes Aligerius, poeta noster Florentinus, aliquandiu sustentatus est Verone opibus Canis veteris principis de la Scala, admodum liberalis. Erat autem et alter penes Canem Florentinus, ignobilis, indoctus, imprudens, nulli rei preterquam ad iocum risumque aptus, cuius ineptie, ne dicam facetie, Canem perpulerant ad se ditandum. Cum illum, veluti beluam insulam, Dantes, vir doctissimus, sapiens ac modestus, ut equum erat, contemneret : « Quid est, inquit ille, quod cum tu habearis sapiens ac doctissimus, tamen pauper es et egenus, ego autem stultus et ignarus divitiis presto ? » Tum Dantes: « Quando ego reperiam dominum michi similem et meis moribus conformem, sicuti tu tuis, et ipse similiter me ditabit. » Gravis sapiensque responsio ! Semper ením domini eorum consuetudine qui sibi sunt similes delectantur.</p>
+    </body>
+  </text>
+</TEI>

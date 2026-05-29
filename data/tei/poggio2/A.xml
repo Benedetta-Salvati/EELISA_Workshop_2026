@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="poggio2_A">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>poggio2 witness A</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>For teaching/demo purposes.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Derived from provided plain-text witness.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Perambulantes aliquando urbem vir facetissimus omnium qui viverent Zucharus et ego pervenimus ad locum ubi celebrabantur nupcie postridie quam sponsa domum venerat stetimus paulum animi relaxandi gratia respicientes una psallentes viros ac mulieres tum subridens Zucharus isti inquit matrimonium consummaverunt ego autem patrimonium consumpsi facete in se ipsum dixit qui venditis paternis bonis patrimonium omne comedendo ludendoque consumpserat</p>
+    </body>
+  </text>
+</TEI>

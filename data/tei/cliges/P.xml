@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="dante2_B">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cligès witness P</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>For teaching/demo purposes.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Derived from provided plain-text witness.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <l>Cil qui fist d’Erec et d’Enide</l>
+            <l>Et les commandemens d’Ovide</l>
+            <l>Et l’Art d’Amors en rime mist</l>
+            <l>Et le mors de l’espaule fist</l>
+            <l>Du roi Marc et d’Yseut la Blonde</l>
+            <l>Et de la hupe et de l’aronde</l>
+            <l>Et del rossignol la muance</l>
+            <l>.j. novel conte recommence</l>
+            <l>D’un vallet qui en Gresse fu</l>
+            <l>Del lignage le roi Artu</l>
+            <l>Mais ains que de lui rien vos die</l>
+            <l>Ores de son pere la vie</l>
+            <l>Dont il fu et de quel lignage</l>
+            <l>Tant fu preus et de haut parage</l>
+            <l>Que por pris et por los conquerre</l>
+            <l>Ala de Gresse en Engleterre</l>
+            <l>Qui lors estoit Bretaigne dite</l>
+            <l>Ceste estoire trovons escrite</l>
+            <l>Que conter vos voel et retraire</l>
+            <l>En .j. des livres de l’armaire</l>
+            <l>Mon signor Saint Piere a Biauvais</l>
+            <l>De la fu li contes estrais</l>
+            <l>Dont cest romant fist Crestijens</l>
+            <l>Li livres est molt anciiens</l>
+            <l>Qui tesmoigne l’estoire a voire</l>
+            <l>De tant fait ele miex a croire</l>
+            <l>Par les livres que nos avons</l>
+            <l>Les fais des anciens savons</l>
+            <l>Et del siecle qui fu jadis</l>
+            <l>Or vos ert par cest livre apris</l>
+            <l>Que Gresse ot de chevalerie</l>
+            <l>Le premier los et de clergie</l>
+            <l>Puis vint chevalerie a Rome</l>
+            <l>Et de la clergie la some</l>
+            <l>Qui ore est en France venue</l>
+            <l>Diex doinst qu’ele i soit retenue</l>
+            <l>Et que li lius li abelisse</l>
+            <l>Tant que jamais de France n’isse</l>
+            <l>L’onor qui s’i est arestee</l>
+            <l>Diex l’avoit as Grigois donee</l>
+            <l>Mais de Grigois ne des Romains</l>
+            <l>Ne di ore ne plus ne mains</l>
+            <l>D’aus est la parole remese</l>
+            <l>Et estainte la vive brese</l>
+            <l>Crestijens commence son conte</l>
+            <l>Si com li livres nos raconte</l>
+            <l>Qu’il traite d’un empereor</l>
+            <l>Poissant de riquece et d’onor</l>
+            <l>Qui tint Gresse et Constantinoble</l>
+            <l>Empeerris i ot molt noble</l>
+            <l>Dont l’emperere ot .ij. enfans</l>
+            <l>Mais ains fu li premiers si grans</l>
+            <l>Que li autres naissence eust</l>
+            <l>Que li premiers se lui pleust</l>
+            <l>Peust chevaliers devenir</l>
+            <l>Et tot l’empire maintenir</l>
+            <l>Li premiers ot non Alixandres</l>
+            <l>Alis fu apeles li mandres</l>
+            <l>Alixandres ot non li pere</l>
+            <l>Et Tentalis ot non la mere</l>
+            <l>De l’empeerris Tentalis</l>
+            <l>De l’empereor et d’Alis</l>
+            <l>La parole atant laisserai</l>
+            <l>d’Alixandre vos parlerai</l>
+            <l>Qui tant fu orgilleus et fiers</l>
+            <l>Que il ne daigna chevaliers</l>
+            <l>Devenir en sa region</l>
+            <l>Oi ot faire mention</l>
+            <l>Del roi Artu qui lors regnoit</l>
+            <l>Et des barons que il tenoit</l>
+            <l>En sa compagnie tos jors</l>
+            <l>Park’estoit doutee sa cors</l>
+            <l>Et renomee par le monde</l>
+            <l>Comment que la fins li responde</l>
+            <l>Et comment que lui en aviegne</l>
+            <l>N’est rien nule qui l’en retiegne</l>
+            <l>K’aler ne s’en voelle en Bretaigne</l>
+            <l>Mais ains est drois que congie praigne</l>
+            <l>A son pere que il s’en aille</l>
+            <l>En Bretaigne n’en Cornuaille</l>
+            <l>Por congie prendre et demander</l>
+            <l>Vait a l’empereor parler</l>
+            <l>Alixandres li biaus li prous</l>
+            <l>Ja li dira quels est ses vous</l>
+            <l>Ne que il veut faire et emprendre</l>
+            <l>Biaus pere por honor aprendre</l>
+            <l>Et por conquerre et pris et los</l>
+            <l>.j. don fait il querre vos os</l>
+            <l>Que je voel que vos me doignies</l>
+            <l>Ne ja ne le me porloignies</l>
+            <l>Se otrijier le me deves</l>
+            <l>De cou ne cuide estre greves</l>
+            <l>L’empereres ne peu ne bien</l>
+            <l>L’onor son fil sor tote rien</l>
+            <l>Doit il voloir et covoitier</l>
+            <l>Molt cuideroit bien esploitier</l>
+            <l>Cuideroit et si feroit il</l>
+            <l>S’il acroissoit l’onor son fil</l>
+            <l>Biaus fix fait il je vos otroi</l>
+            <l>Vostre palisir et dites moi</l>
+            <l>Que vos voles que je vos doigne</l>
+            <l>Or a bien fait sa besoigne</l>
+            <l>Li valles et molt en est lies</l>
+            <l>Quant li dons li est otroies</l>
+            <l>Que il tant desire a avoir</l>
+            <l>Sire fait il voles savoir</l>
+            <l>Que vos m’aves acreante</l>
+            <l>Je voel avoir a grant plente</l>
+            <l>De vostre or et de vostre argent,</l>
+            <l>Et compaignons de vostre gent,</l>
+            <l>Teus com je les volrai eslire</l>
+            <l>Car issir voel de vostre empire</l>
+            <l>S’irai presenter mon service</l>
+            <l>Au roi qui Bretaigne justice</l>
+            <l>Proier que chevalier me face</l>
+            <l>Ja armee n’arai la face</l>
+            <l>Ne hiaume en cief jel vos plevis</l>
+            <l>A nul jor que je soie vis</l>
+            <l>Tant que li rois Artus me caingne</l>
+            <l>L’espee se faire le daingne</l>
+            <l>Ja d’autrui ne voel armes prendre</l>
+            <l>L’empereres sans plus atendre</l>
+            <l>Repsont biax fix por diu nel dites</l>
+            <l>Cis pais est vostre tos cuites</l>
+            <l>Et Constantinoble la riche</l>
+            <l>Ne me deves tenir a chiche</l>
+            <l>Quant si bel don vos voel doner</l>
+            <l>Par tans vos ferai coroner</l>
+            <l>Et chevaliers seres demain</l>
+            <l>Tote Gresse iert en vostre main</l>
+            <l>Et tos vos barons receves,</l>
+            <l>Si com recoivre les deves</l>
+            <l>Les sairemens et les homages</l>
+            <l>Qui cou refuse n’est pas sages</l>
+            <l>Li valles entent la promesse</l>
+            <l>Que lendemain apres la messe</l>
+            <l>Le voloit ses pere adouber</l>
+            <l>Si dist qu’il iert malvais u ber</l>
+            <l>En autre pais que el suen</l>
+            <l>Se vos voles faire mon buen</l>
+            <l>De cou que je vos ai requis</l>
+            <l>Dont me dones et vair et gris</l>
+            <l>Et bons chevaus et dras de soie</l>
+            <l>Car ancois que chevaliers soie</l>
+            <l>Volrai servir le roi Artu</l>
+            <l>N’ai pas encors li grant vertu</l>
+            <l>Que je peusse armes porter</l>
+            <l>Nus ne me porroit en orter</l>
+            <l>Par pormetre ne por losange</l>
+            <l>Que je n’en aille en terre estrange</l>
+            <l>Veir les rois et les barons</l>
+            <l>De cui est si grans li renons</l>
+            <l>De cortoisie et de proece</l>
+            <l>Maint haut home par lor perece</l>
+            <l>Pardent grant los que il porroient</l>
+            <l>Avoir se par le mont erroient</l>
+            <l>Ne s’acordent pas bien ensamble</l>
+            <l>Repost et los si com moi samble</l>
+            <l>Car de rien nule ne s’alose</l>
+            <l>Riches hom qui tos tans repose</l>
+            <l>Proece est fais a malvais home</l>
+            <l>Et as preus est malvaisties some</l>
+            <l>Ensi sont contraire et divers</l>
+            <l>Et cil est a son avoir sers</l>
+            <l>Qui tos jors l’amasse et acroist</l>
+            <l>Biaus peres tant com il me loist</l>
+            <l>Los aquerre se je tant vail</l>
+            <l>I voel metre paine et travail</l>
+            <l>De ceste cose toute voie</l>
+            <l>Ot l’empereres molt gran joie</l>
+            <l>Et pesance de l’autre part</l>
+            <l>Por cou que de lui se depart</l>
+            <l>Mais por l’otroi qu’il en a fait</l>
+            <l>Quel que pesance qu’il en ait</l>
+            <l>Li covient son boin consentir</l>
+            <l>K’empereres ne doit mentir</l>
+            <l>Biaus fix fait il laissier ne doi</l>
+            <l>Quant a honor penser vos voi</l>
+            <l>Que ne face vostre plaisir</l>
+            <l>En me tresors poes saisir</l>
+            <l>D’or et d’argent plaines .ij. barges</l>
+            <l>Mais gardes que vos soies larges</l>
+            <l>Et cortois et bien affaities</l>
+            <l>Or est li valles bien haities</l>
+            <l>Quant ses peres tant li promet</l>
+            <l>K’abandon son tresor li met</l>
+            <l>Et se li enorte et commande</l>
+            <l>Que largement doigne et espande</l>
+            <l>Et se li dist raison por coi</l>
+            <l>Biaus fix fait il entent a moi</l>
+            <l>Car Largece est dame et roine</l>
+            <l>Qui totes vertus enlumine</l>
+            <l>Ce n’est mie grief a prover</l>
+            <l>En quel liu porroit on trover</l>
+            <l>Home tant soit poissans ne riches</l>
+            <l>Ne soit blasmes quant il est ciches.</l>
+            <l>Tot bien sont a celui damace</l>
+            <l>Qui Largece loer ne face</l>
+            <l>Par li font preudome largece</l>
+            <l>Cou que ne puet faire Hautece</l>
+            <l>Ne Cortoisie ne Savoirs</l>
+            <l>Ne Gentillece ne Avoirs</l>
+            <l>Ne Force ne Chevalerie</l>
+            <l>Ne Hardimens ne Signorie</l>
+            <l>Ne li estuet mie autre cose</l>
+            <l>Mais autresi comme la rose</l>
+            <l>Est plus que nule autre flors bele</l>
+            <l>Quant ele naist fresce et novele</l>
+            <l>Ausi la u Largece vient</l>
+            <l>Desor totes vertus se tient</l>
+            <l>Et les bontes que ele trueve</l>
+            <l>En preudome quant bien se prueve</l>
+            <l>Fait a .v.c. doubles monter</l>
+            <l>Tant a en Largece aconter</l>
+            <l>Que n’en diroie la moitie</l>
+            <l>Bien a li valles esploitie</l>
+            <l>De quanqu’il a quis et rove</l>
+            <l>Que ses peres li a trove</l>
+            <l>Tot quanques li fu a creante</l>
+            <l>Lors fu l’empeerris dolante</l>
+            <l>Quant de la voie oi parler</l>
+            <l>U ses fix en devoit aler</l>
+            <l>Mais qui k’en ait duel et pesance</l>
+            <l>Ne que qui le tort a enfance</l>
+            <l>Ne qui qui le blasme et deslot</l>
+            <l>Li valles au plus tost qu’il pot</l>
+            <l>Commanda ses nes aprester</l>
+            <l>Car il n’i veut plus arester</l>
+            <l>K’aler ne veut hastivement</l>
+            <l>Les nes par son commandement</l>
+            <l>Furent cargier cele nuit</l>
+            <l>De pain de car et de bescuit</l>
+            <l>Les nes sont cargies au port</l>
+            <l>Et lendemain a grant deport</l>
+            <l>Vint Alixandres el sablon</l>
+            <l>Einsanle o lui si compaignon</l>
+            <l>Qui liet estoient de la voie</l>
+            <l>Et l’empereres les convoie</l>
+            <l>Et l’empeerris cui molt poise</l>
+            <l>Au port truevent les le faloise</l>
+            <l>Les maroniers dedens les nes</l>
+            <l>La mers fu paisiule et soes</l>
+            <l>Li vens dous et li airs serains</l>
+            <l>Alixandres tos premerains</l>
+            <l>Quant de son pere fu partis</l>
+            <l>Congie prent a l’empeerris</l>
+            <l>Qui dolant ot le cuer el ventre</l>
+            <l>Del batel en la nef s’en entre</l>
+            <l>Et si compaignon apres lui</l>
+            <l>I sont entre tot dui et dui</l>
+            <l>Quant furent ens sans atendue</l>
+            <l>Fu en haut li voile tendue</l>
+            <l>Et la barge desaancree</l>
+            <l>Cil de Gresse cui pas n’agree</l>
+            <l>Del vallet que aler en voient</l>
+            <l>Tant com il pueent le convoient</l>
+            <l>Daigne doner levent lor iex</l>
+            <l>Por cou qu’il les peussent miex</l>
+            <l>Et plus longement esgarder</l>
+            <l>Si s’en vont ensanle monter</l>
+            <l>Les la marine en .j. haut pui</l>
+            <l>D’illuec esgardent lor anui</l>
+            <l>Tant com il le pueent veoir</l>
+            <l>Lor anui esgardent por voir</l>
+            <l>Car del vallet molt lor anuie</l>
+            <l>Cui Damlediex a port conduie</l>
+            <l>Sans encombrier et sans peril</l>
+            <l>En la mer furent tot avril</l>
+            <l>Et une partie de mai</l>
+            <l>Sans grant peril et sans esmai</l>
+            <l>Vinrent au port desos Hanstone</l>
+            <l>.j. jor entre vespres et none</l>
+            <l>Jetent lor ancre port ont pris</l>
+            <l>Li vallet qui n’orent apris</l>
+            <l>A soffrir mesaise ne paine</l>
+            <l>En mer qui ne lor fu pas saine</l>
+            <l>Orent longement demore</l>
+            <l>Tant que trestout descoulore</l>
+            <l>Et afebli furent et vain</l>
+            <l>Tot li plus fort et li plus sain</l>
+            <l>Et ne porquant grant joie font</l>
+            <l>Quant de la mer escape sont</l>
+            <l>Et venu la u il voloient</l>
+            <l>Por cou que forment se doloient</l>
+            <l>Le soir a Hantone remainent</l>
+            <l>La nuit molt grant joie demainent</l>
+            <l>Et font demander et enquerre</l>
+            <l>Se li rois est en Engleterre</l>
+            <l>On lor dist qu’il est a Wincestre,</l>
+            <l>Et que molt tost i porront estre</l>
+            <l>S’il voelent movoir par matin</l>
+            <l>Mais qu’il tiegnent le droit cemin</l>
+            <l>Ceste novele molt lor plaist</l>
+            <l>L’endemain lues que li jors naist</l>
+            <l>Li vallet par matin s’esveillent</l>
+            <l>Si s’atornent et apareillent</l>
+            <l>Et quant il furent atorne</l>
+            <l>De Hantone s’en sont torne</l>
+            <l>Et ont le droit cemin tenu</l>
+            <l>Tant k’a Wincestre sont venu</l>
+            <l>U li rois estoit a sejor</l>
+            <l>Ancois qu’il fust tierce de jor</l>
+            <l>Furent a cort venu li Gre</l>
+            <l>A pie descendnet de lor gre</l>
+            <l>Li escuier et li cheval</l>
+            <l>Remesent en la cort aval</l>
+            <l>Et li vallet montent amont</l>
+            <l>Devant le millor roi del mont</l>
+            <l>Qui onques fust ne jamais soit</l>
+            <l>Et quant li rois venir les voit</l>
+            <l>Molt li plaisent et abelissent</l>
+            <l>Mais ains que devant lui venissent</l>
+            <l>Ostent lor mantiaus de lor cols</l>
+            <l>C’on ne les en tenist por fols</l>
+            <l>Ensi trestot desafule</l>
+            <l>S’en sont devant le roi ale</l>
+            <l>Et li baron trestot se taisent</l>
+            <l>Car li vallet forment lor plaisent</l>
+            <l>Por cou que biaus et gens les voient</l>
+            <l>Ne cuident pas que il ne soient</l>
+            <l>Tot de rois u de conte fil</l>
+            <l>Et por voir si estoient il</l>
+            <l>Et molt erent de bel eage</l>
+            <l>Gent et bien fait de lor corsage</l>
+            <l>Et les reubes que il avoient</l>
+            <l>D’un drap et d’une taille estoient</l>
+            <l>D’un sanlant et d’une color</l>
+            <l>.xij. furent sans lor signor</l>
+            <l>Dont je tant vos dirai sans plus</l>
+            <l>C’ainc miudres de lui ne fu nus</l>
+            <l>Mais sans orgoel et sans deroi</l>
+            <l>Desfules fu devant le roi</l>
+            <l>Et fu molt biaus et bien taillies</l>
+            <l>Devant lui s’est agenoillies</l>
+            <l>Et tot li autre por honor</l>
+            <l>S’agenoillent les lor signor</l>
+            <l>Alixandres le roi salue</l>
+            <l>Qui la langue avoit esmolue</l>
+            <l>A bien parler et sagemant</l>
+            <l>Rois fait il de vos ne demant</l>
+            <l>Renomee est qui vos renome</l>
+            <l>Des que Diex fist le premier home</l>
+            <l>Ne nasqui de vostre poissance</l>
+            <l>Qui en Diu eust sa creance</l>
+            <l>Rois li renons qui de vos court</l>
+            <l>M’a amene a vostre cort</l>
+            <l>Por servir et por honorer</l>
+            <l>Et si volrai tant demorer</l>
+            <l>Que chevalier serai noviax</l>
+            <l>Se mes services vos est biax</l>
+            <l>De vostre main non de l’autrui</l>
+            <l>Car se jou par vos ne le sui</l>
+            <l>Ne serai chevaliers clames</l>
+            <l>Se mon service tant ames</l>
+            <l>Que chevalier me voellies faire</l>
+            <l>Retenes moi rois deboinaire</l>
+            <l>Et mes compaignons qui ci sont</l>
+            <l>Li rois tot maintenant respont</l>
+            <l>Amis fait il ne refus mie</l>
+            <l>Ne vos ne vostre compaignie.</l>
+            <l>Mais bien vegnant soies vos tuit</l>
+            <l>Car bien sanles et jou le cuit</l>
+            <l>Que vos soies fil a haus homes</l>
+            <l>Dont estes vos de Gresse somes</l>
+            <l>De Gresse voire k’ist tes peres</l>
+            <l>Par ma foi sire l’empereres</l>
+            <l>Et comment as non biaus amis</l>
+            <l>Alixandres me fu nons mis</l>
+            <l>La u jou recuit sel et cresme</l>
+            <l>Et crestijente et baptesme</l>
+            <l>Alixandre biaus amis ciers</l>
+            <l>Je vos retieng molt volentiers</l>
+            <l>Et molt me plaist et molt me haite</l>
+            <l>Cat molt m’aves grant honor faite</l>
+            <l>Quant venus estes a ma cort</l>
+            <l>Molt voel que on vos i honort</l>
+            <l>Com franc vassal et sage et dous</l>
+            <l>Trop aves este a genous</l>
+            <l>Releves sus jel vos commant</l>
+            <l>Et soies des or en avant</l>
+            <l>De ma cort et de moi prives</l>
+            <l>K’a boin port estes arives</l>
+         </div>
+      </body>
+   </text>
+</TEI>
