@@ -10,6 +10,7 @@ dependencies:
   - ipywidgets
   - jupyterlab_widgets
   - lxml
+  - pandas
   - python-levenshtein
   - pip
   - pip:
