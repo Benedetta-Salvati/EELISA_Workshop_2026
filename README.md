@@ -2,7 +2,7 @@ This repository accompanies the **EELISA Digital Philology Workshop: Methods, To
 
 The repository is conceived as an interactive working environment intended to allow participants to explore progressively different stages of computational textual analysis, from text preparation to automatic collation, variant structuring and stemmatological analysis.
 
-The section devoted to automatic collation focuses on the formalization of philological data through XML-TEI, Python and CollateX. The notebooks illustrate how transcribed texts may be transformed into structured and computable data, automatically collated and reorganized into variant apparatuses suitable for further analysis. Particular attention is devoted to the methodological implications of formalization, segmentation and variant encoding within a computational framework.
+The section devoted to automatic collation focuses on the formalization of philological data through XML-TEI, Python, XSLT and CollateX. The notebooks illustrate how transcribed texts may be transformed into structured and computable data, automatically collated and reorganized into variant apparatuses suitable for further analysis. Particular attention is devoted to the methodological implications of formalization, segmentation and variant encoding within a computational framework.
 
 The stemmatological section introduces several approaches to computational stemmatology and genealogical analysis of textual variation. The scripts and notebooks provide practical examples of manuscript clustering, distance-based analysis and phylogenetic modelling applied to textual traditions.
 
